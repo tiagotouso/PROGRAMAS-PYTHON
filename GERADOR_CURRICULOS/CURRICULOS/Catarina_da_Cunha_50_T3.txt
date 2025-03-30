@@ -1,0 +1,66 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS Git/GitHub
+Paradigmas de Programação
+Metodologias Ágeis Kanban
+HTML
+Python
+Frameworks Django
+Cloud Computing
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Desenvolvedor Full Stack 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Docker/Kubernetes
+JavaScript
+Frameworks Flask
+DevOps
+Algoritmos e Estruturas de Dados
+SQL
+APIs REST
+Frameworks React
+HTML
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Catarina da Cunha 
+IDADE 
+50
+EMAIL 
+pgomes@example.org 
+CIDADE 
+Freitas do Sul
+ENDEREÇO 
+Morro Aragão, 96
+Monsenhor Messias
+14242-344 Macedo da Mata / RR
+ 
+HABILIDADES
+
+Responsável
+Liderança
+Resiliente
+Proativo
+Focado
+Trabalho em equipe
+Colaborativo
+Educado
+Empático
+Pontual
+Organizado
+Participativo
+Comunicativo
+Criativo
+Adaptável
+ 

@@ -1,0 +1,56 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ian Azevedo 
+IDADE 
+40
+EMAIL 
+camposbruna@example.com 
+CIDADE 
+Pereira
+ENDEREÇO 
+Trecho de da Mata, 20
+Primeiro De Maio
+26956-818 Fernandes das Flores / MS
+ 
+HABILIDADES
+
+Liderança
+Responsável
+Pontual
+Focado
+Colaborativo
+Adaptável
+Educado
+Criativo
+Organizado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Analista de Sistemas 
+CONHECIMENTOS Python
+Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+HTML
+DevOps
+JavaScript
+Testes Automatizados
+APIs REST
+Paradigmas de Programação
+Frameworks React
+Segurança da Informação
+Frameworks Flask
+Git/GitHub
+CSS
+SQL
+Docker/Kubernetes
+Cloud Computing
+Frameworks Django
+NoSQL
+

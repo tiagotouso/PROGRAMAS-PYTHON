@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Engenheiro de Software 
+CONHECIMENTOS HTML - DevOps - Algoritmos e Estruturas de Dados - Cloud Computing - SQL - Git/GitHub - Paradigmas de Programação - Testes Automatizados - JavaScript - Frameworks Flask - Segurança da Informação - Frameworks Django - APIs REST - Metodologias Ágeis Scrum - CSS - Python - Metodologias Ágeis Kanban - Frameworks React - Docker/Kubernetes - NoSQL
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Gestor de Relacionamento com Clientes 
+CONHECIMENTOS Metodologias Ágeis Kanban - Marketing e Vendas - Logística e Cadeia de Suprimentos - Liderança e Gestão de Equipes - Gestão Financeira - Direito Empresarial - Business Intelligence (BI) - Gestão da Qualidade - Compliance e Governança Corporativa - Gestão de Projetos - Planejamento Estratégico - Ética e Responsabilidade Corporativa - Negociação e Tomada de Decisão - Gestão de Pessoas - Inovação e Transformação Digital - Metodologias Ágeis Scrum - Empreendedorismo
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Sra. Maria Teixeira 
+IDADE: 45
+EMAIL: thiago39@example.org 
+CIDADE: Abreu do Sul
+ENDEREÇO: Condomínio Julia Pires, 53
+Alta Tensão 1ª Seção
+96808111 Rocha de Cassiano / GO
+ 
+HABILIDADES
+
+Criativo - Responsável - Resiliente - Participativo - Organizado - Proativo - Colaborativo - Comunicativo - Focado - Liderança - Adaptável
+ 

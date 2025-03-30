@@ -1,0 +1,96 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Thales Rios 
+IDADE 
+60
+EMAIL 
+benicio95@example.net 
+CIDADE 
+da Rosa
+ENDEREÇO 
+Núcleo Teixeira, 62
+Betânia
+99133-119 Marques / SE
+ 
+HABILIDADES
+
+Focado
+Trabalho em equipe
+Organizado
+Proativo
+Pontual
+Criativo
+Comunicativo
+Resiliente
+Participativo
+Liderança
+Empático
+Adaptável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS DevOps
+Python
+Metodologias Ágeis Kanban
+JavaScript
+HTML
+SQL
+Git/GitHub
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Delegado de Polícia 
+CONHECIMENTOS Direito Penal
+Código de Processo Civil
+Jurisprudência
+Gestão de Escritório de Advocacia
+Escrita Jurídica
+Direito Administrativo
+Atuação em Audiências
+Direito Trabalhista
+Ética e Deontologia Jurídica
+Direito Constitucional
+Direito Empresarial
+Negociação e Mediação
+Direito Civil
+Elaboração de Contratos
+Legislação Atualizada
+Direito Tributário
+Tecnologia e Direito Digital
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Analista Jurídico 
+CONHECIMENTOS Direito Administrativo
+Oratória e Argumentação Jurídica
+Direito Tributário
+Direito Civil
+Direito Penal
+Negociação e Mediação
+Código de Processo Civil
+Ética e Deontologia Jurídica
+Escrita Jurídica
+Atuação em Audiências
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Desenvolvedor Backend 
+CONHECIMENTOS CSS
+Docker/Kubernetes
+Testes Automatizados
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+Frameworks React
+SQL
+

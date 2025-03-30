@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Bryan Guerra 
+IDADE: 30
+EMAIL: melinamacedo@example.com 
+CIDADE: Moura
+ENDEREÇO: Fazenda de da Costa, 22
+Vila Paraíso
+67198-199 Camargo de Goiás / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - DevOps - SQL - NoSQL - Frameworks React - Metodologias Ágeis Kanban - HTML - Cloud Computing - Testes Automatizados
+
+ 
+HABILIDADES
+
+Adaptável - Comunicativo - Trabalho em equipe - Educado - Pontual

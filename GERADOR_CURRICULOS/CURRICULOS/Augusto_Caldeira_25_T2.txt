@@ -1,0 +1,63 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Augusto Caldeira 
+IDADE 
+25
+EMAIL 
+ana-juliada-luz@example.net 
+CIDADE 
+Cavalcanti
+ENDEREÇO 
+Quadra Gomes, 9
+Flavio De Oliveira
+31314-466 Monteiro / SE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS DevOps
+Frameworks Flask
+Python
+CSS
+Git/GitHub
+Metodologias Ágeis Scrum
+Segurança da Informação
+APIs REST
+Frameworks Django
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Promotor de Justiça 
+CONHECIMENTOS Direito Empresarial
+Direito Ambiental
+Direito Civil
+Jurisprudência
+Gestão de Escritório de Advocacia
+Tecnologia e Direito Digital
+Legislação Atualizada
+Direito Trabalhista
+
+ 
+HABILIDADES
+
+Educado
+Responsável
+Resiliente
+Colaborativo
+Focado
+Organizado
+Adaptável
+Comunicativo
+Empático
+Trabalho em equipe
+Liderança
+Pontual
+Criativo

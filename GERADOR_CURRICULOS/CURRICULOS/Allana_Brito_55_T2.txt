@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Allana Brito 
+IDADE: 55
+EMAIL: theo96@example.org 
+CIDADE: Lima de Goiás
+ENDEREÇO: Estação Pimenta, 80
+Ermelinda
+66048209 Oliveira do Sul / AC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Consultor de TI 
+CONHECIMENTOS Frameworks Django - Git/GitHub - APIs REST - Frameworks React - Frameworks Flask
+
+ 
+HABILIDADES
+
+Colaborativo - Participativo - Liderança - Responsável - Empático - Adaptável

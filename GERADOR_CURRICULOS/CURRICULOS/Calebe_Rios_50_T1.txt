@@ -1,0 +1,59 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Calebe Rios 
+IDADE 
+50
+EMAIL 
+jsousa@example.com 
+CIDADE 
+Rios da Prata
+ENDEREÇO 
+Largo Benjamin Borges, 9
+Santa Rosa
+12692590 Casa Grande / RS
+ 
+HABILIDADES
+
+Organizado
+Adaptável
+Colaborativo
+Liderança
+Resiliente
+Focado
+Comunicativo
+Educado
+Pontual
+Participativo
+Proativo
+Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Product Manager (PM) 
+CONHECIMENTOS Metodologias Ágeis Scrum
+JavaScript
+Testes Automatizados
+NoSQL
+Cloud Computing
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Recepcionista 
+CONHECIMENTOS Ética e Responsabilidade Corporativa
+Gestão Financeira
+Marketing e Vendas
+Customer Success e Experiência do Cliente
+Direito Empresarial
+Contabilidade Empresarial
+Negociação e Tomada de Decisão
+Análise de Dados e Indicadores
+Metodologias Ágeis Kanban
+

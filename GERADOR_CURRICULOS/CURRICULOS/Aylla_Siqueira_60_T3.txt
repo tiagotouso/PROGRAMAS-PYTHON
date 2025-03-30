@@ -1,0 +1,49 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+Frameworks Flask
+Paradigmas de Programação
+JavaScript
+DevOps
+SQL
+APIs REST
+CSS
+Frameworks Django
+HTML
+Testes Automatizados
+Python
+Frameworks React
+Metodologias Ágeis Kanban
+Git/GitHub
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Aylla Siqueira 
+IDADE 
+60
+EMAIL 
+estherpeixoto@example.com 
+CIDADE 
+da Mota da Serra
+ENDEREÇO 
+Rua Mariane Freitas, 3
+Vila Bandeirantes
+82657637 Caldeira do Norte / MA
+ 
+HABILIDADES
+
+Empático
+Pontual
+Colaborativo
+Focado
+Proativo
+ 

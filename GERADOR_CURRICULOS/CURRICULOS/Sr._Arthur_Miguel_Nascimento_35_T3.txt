@@ -1,0 +1,79 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS NoSQL
+DevOps
+Metodologias Ágeis Scrum
+Python
+Frameworks Django
+Paradigmas de Programação
+SQL
+Algoritmos e Estruturas de Dados
+CSS
+Cloud Computing
+Metodologias Ágeis Kanban
+HTML
+Segurança da Informação
+JavaScript
+Git/GitHub
+Frameworks React
+Frameworks Flask
+APIs REST
+Docker/Kubernetes
+Testes Automatizados
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Assistente de Escritório 
+CONHECIMENTOS Negociação e Tomada de Decisão
+Compliance e Governança Corporativa
+Direito Empresarial
+Ética e Responsabilidade Corporativa
+Liderança e Gestão de Equipes
+Gestão da Qualidade
+Gestão de Pessoas
+Contabilidade Empresarial
+Gestão Financeira
+Metodologias Ágeis Kanban
+Administração Pública
+Planejamento Estratégico
+Inovação e Transformação Digital
+Business Intelligence (BI)
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sr. Arthur Miguel Nascimento 
+IDADE 
+35
+EMAIL 
+theo69@example.net 
+CIDADE 
+das Neves
+ENDEREÇO 
+Área Lorenzo da Rocha, 3
+Primeiro De Maio
+11836954 Lima do Oeste / PB
+ 
+HABILIDADES
+
+Participativo
+Educado
+Trabalho em equipe
+Organizado
+Empático
+Liderança
+Focado
+Comunicativo
+Colaborativo
+Pontual
+Adaptável
+ 

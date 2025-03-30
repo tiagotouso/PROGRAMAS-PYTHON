@@ -1,0 +1,74 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista Financeiro 
+CONHECIMENTOS Gestão Financeira
+Ética e Responsabilidade Corporativa
+Liderança e Gestão de Equipes
+Logística e Cadeia de Suprimentos
+Negociação e Tomada de Decisão
+Direito Empresarial
+Planejamento Estratégico
+Customer Success e Experiência do Cliente
+Marketing e Vendas
+Gestão de Pessoas
+Gestão de Projetos
+Empreendedorismo
+Business Intelligence (BI)
+
+TEMPO DE SERVIÇO: 
+26 anos 
+CARGO 
+Analista de Dados 
+CONHECIMENTOS Paradigmas de Programação
+Frameworks Flask
+Git/GitHub
+NoSQL
+CSS
+Frameworks Django
+Segurança da Informação
+Algoritmos e Estruturas de Dados
+Python
+Cloud Computing
+DevOps
+SQL
+Frameworks React
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Gabriel Melo 
+IDADE 
+55
+EMAIL 
+castromaria-fernanda@example.com 
+CIDADE 
+Rezende
+ENDEREÇO 
+Pátio Felipe Cirino, 4
+Boa Viagem
+77158948 Fogaça dos Dourados / PB
+ 
+HABILIDADES
+
+Focado
+Educado
+Trabalho em equipe
+Empático
+Adaptável
+Resiliente
+Responsável
+Liderança
+Criativo
+Organizado
+Colaborativo
+Pontual
+Participativo
+Comunicativo
+ 

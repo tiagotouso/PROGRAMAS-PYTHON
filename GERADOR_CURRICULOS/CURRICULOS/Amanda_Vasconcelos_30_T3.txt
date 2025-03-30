@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS Paradigmas de Programação - Frameworks Django - Segurança da Informação - SQL - Metodologias Ágeis Kanban - NoSQL - Python - Metodologias Ágeis Scrum - DevOps - Testes Automatizados - Frameworks Flask - Git/GitHub - Algoritmos e Estruturas de Dados - Cloud Computing - Frameworks React - Docker/Kubernetes - APIs REST - HTML - JavaScript - CSS
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Amanda Vasconcelos 
+IDADE: 30
+EMAIL: luizacastro@example.org 
+CIDADE: Fogaça
+ENDEREÇO: Distrito Novaes, 70
+Dom Silverio
+24318-805 Cardoso / SC
+ 
+HABILIDADES
+
+Organizado - Criativo - Responsável - Educado - Focado - Adaptável - Colaborativo - Participativo - Trabalho em equipe - Pontual - Comunicativo
+ 

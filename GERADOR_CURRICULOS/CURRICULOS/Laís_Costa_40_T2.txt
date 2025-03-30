@@ -1,0 +1,58 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Laís Costa 
+IDADE 
+40
+EMAIL 
+stephany53@example.org 
+CIDADE 
+Alves de Minas
+ENDEREÇO 
+Lago Alana Gomes, 7
+Barroca
+85101-832 Abreu / TO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista de Segurança da Informação 
+CONHECIMENTOS DevOps
+Frameworks Flask
+SQL
+Python
+Metodologias Ágeis Scrum
+JavaScript
+APIs REST
+Metodologias Ágeis Kanban
+Testes Automatizados
+Paradigmas de Programação
+HTML
+Cloud Computing
+Algoritmos e Estruturas de Dados
+Frameworks React
+Segurança da Informação
+Frameworks Django
+Docker/Kubernetes
+
+ 
+HABILIDADES
+
+Comunicativo
+Criativo
+Resiliente
+Educado
+Empático
+Responsável
+Participativo
+Adaptável
+Trabalho em equipe
+Focado
+Proativo
+Colaborativo
+Pontual

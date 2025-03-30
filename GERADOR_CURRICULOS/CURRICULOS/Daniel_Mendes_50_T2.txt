@@ -1,0 +1,51 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Daniel Mendes 
+IDADE 
+50
+EMAIL 
+arthurcastro@example.com 
+CIDADE 
+Rezende do Sul
+ENDEREÇO 
+Viaduto Luiz Felipe Sá, 25
+Nossa Senhora De Fátima
+65206445 Casa Grande / MG
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Analista de Suporte Técnico 
+CONHECIMENTOS SQL
+Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+Metodologias Ágeis Kanban
+Python
+Cloud Computing
+Git/GitHub
+Docker/Kubernetes
+Frameworks Django
+
+ 
+HABILIDADES
+
+Educado
+Colaborativo
+Proativo
+Empático
+Criativo
+Organizado
+Adaptável
+Comunicativo
+Trabalho em equipe
+Participativo
+Pontual
+Responsável
+Resiliente
+Focado

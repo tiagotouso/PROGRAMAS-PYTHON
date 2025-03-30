@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Vitória da Cunha 
+IDADE: 30
+EMAIL: ana-clara82@example.net 
+CIDADE: Melo da Prata
+ENDEREÇO: Residencial de Campos, 56
+São João
+60284-069 Gonçalves / RR
+ 
+HABILIDADES
+
+Participativo - Criativo - Organizado - Pontual - Focado - Comunicativo - Adaptável - Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS SQL - Metodologias Ágeis Kanban - Paradigmas de Programação - DevOps - Algoritmos e Estruturas de Dados - Frameworks Django - Metodologias Ágeis Scrum - HTML - NoSQL - Cloud Computing - Segurança da Informação - Git/GitHub - Docker/Kubernetes - Frameworks Flask
+

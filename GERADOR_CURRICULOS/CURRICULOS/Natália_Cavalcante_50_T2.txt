@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Natália Cavalcante 
+IDADE: 50
+EMAIL: asafecardoso@example.org 
+CIDADE: Moraes
+ENDEREÇO: Colônia de Silva, 5
+Parque São Pedro
+23588383 da Conceição das Flores / MA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Advogado Tributarista 
+CONHECIMENTOS Elaboração de Contratos - Negociação e Mediação - Código de Processo Civil - Código de Processo Penal - Ética e Deontologia Jurídica - Oratória e Argumentação Jurídica - Direito Trabalhista - Escrita Jurídica - Direito Tributário - Jurisprudência
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Analista de Business Intelligence (BI) 
+CONHECIMENTOS Metodologias Ágeis Kanban - Testes Automatizados - Cloud Computing - CSS - Frameworks Flask - SQL - Python - Frameworks Django - Segurança da Informação - NoSQL - JavaScript - Paradigmas de Programação - Frameworks React - Git/GitHub - DevOps - Algoritmos e Estruturas de Dados - APIs REST - Docker/Kubernetes - HTML - Metodologias Ágeis Scrum
+
+ 
+HABILIDADES
+
+Resiliente - Trabalho em equipe - Empático - Proativo - Adaptável - Participativo - Pontual - Educado

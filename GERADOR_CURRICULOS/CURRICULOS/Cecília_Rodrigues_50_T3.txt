@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS Segurança da Informação - NoSQL - SQL - Git/GitHub - Algoritmos e Estruturas de Dados - JavaScript - Paradigmas de Programação - Python - DevOps - Testes Automatizados - CSS - Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS Frameworks React - Algoritmos e Estruturas de Dados - HTML - DevOps - Paradigmas de Programação - Segurança da Informação - NoSQL - JavaScript - Metodologias Ágeis Kanban - Python - Metodologias Ágeis Scrum - Frameworks Django - Cloud Computing - SQL - Frameworks Flask - Testes Automatizados - Git/GitHub
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Cecília Rodrigues 
+IDADE: 50
+EMAIL: vcassiano@example.net 
+CIDADE: Costa do Norte
+ENDEREÇO: Condomínio de Pastor, 29
+Vila Nova
+00408-754 Azevedo / SE
+ 
+HABILIDADES
+
+Participativo - Comunicativo - Trabalho em equipe - Resiliente - Empático - Liderança - Pontual - Focado - Responsável - Proativo - Organizado - Criativo - Educado
+ 

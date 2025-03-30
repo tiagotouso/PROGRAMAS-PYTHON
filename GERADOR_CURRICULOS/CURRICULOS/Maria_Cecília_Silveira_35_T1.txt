@@ -1,0 +1,59 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Cecília Silveira 
+IDADE 
+35
+EMAIL 
+melomaria@example.com 
+CIDADE 
+Novais dos Dourados
+ENDEREÇO 
+Distrito Henry da Costa, 37
+Bairro Das Indústrias Ii
+74139-312 Moura Verde / RR
+ 
+HABILIDADES
+
+Proativo
+Liderança
+Organizado
+Focado
+Responsável
+Comunicativo
+Participativo
+Criativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+DevOps Engineer 
+CONHECIMENTOS Segurança da Informação
+NoSQL
+Metodologias Ágeis Scrum
+HTML
+DevOps
+APIs REST
+CSS
+Frameworks Flask
+Cloud Computing
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Delegado de Polícia 
+CONHECIMENTOS Direito Empresarial
+Atuação em Audiências
+Código de Processo Civil
+Ética e Deontologia Jurídica
+Código de Processo Penal
+Legislação Atualizada
+Elaboração de Contratos
+Direito Tributário
+Direito Ambiental
+

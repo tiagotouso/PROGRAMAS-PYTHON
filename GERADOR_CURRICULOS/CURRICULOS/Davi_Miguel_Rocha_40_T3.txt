@@ -1,0 +1,79 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Business Intelligence (BI) 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Segurança da Informação
+CSS
+NoSQL
+Frameworks Flask
+Testes Automatizados
+Frameworks React
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Advogado Criminalista 
+CONHECIMENTOS Tecnologia e Direito Digital
+Atuação em Audiências
+Direito Constitucional
+Negociação e Mediação
+Direito Penal
+Código de Processo Civil
+Direito Tributário
+Direito Trabalhista
+Direito Civil
+Direito Administrativo
+Ética e Deontologia Jurídica
+Direito Ambiental
+Elaboração de Contratos
+Oratória e Argumentação Jurídica
+Código de Processo Penal
+Gestão de Escritório de Advocacia
+Jurisprudência
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista Financeiro 
+CONHECIMENTOS Gestão de Projetos
+Business Intelligence (BI)
+Compliance e Governança Corporativa
+Ética e Responsabilidade Corporativa
+Logística e Cadeia de Suprimentos
+Empreendedorismo
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Davi Miguel Rocha 
+IDADE 
+40
+EMAIL 
+barrosmurilo@example.net 
+CIDADE 
+Carvalho
+ENDEREÇO 
+Conjunto Viana
+São Salvador
+82405-234 da Cruz / TO
+ 
+HABILIDADES
+
+Trabalho em equipe
+Educado
+Pontual
+Comunicativo
+Adaptável
+Empático
+Proativo
+Responsável
+Organizado
+Participativo
+ 

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Hellena Pinto 
+IDADE: 25
+EMAIL: heloisarios@example.net 
+CIDADE: Caldeira
+ENDEREÇO: Alameda Isabel Nunes, 72
+Pompéia
+01765-271 Costa de Silva / SE
+ 
+HABILIDADES
+
+Pontual - Comunicativo - Criativo - Empático - Colaborativo - Resiliente - Proativo - Trabalho em equipe - Adaptável - Responsável - Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Business Intelligence (BI) 
+CONHECIMENTOS Metodologias Ágeis Kanban - Testes Automatizados - Python - Metodologias Ágeis Scrum - HTML - DevOps - SQL - Frameworks Flask - APIs REST - Segurança da Informação
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista Administrativo 
+CONHECIMENTOS Negociação e Tomada de Decisão - Business Intelligence (BI) - Análise de Dados e Indicadores - Administração Pública - Ética e Responsabilidade Corporativa - Liderança e Gestão de Equipes - Direito Empresarial - Customer Success e Experiência do Cliente - Compliance e Governança Corporativa - Marketing e Vendas - Logística e Cadeia de Suprimentos - Metodologias Ágeis Kanban - Gestão de Projetos - Planejamento Estratégico - Inovação e Transformação Digital - Empreendedorismo - Gestão da Qualidade - Gestão Financeira
+

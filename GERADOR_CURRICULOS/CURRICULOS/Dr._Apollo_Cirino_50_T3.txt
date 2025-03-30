@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Engenheiro de Machine Learning 
+CONHECIMENTOS Testes Automatizados - NoSQL - Git/GitHub - JavaScript - Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban - Segurança da Informação - Metodologias Ágeis Scrum - Frameworks Flask - DevOps - Paradigmas de Programação - Docker/Kubernetes - Python - Frameworks React
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Escrivão 
+CONHECIMENTOS Direito Civil - Código de Processo Civil - Escrita Jurídica - Atuação em Audiências - Legislação Atualizada - Direito Empresarial - Direito Constitucional
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Apollo Cirino 
+IDADE: 50
+EMAIL: anthony-gabrielcosta@example.org 
+CIDADE: Araújo
+ENDEREÇO: Via de Cardoso, 46
+Santo Agostinho
+92759964 Montenegro das Flores / AM
+ 
+HABILIDADES
+
+Organizado - Educado - Trabalho em equipe - Liderança - Resiliente - Participativo - Pontual - Criativo - Comunicativo - Proativo - Focado - Empático - Adaptável
+ 

@@ -1,0 +1,55 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+João Guilherme Mendes 
+IDADE 
+55
+EMAIL 
+da-mataisis@example.com 
+CIDADE 
+da Luz da Prata
+ENDEREÇO 
+Campo Isabella Sampaio, 1
+Ambrosina
+36758-698 Guerra / AL
+ 
+HABILIDADES
+
+Criativo
+Trabalho em equipe
+Colaborativo
+Pontual
+Resiliente
+Liderança
+Comunicativo
+Responsável
+Organizado
+Adaptável
+Educado
+Empático
+Participativo
+Focado
+Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Site Reliability Engineer (SRE) 
+CONHECIMENTOS HTML
+CSS
+APIs REST
+Metodologias Ágeis Scrum
+JavaScript
+Cloud Computing
+DevOps
+Git/GitHub
+Frameworks Django
+Python
+Testes Automatizados
+Frameworks React
+

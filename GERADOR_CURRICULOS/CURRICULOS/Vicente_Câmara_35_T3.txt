@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS Testes Automatizados - Algoritmos e Estruturas de Dados - Frameworks Flask - Segurança da Informação - HTML - SQL - Frameworks Django - CSS - Git/GitHub - JavaScript
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Vicente Câmara 
+IDADE: 35
+EMAIL: isabellynovaes@example.net 
+CIDADE: Casa Grande do Sul
+ENDEREÇO: Loteamento de Ferreira
+Conjunto Novo Dom Bosco
+03001-579 Pacheco / PE
+ 
+HABILIDADES
+
+Participativo - Trabalho em equipe - Proativo - Liderança - Adaptável - Responsável - Colaborativo - Comunicativo - Pontual - Empático - Organizado - Resiliente - Criativo
+ 

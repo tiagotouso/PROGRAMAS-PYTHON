@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Assistente de Escritório 
+CONHECIMENTOS Ética e Responsabilidade Corporativa - Marketing e Vendas - Negociação e Tomada de Decisão - Customer Success e Experiência do Cliente - Planejamento Estratégico - Business Intelligence (BI) - Compliance e Governança Corporativa - Logística e Cadeia de Suprimentos - Gestão de Projetos - Gestão da Qualidade - Administração Pública
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Analista de Logística 
+CONHECIMENTOS Análise de Dados e Indicadores - Administração Pública - Ética e Responsabilidade Corporativa - Gestão da Qualidade - Compliance e Governança Corporativa - Empreendedorismo - Inovação e Transformação Digital - Contabilidade Empresarial - Business Intelligence (BI) - Liderança e Gestão de Equipes - Gestão Financeira
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Engenheiro de Machine Learning 
+CONHECIMENTOS Testes Automatizados - Metodologias Ágeis Scrum - Paradigmas de Programação - HTML - APIs REST - Python - Segurança da Informação - SQL - Docker/Kubernetes - CSS - Git/GitHub - Frameworks Django
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Bento Nunes 
+IDADE: 60
+EMAIL: xcaldeira@example.org 
+CIDADE: Nunes
+ENDEREÇO: Fazenda Moraes, 7
+Vila Inestan
+07473-745 da Conceição do Galho / PE
+ 
+HABILIDADES
+
+Adaptável - Participativo - Liderança - Comunicativo - Organizado - Trabalho em equipe - Educado - Pontual - Criativo
+ 

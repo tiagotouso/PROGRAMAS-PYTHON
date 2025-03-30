@@ -1,0 +1,48 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Laura Vargas 
+IDADE 
+30
+EMAIL 
+da-motaana@example.org 
+CIDADE 
+Rodrigues
+ENDEREÇO 
+Fazenda de Vargas, 93
+Vila Mantiqueira
+25501-738 Viana das Pedras / GO
+ 
+HABILIDADES
+
+Focado
+Pontual
+Educado
+Organizado
+Trabalho em equipe
+Adaptável
+Resiliente
+Criativo
+Empático
+Participativo
+Comunicativo
+Colaborativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS Python
+Frameworks Django
+Metodologias Ágeis Scrum
+Algoritmos e Estruturas de Dados
+Testes Automatizados
+Cloud Computing
+Docker/Kubernetes
+NoSQL
+

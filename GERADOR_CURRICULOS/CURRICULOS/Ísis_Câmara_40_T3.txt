@@ -1,0 +1,62 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Product Manager (PM) 
+CONHECIMENTOS Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+SQL
+Python
+Frameworks Flask
+JavaScript
+Segurança da Informação
+Frameworks React
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+HTML
+CSS
+Cloud Computing
+Git/GitHub
+APIs REST
+NoSQL
+DevOps
+Frameworks Django
+Metodologias Ágeis Kanban
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ísis Câmara 
+IDADE 
+40
+EMAIL 
+jaragao@example.com 
+CIDADE 
+Novaes
+ENDEREÇO 
+Área Pedro Henrique Guerra, 56
+Vila Puc
+57412-884 Fogaça / GO
+ 
+HABILIDADES
+
+Trabalho em equipe
+Resiliente
+Participativo
+Empático
+Comunicativo
+Pontual
+Colaborativo
+Focado
+Criativo
+Proativo
+Educado
+Adaptável
+Responsável
+Organizado
+ 

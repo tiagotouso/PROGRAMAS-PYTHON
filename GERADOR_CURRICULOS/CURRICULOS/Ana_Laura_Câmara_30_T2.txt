@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Ana Laura Câmara 
+IDADE: 30
+EMAIL: da-cunhaotto@example.net 
+CIDADE: Souza
+ENDEREÇO: Via de Vasconcelos, 77
+Vila Paraíso
+05325-454 Ribeiro Verde / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Sistemas 
+CONHECIMENTOS DevOps - JavaScript - Docker/Kubernetes - Frameworks Flask - Metodologias Ágeis Kanban - APIs REST - CSS - NoSQL - HTML - Segurança da Informação - SQL - Paradigmas de Programação - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Advogado Digital 
+CONHECIMENTOS Ética e Deontologia Jurídica - Atuação em Audiências - Escrita Jurídica - Direito Administrativo - Código de Processo Penal - Tecnologia e Direito Digital - Oratória e Argumentação Jurídica - Direito Ambiental - Gestão de Escritório de Advocacia - Direito Penal - Jurisprudência - Elaboração de Contratos - Direito Civil - Código de Processo Civil - Legislação Atualizada - Direito Tributário - Direito Constitucional - Negociação e Mediação
+
+ 
+HABILIDADES
+
+Proativo - Liderança - Comunicativo - Focado - Educado - Pontual - Criativo - Responsável - Trabalho em equipe - Resiliente - Empático - Colaborativo - Organizado - Participativo

@@ -1,0 +1,61 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS Git/GitHub
+Frameworks Django
+DevOps
+Segurança da Informação
+Frameworks React
+Frameworks Flask
+Metodologias Ágeis Scrum
+Cloud Computing
+JavaScript
+NoSQL
+SQL
+CSS
+Python
+HTML
+Testes Automatizados
+APIs REST
+Algoritmos e Estruturas de Dados
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Juliana da Paz 
+IDADE 
+35
+EMAIL 
+julia61@example.net 
+CIDADE 
+Carvalho
+ENDEREÇO 
+Feira Gomes, 358
+Novo Santa Cecilia
+36725-071 Sales / PA
+ 
+HABILIDADES
+
+Liderança
+Educado
+Empático
+Organizado
+Colaborativo
+Proativo
+Responsável
+Participativo
+Resiliente
+Criativo
+Pontual
+Adaptável
+Trabalho em equipe
+Focado
+Comunicativo
+ 

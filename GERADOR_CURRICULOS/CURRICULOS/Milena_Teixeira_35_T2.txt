@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Milena Teixeira 
+IDADE: 35
+EMAIL: yrodrigues@example.com 
+CIDADE: Lima
+ENDEREÇO: Setor da Luz
+Liberdade
+36740-876 Ribeiro / AL
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS Frameworks Flask - Metodologias Ágeis Kanban - Cloud Computing - APIs REST - Git/GitHub - Segurança da Informação - Docker/Kubernetes - HTML - SQL - Frameworks Django - CSS - Frameworks React - Paradigmas de Programação - Testes Automatizados
+
+ 
+HABILIDADES
+
+Empático - Pontual - Focado - Responsável - Colaborativo - Proativo - Participativo - Criativo - Comunicativo - Educado - Resiliente - Organizado - Liderança

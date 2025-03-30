@@ -1,0 +1,60 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Samuel Viana 
+IDADE 
+50
+EMAIL 
+clarice40@example.net 
+CIDADE 
+Leão de Barros
+ENDEREÇO 
+Praia de Dias, 42
+Vila Piratininga
+09114-769 Barros de Costela / RJ
+ 
+HABILIDADES
+
+Adaptável
+Organizado
+Participativo
+Educado
+Colaborativo
+Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Assistente de Escritório 
+CONHECIMENTOS Business Intelligence (BI)
+Compliance e Governança Corporativa
+Gestão da Qualidade
+Gestão de Projetos
+Metodologias Ágeis Kanban
+Análise de Dados e Indicadores
+Planejamento Estratégico
+Direito Empresarial
+Administração Pública
+Metodologias Ágeis Scrum
+Inovação e Transformação Digital
+Logística e Cadeia de Suprimentos
+Gestão de Pessoas
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+DevOps Engineer 
+CONHECIMENTOS NoSQL
+Docker/Kubernetes
+Segurança da Informação
+Frameworks Flask
+Algoritmos e Estruturas de Dados
+HTML
+SQL
+Git/GitHub
+

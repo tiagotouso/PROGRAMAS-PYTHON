@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Fernanda Campos 
+IDADE: 60
+EMAIL: marcelo13@example.net 
+CIDADE: Siqueira do Amparo
+ENDEREÇO: Praça de Cavalcanti, 552
+Pilar
+54061-771 Ramos / DF
+ 
+HABILIDADES
+
+Pontual - Adaptável - Criativo - Responsável - Organizado - Liderança - Focado - Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Frameworks React - Docker/Kubernetes - Python - Cloud Computing - NoSQL - HTML - Segurança da Informação - Git/GitHub - JavaScript - Testes Automatizados
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Compliance Officer 
+CONHECIMENTOS Direito Empresarial - Direito Tributário - Atuação em Audiências - Ética e Deontologia Jurídica - Tecnologia e Direito Digital - Código de Processo Penal - Direito Trabalhista - Direito Ambiental - Jurisprudência - Negociação e Mediação - Direito Penal - Direito Civil
+

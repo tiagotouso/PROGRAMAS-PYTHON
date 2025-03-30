@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Davi Miguel Pastor 
+IDADE: 25
+EMAIL: rochabenjamim@example.com 
+CIDADE: Moura
+ENDEREÇO: Rua Costa, 5
+Alto Dos Pinheiros
+91255-241 Montenegro de Silva / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS DevOps - Paradigmas de Programação - NoSQL - SQL - HTML - Algoritmos e Estruturas de Dados - Frameworks React - Frameworks Flask - Metodologias Ágeis Kanban - Cloud Computing
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista Financeiro 
+CONHECIMENTOS Business Intelligence (BI) - Gestão de Pessoas - Compliance e Governança Corporativa - Inovação e Transformação Digital - Direito Empresarial - Customer Success e Experiência do Cliente - Metodologias Ágeis Scrum - Marketing e Vendas - Ética e Responsabilidade Corporativa - Metodologias Ágeis Kanban - Logística e Cadeia de Suprimentos - Análise de Dados e Indicadores - Gestão Financeira - Liderança e Gestão de Equipes - Gestão da Qualidade - Administração Pública - Contabilidade Empresarial - Planejamento Estratégico
+
+ 
+HABILIDADES
+
+Educado - Adaptável - Proativo - Resiliente - Pontual - Organizado - Focado

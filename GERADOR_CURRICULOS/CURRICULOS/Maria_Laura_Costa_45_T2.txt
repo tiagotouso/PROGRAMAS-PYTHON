@@ -1,0 +1,69 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Laura Costa 
+IDADE 
+45
+EMAIL 
+caroline62@example.org 
+CIDADE 
+Barros das Flores
+ENDEREÇO 
+Rua Marques, 691
+Vila Sesc
+15110-430 Cunha / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Desenvolvedor Full Stack 
+CONHECIMENTOS APIs REST
+DevOps
+Git/GitHub
+Frameworks Django
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+Frameworks Flask
+CSS
+SQL
+Python
+NoSQL
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS Frameworks Flask
+SQL
+Frameworks React
+Metodologias Ágeis Scrum
+Python
+Docker/Kubernetes
+JavaScript
+Segurança da Informação
+Git/GitHub
+Metodologias Ágeis Kanban
+HTML
+CSS
+Frameworks Django
+DevOps
+
+ 
+HABILIDADES
+
+Adaptável
+Organizado
+Empático
+Pontual
+Comunicativo
+Focado
+Educado
+Proativo
+Colaborativo
+Resiliente
+Responsável

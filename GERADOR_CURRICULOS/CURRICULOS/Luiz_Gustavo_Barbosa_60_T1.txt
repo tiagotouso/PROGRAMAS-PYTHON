@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Luiz Gustavo Barbosa 
+IDADE: 60
+EMAIL: abreupedro-lucas@example.com 
+CIDADE: Mendonça do Galho
+ENDEREÇO: Vereda Costa, 41
+Bandeirantes
+56490-645 Martins / PA
+ 
+HABILIDADES
+
+Criativo - Participativo - Focado - Liderança - Proativo - Empático - Comunicativo - Resiliente - Organizado - Educado - Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Especialista em Cibersegurança 
+CONHECIMENTOS Cloud Computing - DevOps - Frameworks Django - Algoritmos e Estruturas de Dados - Docker/Kubernetes - Metodologias Ágeis Scrum - Frameworks Flask - Testes Automatizados - SQL
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - HTML - Segurança da Informação - Frameworks Django - Docker/Kubernetes - CSS - Frameworks Flask
+

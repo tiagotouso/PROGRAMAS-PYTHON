@@ -1,0 +1,55 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Especialista em UX/UI 
+CONHECIMENTOS Frameworks React
+Paradigmas de Programação
+HTML
+SQL
+Python
+Metodologias Ágeis Kanban
+Git/GitHub
+Frameworks Django
+Cloud Computing
+NoSQL
+JavaScript
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+DevOps
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Julia Viana 
+IDADE 
+30
+EMAIL 
+melissaaraujo@example.org 
+CIDADE 
+Garcia
+ENDEREÇO 
+Travessa Catarina da Cruz, 44
+Marieta 2ª Seção
+68336166 Oliveira / MT
+ 
+HABILIDADES
+
+Criativo
+Trabalho em equipe
+Educado
+Focado
+Proativo
+Organizado
+Pontual
+Liderança
+Adaptável
+Responsável
+Comunicativo
+Participativo
+ 

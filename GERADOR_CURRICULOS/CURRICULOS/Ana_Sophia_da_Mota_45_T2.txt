@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Ana Sophia da Mota 
+IDADE: 45
+EMAIL: xbarbosa@example.net 
+CIDADE: Rezende de Goiás
+ENDEREÇO: Distrito Azevedo, 92
+Aeroporto
+60486-597 Cirino de Minas / AM
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Compliance 
+CONHECIMENTOS Ética e Responsabilidade Corporativa - Direito Empresarial - Business Intelligence (BI) - Inovação e Transformação Digital - Gestão Financeira - Gestão da Qualidade - Administração Pública - Logística e Cadeia de Suprimentos - Customer Success e Experiência do Cliente - Contabilidade Empresarial - Gestão de Pessoas - Análise de Dados e Indicadores - Metodologias Ágeis Kanban - Negociação e Tomada de Decisão - Metodologias Ágeis Scrum - Planejamento Estratégico - Marketing e Vendas
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Frameworks Django - Git/GitHub - DevOps - Cloud Computing - Testes Automatizados - CSS - Docker/Kubernetes - NoSQL - Metodologias Ágeis Kanban - Python - APIs REST - HTML - Algoritmos e Estruturas de Dados
+
+ 
+HABILIDADES
+
+Criativo - Organizado - Resiliente - Liderança - Pontual - Trabalho em equipe - Empático - Focado - Comunicativo - Participativo - Colaborativo - Responsável - Adaptável

@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Isis Moura 
+IDADE: 60
+EMAIL: ngarcia@example.org 
+CIDADE: da Rocha da Praia
+ENDEREÇO: Condomínio Lima, 35
+Vila De Sá
+02364889 Caldeira / GO
+ 
+HABILIDADES
+
+Proativo - Empático - Adaptável - Comunicativo - Resiliente - Colaborativo - Pontual - Liderança - Educado - Criativo - Focado - Trabalho em equipe - Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Frameworks React - Algoritmos e Estruturas de Dados - Testes Automatizados - Paradigmas de Programação - Git/GitHub - Frameworks Django - CSS - Metodologias Ágeis Scrum - Frameworks Flask - DevOps - HTML - JavaScript - Python - NoSQL - Cloud Computing - APIs REST - Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Analista de Compliance 
+CONHECIMENTOS Metodologias Ágeis Kanban - Administração Pública - Planejamento Estratégico - Compliance e Governança Corporativa - Contabilidade Empresarial - Negociação e Tomada de Decisão - Metodologias Ágeis Scrum - Liderança e Gestão de Equipes - Análise de Dados e Indicadores - Ética e Responsabilidade Corporativa - Customer Success e Experiência do Cliente - Gestão de Projetos - Empreendedorismo - Inovação e Transformação Digital - Gestão da Qualidade - Direito Empresarial - Logística e Cadeia de Suprimentos - Gestão de Pessoas - Business Intelligence (BI) - Marketing e Vendas - Gestão Financeira
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Gestor de Contratos 
+CONHECIMENTOS Logística e Cadeia de Suprimentos - Business Intelligence (BI) - Metodologias Ágeis Kanban - Gestão de Projetos - Inovação e Transformação Digital - Liderança e Gestão de Equipes - Contabilidade Empresarial - Metodologias Ágeis Scrum - Análise de Dados e Indicadores - Ética e Responsabilidade Corporativa - Gestão de Pessoas - Direito Empresarial - Gestão Financeira - Compliance e Governança Corporativa - Administração Pública - Gestão da Qualidade - Planejamento Estratégico - Marketing e Vendas - Negociação e Tomada de Decisão - Customer Success e Experiência do Cliente
+

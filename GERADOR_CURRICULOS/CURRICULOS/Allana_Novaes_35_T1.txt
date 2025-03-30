@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Allana Novaes 
+IDADE: 35
+EMAIL: sampaioasafe@example.net 
+CIDADE: Costa
+ENDEREÇO: Via Fernanda Correia, 16
+Chácara Leonina
+67521192 Freitas / AC
+ 
+HABILIDADES
+
+Organizado - Colaborativo - Criativo - Trabalho em equipe - Liderança - Focado - Participativo - Comunicativo - Empático - Resiliente - Adaptável - Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Compliance Officer 
+CONHECIMENTOS Tecnologia e Direito Digital - Negociação e Mediação - Ética e Deontologia Jurídica - Oratória e Argumentação Jurídica - Atuação em Audiências - Direito Penal
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS JavaScript - Python - HTML - Frameworks Flask - SQL - Metodologias Ágeis Scrum - CSS - DevOps - Frameworks React - Paradigmas de Programação - Algoritmos e Estruturas de Dados - Docker/Kubernetes - Git/GitHub - APIs REST - Segurança da Informação - Metodologias Ágeis Kanban - Cloud Computing - NoSQL - Testes Automatizados - Frameworks Django
+

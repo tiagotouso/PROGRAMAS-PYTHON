@@ -1,0 +1,74 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Isabella Ribeiro 
+IDADE 
+60
+EMAIL 
+giovanna86@example.org 
+CIDADE 
+Abreu
+ENDEREÇO 
+Lagoa Camila Teixeira, 73
+São Pedro
+09448-889 Brito / RJ
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Gerente de TI 
+CONHECIMENTOS Paradigmas de Programação
+Frameworks Django
+Segurança da Informação
+Frameworks React
+JavaScript
+Docker/Kubernetes
+
+TEMPO DE SERVIÇO: 
+24 anos 
+CARGO 
+Analista Jurídico 
+CONHECIMENTOS Elaboração de Contratos
+Direito Empresarial
+Direito Administrativo
+Direito Trabalhista
+Direito Ambiental
+Direito Constitucional
+Direito Penal
+Direito Civil
+Atuação em Audiências
+Ética e Deontologia Jurídica
+Código de Processo Penal
+Negociação e Mediação
+Gestão de Escritório de Advocacia
+Legislação Atualizada
+Direito Tributário
+Escrita Jurídica
+Oratória e Argumentação Jurídica
+Jurisprudência
+Tecnologia e Direito Digital
+Código de Processo Civil
+
+ 
+HABILIDADES
+
+Pontual
+Trabalho em equipe
+Criativo
+Participativo
+Adaptável
+Educado
+Responsável
+Focado
+Colaborativo
+Organizado
+Resiliente
+Proativo
+Empático
+Comunicativo
+Liderança

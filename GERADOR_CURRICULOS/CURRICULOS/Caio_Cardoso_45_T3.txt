@@ -1,0 +1,72 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Tabelião 
+CONHECIMENTOS Elaboração de Contratos
+Direito Ambiental
+Código de Processo Civil
+Escrita Jurídica
+Direito Administrativo
+Direito Constitucional
+Direito Trabalhista
+Direito Penal
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Gerente de TI 
+CONHECIMENTOS Testes Automatizados
+Cloud Computing
+Frameworks Django
+Frameworks React
+Frameworks Flask
+APIs REST
+JavaScript
+CSS
+DevOps
+Algoritmos e Estruturas de Dados
+NoSQL
+HTML
+Git/GitHub
+Python
+Paradigmas de Programação
+Segurança da Informação
+Metodologias Ágeis Kanban
+Docker/Kubernetes
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Caio Cardoso 
+IDADE 
+45
+EMAIL 
+fsales@example.net 
+CIDADE 
+Lima Alegre
+ENDEREÇO 
+Vila Viana
+Vila Cemig
+20163-923 Guerra Alegre / SE
+ 
+HABILIDADES
+
+Liderança
+Colaborativo
+Pontual
+Trabalho em equipe
+Criativo
+Comunicativo
+Adaptável
+Focado
+Responsável
+Educado
+Organizado
+Participativo
+ 

@@ -1,0 +1,81 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista Financeiro 
+CONHECIMENTOS Gestão Financeira
+Gestão de Pessoas
+Inovação e Transformação Digital
+Customer Success e Experiência do Cliente
+Negociação e Tomada de Decisão
+Gestão da Qualidade
+Business Intelligence (BI)
+Compliance e Governança Corporativa
+Metodologias Ágeis Scrum
+Direito Empresarial
+Logística e Cadeia de Suprimentos
+Empreendedorismo
+Metodologias Ágeis Kanban
+Liderança e Gestão de Equipes
+Análise de Dados e Indicadores
+Planejamento Estratégico
+Gestão de Projetos
+Ética e Responsabilidade Corporativa
+Contabilidade Empresarial
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS CSS
+Python
+Testes Automatizados
+SQL
+Paradigmas de Programação
+Metodologias Ágeis Scrum
+Algoritmos e Estruturas de Dados
+Segurança da Informação
+Metodologias Ágeis Kanban
+Cloud Computing
+Docker/Kubernetes
+DevOps
+Git/GitHub
+NoSQL
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Erick Gomes 
+IDADE 
+55
+EMAIL 
+marianepinto@example.net 
+CIDADE 
+Duarte
+ENDEREÇO 
+Ladeira de Peixoto, 24
+Vale Do Jatoba
+59328921 da Mata de Gonçalves / TO
+ 
+HABILIDADES
+
+Resiliente
+Pontual
+Responsável
+Educado
+Criativo
+Liderança
+Colaborativo
+Focado
+Comunicativo
+Trabalho em equipe
+Adaptável
+Empático
+Organizado
+Proativo
+ 

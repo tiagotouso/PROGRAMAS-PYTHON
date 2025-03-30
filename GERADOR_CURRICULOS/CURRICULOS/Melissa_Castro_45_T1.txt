@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Melissa Castro 
+IDADE: 45
+EMAIL: nathanramos@example.org 
+CIDADE: Leão de Barros
+ENDEREÇO: Trevo de Aparecida, 412
+São Benedito
+29508375 Mendes do Oeste / SC
+ 
+HABILIDADES
+
+Organizado - Criativo - Educado - Participativo - Focado - Colaborativo - Adaptável - Comunicativo - Trabalho em equipe - Resiliente - Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 26 anos 
+CARGO: Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Git/GitHub - Python - APIs REST - Testes Automatizados - Frameworks Flask - Cloud Computing - DevOps - Docker/Kubernetes - SQL - NoSQL - Frameworks Django - Metodologias Ágeis Scrum - JavaScript - Segurança da Informação
+

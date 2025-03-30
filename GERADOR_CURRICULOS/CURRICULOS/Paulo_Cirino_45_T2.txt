@@ -1,0 +1,86 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Paulo Cirino 
+IDADE 
+45
+EMAIL 
+heloisada-luz@example.com 
+CIDADE 
+Castro das Flores
+ENDEREÇO 
+Sítio de Machado, 341
+Santa Margarida
+71464168 Sampaio do Sul / AM
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Suporte Técnico 
+CONHECIMENTOS Git/GitHub
+Testes Automatizados
+Segurança da Informação
+Frameworks Flask
+HTML
+APIs REST
+Python
+JavaScript
+Frameworks React
+NoSQL
+Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Business Intelligence (BI) 
+CONHECIMENTOS Docker/Kubernetes
+DevOps
+NoSQL
+SQL
+HTML
+Cloud Computing
+CSS
+Python
+Segurança da Informação
+JavaScript
+Frameworks Django
+Metodologias Ágeis Kanban
+Paradigmas de Programação
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Professor de Direito 
+CONHECIMENTOS Direito Penal
+Direito Ambiental
+Escrita Jurídica
+Direito Administrativo
+Legislação Atualizada
+Código de Processo Civil
+Jurisprudência
+Tecnologia e Direito Digital
+Negociação e Mediação
+Direito Civil
+Direito Tributário
+Código de Processo Penal
+Ética e Deontologia Jurídica
+Oratória e Argumentação Jurídica
+Direito Empresarial
+Elaboração de Contratos
+
+ 
+HABILIDADES
+
+Empático
+Responsável
+Comunicativo
+Organizado
+Adaptável
+Participativo
+Liderança

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Liz Gomes 
+IDADE: 35
+EMAIL: carlos-eduardoandrade@example.net 
+CIDADE: Costela Paulista
+ENDEREÇO: Esplanada Ramos, 340
+Paquetá
+85942955 Cavalcanti / TO
+ 
+HABILIDADES
+
+Resiliente - Participativo - Comunicativo - Organizado - Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Especialista em Inteligência Artificial 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - DevOps - Python - Git/GitHub - APIs REST - CSS
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Tabelião 
+CONHECIMENTOS Direito Civil - Direito Constitucional - Direito Ambiental - Jurisprudência - Código de Processo Civil - Ética e Deontologia Jurídica - Código de Processo Penal - Direito Penal - Negociação e Mediação - Direito Tributário - Elaboração de Contratos
+

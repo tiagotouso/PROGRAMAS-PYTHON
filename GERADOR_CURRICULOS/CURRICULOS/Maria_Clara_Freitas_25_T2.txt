@@ -1,0 +1,74 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Clara Freitas 
+IDADE 
+25
+EMAIL 
+oliverguerra@example.com 
+CIDADE 
+Abreu
+ENDEREÇO 
+Passarela Fogaça, 50
+Vila Inestan
+00190372 Castro / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Site Reliability Engineer (SRE) 
+CONHECIMENTOS Docker/Kubernetes
+HTML
+Cloud Computing
+Python
+Segurança da Informação
+CSS
+SQL
+Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+NoSQL
+Frameworks React
+Frameworks Flask
+Frameworks Django
+APIs REST
+Testes Automatizados
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Infraestrutura 
+CONHECIMENTOS CSS
+JavaScript
+Cloud Computing
+Python
+Docker/Kubernetes
+Git/GitHub
+HTML
+Frameworks React
+Testes Automatizados
+Segurança da Informação
+Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+DevOps
+NoSQL
+Metodologias Ágeis Kanban
+APIs REST
+SQL
+Frameworks Flask
+
+ 
+HABILIDADES
+
+Pontual
+Trabalho em equipe
+Liderança
+Proativo
+Empático
+Resiliente
+Educado
+Criativo

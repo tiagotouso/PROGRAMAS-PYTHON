@@ -1,0 +1,59 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ester Dias 
+IDADE 
+45
+EMAIL 
+melissa09@example.org 
+CIDADE 
+Aparecida das Pedras
+ENDEREÇO 
+Ladeira de Melo, 731
+Granja De Freitas
+86214299 Vargas / SP
+ 
+HABILIDADES
+
+Focado
+Proativo
+Criativo
+Pontual
+Liderança
+Trabalho em equipe
+Resiliente
+Organizado
+Responsável
+Participativo
+Adaptável
+Colaborativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+22 anos 
+CARGO 
+Analista de Compras 
+CONHECIMENTOS Compliance e Governança Corporativa
+Gestão de Pessoas
+Administração Pública
+Contabilidade Empresarial
+Business Intelligence (BI)
+Inovação e Transformação Digital
+Gestão da Qualidade
+Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS SQL
+Paradigmas de Programação
+HTML
+NoSQL
+APIs REST
+Frameworks Flask
+

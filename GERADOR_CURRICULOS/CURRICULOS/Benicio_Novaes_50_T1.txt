@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Benicio Novaes 
+IDADE: 50
+EMAIL: kfonseca@example.net 
+CIDADE: Nascimento
+ENDEREÇO: Via de Marques, 93
+Mariquinhas
+21661973 da Cruz / AL
+ 
+HABILIDADES
+
+Empático - Criativo - Adaptável - Liderança - Responsável - Resiliente - Trabalho em equipe - Proativo - Focado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Segurança da Informação - Git/GitHub - DevOps - Paradigmas de Programação - Cloud Computing - Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban - HTML - APIs REST
+

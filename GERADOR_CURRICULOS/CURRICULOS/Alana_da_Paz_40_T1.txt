@@ -1,0 +1,61 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Alana da Paz 
+IDADE 
+40
+EMAIL 
+luisanunes@example.com 
+CIDADE 
+Borges
+ENDEREÇO 
+Recanto Maria Helena Lopes
+Goiania
+73840777 Sampaio / MT
+ 
+HABILIDADES
+
+Responsável
+Trabalho em equipe
+Criativo
+Proativo
+Liderança
+Participativo
+Colaborativo
+Focado
+Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Planejamento Estratégico 
+CONHECIMENTOS Análise de Dados e Indicadores
+Compliance e Governança Corporativa
+Planejamento Estratégico
+Negociação e Tomada de Decisão
+Metodologias Ágeis Scrum
+Business Intelligence (BI)
+Gestão Financeira
+Liderança e Gestão de Equipes
+Administração Pública
+Marketing e Vendas
+Logística e Cadeia de Suprimentos
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Dados 
+CONHECIMENTOS Docker/Kubernetes
+JavaScript
+Segurança da Informação
+Python
+Metodologias Ágeis Kanban
+Frameworks Django
+Frameworks React
+DevOps
+

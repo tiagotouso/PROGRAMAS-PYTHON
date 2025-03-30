@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Pietra da Cruz 
+IDADE: 60
+EMAIL: pereiraapollo@example.net 
+CIDADE: Costa
+ENDEREÇO: Morro Théo Dias, 292
+Vila Minaslandia
+44698-140 Marques / MG
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Cientista de Dados 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - NoSQL - Segurança da Informação - Frameworks Django - Git/GitHub - APIs REST - Paradigmas de Programação - Metodologias Ágeis Kanban - Python - HTML - Frameworks React - DevOps - JavaScript - Cloud Computing
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Gerente de Operações 
+CONHECIMENTOS Customer Success e Experiência do Cliente - Gestão de Projetos - Administração Pública - Compliance e Governança Corporativa - Negociação e Tomada de Decisão - Liderança e Gestão de Equipes - Marketing e Vendas - Gestão Financeira - Empreendedorismo - Contabilidade Empresarial - Metodologias Ágeis Scrum - Business Intelligence (BI) - Gestão de Pessoas - Ética e Responsabilidade Corporativa - Logística e Cadeia de Suprimentos - Planejamento Estratégico - Direito Empresarial - Inovação e Transformação Digital - Análise de Dados e Indicadores - Metodologias Ágeis Kanban - Gestão da Qualidade
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Assistente Administrativo 
+CONHECIMENTOS Gestão Financeira - Empreendedorismo - Gestão de Projetos - Planejamento Estratégico - Inovação e Transformação Digital - Customer Success e Experiência do Cliente - Liderança e Gestão de Equipes - Direito Empresarial - Compliance e Governança Corporativa - Gestão de Pessoas - Metodologias Ágeis Kanban - Contabilidade Empresarial
+
+ 
+HABILIDADES
+
+Comunicativo - Participativo - Resiliente - Educado - Criativo - Liderança - Trabalho em equipe - Colaborativo - Proativo - Pontual - Organizado

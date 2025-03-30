@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Laís Pinto 
+IDADE: 50
+EMAIL: jdas-neves@example.net 
+CIDADE: Fogaça do Galho
+ENDEREÇO: Chácara de Andrade, 4
+Virgínia
+37303-092 Abreu / AP
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS CSS - APIs REST - Algoritmos e Estruturas de Dados - Paradigmas de Programação - NoSQL - Metodologias Ágeis Kanban - Testes Automatizados - Git/GitHub - DevOps - Python - HTML - Frameworks React - SQL - Docker/Kubernetes - JavaScript - Frameworks Flask - Cloud Computing - Segurança da Informação - Frameworks Django
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Compliance 
+CONHECIMENTOS Negociação e Tomada de Decisão - Gestão de Projetos - Administração Pública - Customer Success e Experiência do Cliente - Inovação e Transformação Digital - Contabilidade Empresarial - Metodologias Ágeis Scrum - Direito Empresarial - Gestão de Pessoas - Marketing e Vendas - Business Intelligence (BI) - Metodologias Ágeis Kanban - Análise de Dados e Indicadores - Gestão Financeira
+
+ 
+HABILIDADES
+
+Resiliente - Colaborativo - Adaptável - Focado - Educado - Pontual - Comunicativo - Proativo - Trabalho em equipe - Criativo - Responsável - Organizado - Participativo - Liderança - Empático

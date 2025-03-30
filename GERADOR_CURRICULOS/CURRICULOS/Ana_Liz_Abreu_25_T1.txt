@@ -1,0 +1,51 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Liz Abreu 
+IDADE 
+25
+EMAIL 
+enzo-gabrielcavalcante@example.net 
+CIDADE 
+Andrade de Lima
+ENDEREÇO 
+Setor da Rocha
+Vila Havaí
+23974-018 Vargas / SP
+ 
+HABILIDADES
+
+Resiliente
+Adaptável
+Pontual
+Focado
+Educado
+Responsável
+Empático
+Proativo
+Colaborativo
+Participativo
+Criativo
+Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Engenheiro de Machine Learning 
+CONHECIMENTOS Frameworks React
+Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+Frameworks Django
+NoSQL
+Git/GitHub
+APIs REST
+Testes Automatizados
+CSS
+Cloud Computing
+

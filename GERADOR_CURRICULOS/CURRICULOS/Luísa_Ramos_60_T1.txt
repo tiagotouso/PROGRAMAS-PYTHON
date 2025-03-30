@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Luísa Ramos 
+IDADE: 60
+EMAIL: da-rosamaria-fernanda@example.net 
+CIDADE: Sales do Campo
+ENDEREÇO: Vila de Pimenta, 53
+Dom Cabral
+91529848 Aparecida / ES
+ 
+HABILIDADES
+
+Educado - Empático - Pontual - Participativo - Criativo - Adaptável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Gerente Administrativo 
+CONHECIMENTOS Empreendedorismo - Marketing e Vendas - Negociação e Tomada de Decisão - Logística e Cadeia de Suprimentos - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - Administração Pública - Business Intelligence (BI)
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS CSS - Git/GitHub - HTML - Metodologias Ágeis Scrum - APIs REST - Frameworks Flask - Frameworks Django - Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban - SQL - JavaScript - Docker/Kubernetes - Testes Automatizados - NoSQL - Cloud Computing - Frameworks React
+

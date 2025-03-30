@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Gabriel Pastor 
+IDADE: 50
+EMAIL: lucasalbuquerque@example.org 
+CIDADE: Souza de Minas
+ENDEREÇO: Largo de da Mata, 57
+Pindorama
+79208-000 Ferreira dos Dourados / PA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Oficial de Justiça 
+CONHECIMENTOS Oratória e Argumentação Jurídica - Elaboração de Contratos - Atuação em Audiências - Direito Administrativo - Código de Processo Civil - Negociação e Mediação - Direito Penal - Ética e Deontologia Jurídica - Direito Ambiental - Legislação Atualizada - Direito Empresarial - Gestão de Escritório de Advocacia
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Cientista de Dados 
+CONHECIMENTOS Docker/Kubernetes - Git/GitHub - Python - Algoritmos e Estruturas de Dados - Segurança da Informação - Cloud Computing - Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Resiliente - Empático - Participativo - Comunicativo - Focado - Colaborativo - Adaptável

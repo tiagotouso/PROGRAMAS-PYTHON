@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Luigi Silva 
+IDADE: 40
+EMAIL: gduarte@example.org 
+CIDADE: Correia dos Dourados
+ENDEREÇO: Distrito Almeida, 67
+Vila Barragem Santa Lúcia
+75541-427 Farias / PA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Advogado Empresarial 
+CONHECIMENTOS Código de Processo Civil - Escrita Jurídica - Jurisprudência - Direito Tributário - Direito Civil - Direito Empresarial - Tecnologia e Direito Digital - Direito Penal - Direito Constitucional - Direito Ambiental - Atuação em Audiências - Direito Trabalhista - Elaboração de Contratos - Negociação e Mediação - Legislação Atualizada - Gestão de Escritório de Advocacia - Ética e Deontologia Jurídica - Direito Administrativo - Oratória e Argumentação Jurídica - Código de Processo Penal
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Site Reliability Engineer (SRE) 
+CONHECIMENTOS Python - Metodologias Ágeis Scrum - Paradigmas de Programação - NoSQL - Algoritmos e Estruturas de Dados - Frameworks Flask - DevOps - Segurança da Informação - SQL - Git/GitHub - CSS - Frameworks React - JavaScript - Metodologias Ágeis Kanban - Testes Automatizados - APIs REST - HTML - Frameworks Django - Docker/Kubernetes
+
+ 
+HABILIDADES
+
+Adaptável - Criativo - Liderança - Focado - Resiliente - Pontual - Empático - Comunicativo - Responsável - Trabalho em equipe - Educado - Colaborativo - Participativo

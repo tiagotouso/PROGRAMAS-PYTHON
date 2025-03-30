@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Alexia Sá 
+IDADE: 35
+EMAIL: odas-neves@example.net 
+CIDADE: Sales
+ENDEREÇO: Conjunto Mendes, 8
+São Pedro
+10142-491 Machado / RJ
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Frameworks Flask - Cloud Computing - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - Testes Automatizados - Frameworks Django - Segurança da Informação - Python - Algoritmos e Estruturas de Dados - APIs REST
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Metodologias Ágeis Scrum - APIs REST - NoSQL - Git/GitHub - Algoritmos e Estruturas de Dados - JavaScript - Testes Automatizados - Frameworks Django - Frameworks React - Metodologias Ágeis Kanban - Frameworks Flask - DevOps - HTML - SQL - Cloud Computing
+
+ 
+HABILIDADES
+
+Pontual - Responsável - Adaptável - Criativo - Resiliente - Trabalho em equipe - Participativo - Empático - Organizado - Liderança - Educado - Comunicativo - Colaborativo - Proativo - Focado

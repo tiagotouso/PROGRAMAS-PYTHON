@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Planejamento Estratégico 
+CONHECIMENTOS Negociação e Tomada de Decisão - Gestão Financeira - Planejamento Estratégico - Administração Pública - Metodologias Ágeis Scrum - Customer Success e Experiência do Cliente - Análise de Dados e Indicadores
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Engenheiro de Machine Learning 
+CONHECIMENTOS APIs REST - Python - CSS - Frameworks Django - Metodologias Ágeis Scrum - HTML - Algoritmos e Estruturas de Dados - JavaScript - NoSQL - Paradigmas de Programação - Cloud Computing - SQL - Frameworks React - Frameworks Flask
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS Frameworks React - DevOps - Segurança da Informação - NoSQL - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - Frameworks Django - Cloud Computing - APIs REST - Docker/Kubernetes - Python - Git/GitHub - Algoritmos e Estruturas de Dados - HTML - Frameworks Flask - Testes Automatizados - CSS - SQL - JavaScript - Paradigmas de Programação
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Rael Novaes 
+IDADE: 50
+EMAIL: rodriguesleandro@example.org 
+CIDADE: Vargas de Minas
+ENDEREÇO: Pátio de Marques, 25
+Ventosa
+40006024 Borges / AP
+ 
+HABILIDADES
+
+Empático - Organizado - Focado - Resiliente - Pontual - Comunicativo - Adaptável
+ 

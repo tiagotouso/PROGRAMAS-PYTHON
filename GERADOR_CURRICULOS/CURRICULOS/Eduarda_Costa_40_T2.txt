@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Eduarda Costa 
+IDADE: 40
+EMAIL: gabrielly63@example.org 
+CIDADE: Carvalho
+ENDEREÇO: Pátio de Novaes, 79
+Vila Cloris
+31062-632 Cunha / BA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Especialista em Cibersegurança 
+CONHECIMENTOS APIs REST - Docker/Kubernetes - NoSQL - Frameworks React - Testes Automatizados - DevOps - HTML - Frameworks Django - Paradigmas de Programação - Algoritmos e Estruturas de Dados - Frameworks Flask - Cloud Computing - SQL - CSS
+
+ 
+HABILIDADES
+
+Participativo - Trabalho em equipe - Resiliente - Educado - Responsável - Proativo - Organizado - Liderança - Criativo - Colaborativo - Pontual - Focado - Comunicativo - Empático

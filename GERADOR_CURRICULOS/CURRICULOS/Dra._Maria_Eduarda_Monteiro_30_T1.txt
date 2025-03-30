@@ -1,0 +1,40 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dra. Maria Eduarda Monteiro 
+IDADE 
+30
+EMAIL 
+osampaio@example.net 
+CIDADE 
+Casa Grande de Moraes
+ENDEREÇO 
+Praça de Pimenta, 30
+Palmeiras
+67965-112 Aragão do Sul / PR
+ 
+HABILIDADES
+
+Proativo
+Trabalho em equipe
+Empático
+Educado
+Responsável
+Criativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Engenheiro de Machine Learning 
+CONHECIMENTOS Python
+DevOps
+NoSQL
+Git/GitHub
+Cloud Computing
+Segurança da Informação
+

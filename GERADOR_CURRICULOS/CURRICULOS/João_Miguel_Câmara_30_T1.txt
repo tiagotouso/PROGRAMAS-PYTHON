@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: João Miguel Câmara 
+IDADE: 30
+EMAIL: larissa52@example.net 
+CIDADE: Mendonça
+ENDEREÇO: Via de Nogueira, 92
+Conjunto Celso Machado
+35583768 Sales / GO
+ 
+HABILIDADES
+
+Empático - Criativo - Focado - Adaptável - Comunicativo - Responsável - Organizado - Participativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Arquiteto de Soluções 
+CONHECIMENTOS APIs REST - Testes Automatizados - Frameworks Flask - Docker/Kubernetes - Segurança da Informação - CSS - Algoritmos e Estruturas de Dados - Paradigmas de Programação - SQL - Metodologias Ágeis Kanban
+

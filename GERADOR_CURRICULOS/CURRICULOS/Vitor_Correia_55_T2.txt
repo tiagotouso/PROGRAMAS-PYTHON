@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Vitor Correia 
+IDADE: 55
+EMAIL: gbrito@example.net 
+CIDADE: Casa Grande
+ENDEREÇO: Estação Luísa Alves, 31
+Ademar Maldonado
+07354828 Mendes / PA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Site Reliability Engineer (SRE) 
+CONHECIMENTOS SQL - DevOps - Git/GitHub - Frameworks React - Frameworks Django
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Professor de Direito 
+CONHECIMENTOS Jurisprudência - Escrita Jurídica - Ética e Deontologia Jurídica - Direito Tributário - Direito Ambiental - Tecnologia e Direito Digital - Legislação Atualizada - Direito Empresarial - Gestão de Escritório de Advocacia - Direito Trabalhista - Código de Processo Civil - Código de Processo Penal - Direito Constitucional - Oratória e Argumentação Jurídica - Direito Civil - Direito Penal
+
+ 
+HABILIDADES
+
+Educado - Pontual - Proativo - Focado - Empático - Criativo - Colaborativo - Trabalho em equipe

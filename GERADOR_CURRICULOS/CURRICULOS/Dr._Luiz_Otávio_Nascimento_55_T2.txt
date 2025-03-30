@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Luiz Otávio Nascimento 
+IDADE: 55
+EMAIL: moraesleo@example.net 
+CIDADE: Fogaça do Amparo
+ENDEREÇO: Via de Andrade, 43
+Vila Petropolis
+89631196 Mendonça / AL
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Assistente de Escritório 
+CONHECIMENTOS Contabilidade Empresarial - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - Ética e Responsabilidade Corporativa - Gestão Financeira - Liderança e Gestão de Equipes - Business Intelligence (BI) - Compliance e Governança Corporativa - Direito Empresarial - Negociação e Tomada de Decisão - Logística e Cadeia de Suprimentos - Planejamento Estratégico - Administração Pública - Gestão de Projetos - Empreendedorismo - Análise de Dados e Indicadores - Marketing e Vendas - Gestão de Pessoas - Inovação e Transformação Digital - Customer Success e Experiência do Cliente
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Advogado Civil 
+CONHECIMENTOS Negociação e Mediação - Ética e Deontologia Jurídica - Direito Trabalhista - Direito Penal - Direito Civil - Escrita Jurídica - Tecnologia e Direito Digital - Direito Constitucional - Direito Ambiental
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS Frameworks React - Segurança da Informação - Paradigmas de Programação - HTML - Python - Git/GitHub
+
+ 
+HABILIDADES
+
+Participativo - Educado - Organizado - Empático - Trabalho em equipe - Adaptável - Responsável - Focado - Colaborativo - Proativo - Comunicativo - Liderança

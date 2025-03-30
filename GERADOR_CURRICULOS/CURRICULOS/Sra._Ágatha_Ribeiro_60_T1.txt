@@ -1,0 +1,35 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sra. Ágatha Ribeiro 
+IDADE: 60
+EMAIL: beniciorios@example.com 
+CIDADE: Rios das Flores
+ENDEREÇO: Vereda de Macedo, 96
+Vila Nova Cachoeirinha 2ª Seção
+34670590 da Cunha / RR
+ 
+HABILIDADES
+
+Participativo - Resiliente - Pontual - Colaborativo - Criativo - Organizado - Responsável - Comunicativo - Trabalho em equipe - Focado - Educado - Proativo - Adaptável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Paradigmas de Programação - DevOps - APIs REST - HTML - Cloud Computing - Python - Frameworks Flask - Git/GitHub - Testes Automatizados - Frameworks Django - Frameworks React - Metodologias Ágeis Kanban - Docker/Kubernetes - Segurança da Informação - CSS
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Metodologias Ágeis Kanban - JavaScript - Python - Testes Automatizados - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS Segurança da Informação - CSS - Paradigmas de Programação - Metodologias Ágeis Kanban - Frameworks Django - Frameworks React
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Coordenador de Atendimento 
+CONHECIMENTOS Negociação e Tomada de Decisão - Gestão Financeira - Contabilidade Empresarial - Ética e Responsabilidade Corporativa - Liderança e Gestão de Equipes - Direito Empresarial - Administração Pública
+

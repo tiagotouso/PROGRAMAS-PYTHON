@@ -1,0 +1,69 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Bruno Sampaio 
+IDADE 
+50
+EMAIL 
+augustoteixeira@example.net 
+CIDADE 
+Vargas
+ENDEREÇO 
+Trevo Letícia Oliveira, 46
+Nova Esperança
+12721394 da Mata / CE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Business Intelligence (BI) 
+CONHECIMENTOS Frameworks Flask
+Python
+Metodologias Ágeis Scrum
+Git/GitHub
+APIs REST
+JavaScript
+
+TEMPO DE SERVIÇO: 
+28 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS Frameworks Flask
+Segurança da Informação
+Frameworks React
+DevOps
+Testes Automatizados
+NoSQL
+Python
+Cloud Computing
+APIs REST
+Docker/Kubernetes
+JavaScript
+Metodologias Ágeis Scrum
+Frameworks Django
+SQL
+HTML
+Metodologias Ágeis Kanban
+
+ 
+HABILIDADES
+
+Resiliente
+Participativo
+Adaptável
+Focado
+Colaborativo
+Liderança
+Trabalho em equipe
+Educado
+Organizado
+Empático
+Proativo
+Pontual
+Criativo
+Comunicativo

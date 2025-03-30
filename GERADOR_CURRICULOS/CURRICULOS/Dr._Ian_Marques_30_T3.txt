@@ -1,0 +1,52 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS Segurança da Informação
+Paradigmas de Programação
+CSS
+Python
+Metodologias Ágeis Kanban
+Algoritmos e Estruturas de Dados
+HTML
+Metodologias Ágeis Scrum
+NoSQL
+Frameworks Flask
+Testes Automatizados
+SQL
+APIs REST
+Git/GitHub
+Docker/Kubernetes
+Frameworks Django
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Ian Marques 
+IDADE 
+30
+EMAIL 
+evelyn25@example.net 
+CIDADE 
+Gomes
+ENDEREÇO 
+Residencial Antônio Camargo, 67
+Carlos Prates
+13796-999 Brito / PE
+ 
+HABILIDADES
+
+Organizado
+Criativo
+Trabalho em equipe
+Focado
+Participativo
+Colaborativo
+Empático
+ 

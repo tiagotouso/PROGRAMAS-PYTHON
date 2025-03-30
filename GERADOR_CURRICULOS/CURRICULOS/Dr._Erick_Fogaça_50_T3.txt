@@ -1,0 +1,78 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Especialista em Cibersegurança 
+CONHECIMENTOS SQL
+Metodologias Ágeis Scrum
+NoSQL
+APIs REST
+HTML
+Python
+DevOps
+Metodologias Ágeis Kanban
+Docker/Kubernetes
+Frameworks Django
+Testes Automatizados
+JavaScript
+Algoritmos e Estruturas de Dados
+CSS
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Consultor Empresarial 
+CONHECIMENTOS Gestão de Pessoas
+Administração Pública
+Gestão de Projetos
+Planejamento Estratégico
+Negociação e Tomada de Decisão
+Metodologias Ágeis Scrum
+Ética e Responsabilidade Corporativa
+Empreendedorismo
+Inovação e Transformação Digital
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS Frameworks Flask
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Kanban
+HTML
+Cloud Computing
+Python
+Paradigmas de Programação
+Docker/Kubernetes
+Testes Automatizados
+Segurança da Informação
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Erick Fogaça 
+IDADE 
+50
+EMAIL 
+rteixeira@example.net 
+CIDADE 
+Nogueira
+ENDEREÇO 
+Morro Porto, 58
+Santa Monica
+69079105 Farias / MA
+ 
+HABILIDADES
+
+Comunicativo
+Resiliente
+Organizado
+Focado
+Educado
+Responsável
+ 

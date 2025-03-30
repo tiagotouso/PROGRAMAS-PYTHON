@@ -1,0 +1,54 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Samuel Brito 
+IDADE 
+55
+EMAIL 
+luizaguerra@example.net 
+CIDADE 
+Pastor dos Dourados
+ENDEREÇO 
+Parque de Rodrigues, 84
+Colégio Batista
+96463-224 Aparecida / PR
+ 
+HABILIDADES
+
+Adaptável
+Resiliente
+Comunicativo
+Trabalho em equipe
+Organizado
+Colaborativo
+Focado
+Liderança
+Responsável
+Pontual
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+28 anos 
+CARGO 
+Gerente de TI 
+CONHECIMENTOS SQL
+Python
+Docker/Kubernetes
+Algoritmos e Estruturas de Dados
+JavaScript
+Paradigmas de Programação
+NoSQL
+Segurança da Informação
+Metodologias Ágeis Scrum
+APIs REST
+Frameworks Django
+Metodologias Ágeis Kanban
+Testes Automatizados
+DevOps
+Frameworks React
+Frameworks Flask
+

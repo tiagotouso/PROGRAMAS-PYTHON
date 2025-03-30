@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Marina Cardoso 
+IDADE: 50
+EMAIL: luiz-miguelmacedo@example.com 
+CIDADE: da Rosa
+ENDEREÇO: Vila de Silva, 25
+Dom Cabral
+28825-096 Freitas de Montenegro / AL
+ 
+HABILIDADES
+
+Organizado - Participativo - Criativo - Adaptável - Focado - Comunicativo - Educado - Trabalho em equipe - Resiliente - Pontual - Liderança - Responsável - Proativo - Empático - Colaborativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS APIs REST - Metodologias Ágeis Scrum - Testes Automatizados - Python - JavaScript - Cloud Computing - SQL
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Business Intelligence (BI) 
+CONHECIMENTOS Frameworks React - Paradigmas de Programação - DevOps - Segurança da Informação - Python - Docker/Kubernetes - Git/GitHub - CSS - JavaScript - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Gestor de Relacionamento com Clientes 
+CONHECIMENTOS Logística e Cadeia de Suprimentos - Liderança e Gestão de Equipes - Compliance e Governança Corporativa - Business Intelligence (BI) - Gestão Financeira - Direito Empresarial - Ética e Responsabilidade Corporativa - Inovação e Transformação Digital - Análise de Dados e Indicadores - Planejamento Estratégico - Metodologias Ágeis Kanban - Customer Success e Experiência do Cliente - Empreendedorismo
+

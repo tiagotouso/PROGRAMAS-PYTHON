@@ -1,0 +1,73 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Melissa Camargo 
+IDADE 
+45
+EMAIL 
+yasmincardoso@example.com 
+CIDADE 
+Câmara
+ENDEREÇO 
+Ladeira Farias, 1
+Vila Independencia 2ª Seção
+24182-537 Teixeira / MT
+ 
+HABILIDADES
+
+Proativo
+Educado
+Resiliente
+Empático
+Responsável
+Criativo
+Trabalho em equipe
+Colaborativo
+Pontual
+Participativo
+Adaptável
+Comunicativo
+Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Arbitro 
+CONHECIMENTOS Direito Tributário
+Gestão de Escritório de Advocacia
+Elaboração de Contratos
+Oratória e Argumentação Jurídica
+Direito Constitucional
+Direito Administrativo
+Direito Penal
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS DevOps
+NoSQL
+Cloud Computing
+Metodologias Ágeis Kanban
+HTML
+SQL
+Frameworks Flask
+Algoritmos e Estruturas de Dados
+CSS
+Paradigmas de Programação
+Git/GitHub
+Segurança da Informação
+JavaScript
+Frameworks React
+APIs REST
+Docker/Kubernetes
+Testes Automatizados
+Python
+Metodologias Ágeis Scrum
+Frameworks Django
+

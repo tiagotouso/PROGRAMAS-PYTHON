@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Davi Lucas da Luz 
+IDADE: 50
+EMAIL: araujolorena@example.org 
+CIDADE: Costa
+ENDEREÇO: Rua de Rios, 55
+Jardim Dos Comerciarios
+51045079 Aragão / ES
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: DevOps Engineer 
+CONHECIMENTOS CSS - Algoritmos e Estruturas de Dados - Git/GitHub - Paradigmas de Programação - APIs REST - Frameworks Django - Segurança da Informação - Python - DevOps - Frameworks React - Metodologias Ágeis Kanban - Docker/Kubernetes
+
+ 
+HABILIDADES
+
+Focado - Responsável - Colaborativo - Trabalho em equipe - Organizado - Empático - Educado - Liderança - Comunicativo - Adaptável - Resiliente

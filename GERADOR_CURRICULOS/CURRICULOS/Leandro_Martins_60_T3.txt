@@ -1,0 +1,78 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Especialista em Inteligência Artificial 
+CONHECIMENTOS JavaScript
+Git/GitHub
+CSS
+Docker/Kubernetes
+Metodologias Ágeis Kanban
+DevOps
+APIs REST
+Metodologias Ágeis Scrum
+Testes Automatizados
+Frameworks Flask
+HTML
+Algoritmos e Estruturas de Dados
+Frameworks React
+Python
+Frameworks Django
+SQL
+Segurança da Informação
+Cloud Computing
+NoSQL
+Paradigmas de Programação
+
+TEMPO DE SERVIÇO: 
+28 anos 
+CARGO 
+Defensor Público 
+CONHECIMENTOS Direito Trabalhista
+Código de Processo Civil
+Código de Processo Penal
+Atuação em Audiências
+Gestão de Escritório de Advocacia
+Direito Tributário
+Legislação Atualizada
+Direito Civil
+Negociação e Mediação
+Escrita Jurídica
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Leandro Martins 
+IDADE 
+60
+EMAIL 
+duarterenan@example.net 
+CIDADE 
+Correia de Nascimento
+ENDEREÇO 
+Travessa Marques, 80
+Guarani
+18844-979 Cardoso / MA
+ 
+HABILIDADES
+
+Comunicativo
+Liderança
+Colaborativo
+Empático
+Pontual
+Organizado
+Educado
+Adaptável
+Responsável
+Focado
+Trabalho em equipe
+Criativo
+Participativo
+Resiliente
+ 

@@ -1,0 +1,50 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Daniela Ribeiro 
+IDADE 
+35
+EMAIL 
+gda-cunha@example.com 
+CIDADE 
+Barbosa do Campo
+ENDEREÇO 
+Estação Marques, 73
+Vila Da Luz
+76148049 Peixoto das Flores / CE
+ 
+HABILIDADES
+
+Pontual
+Criativo
+Focado
+Colaborativo
+Comunicativo
+Proativo
+Empático
+Organizado
+Responsável
+Participativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS CSS
+Frameworks Django
+Python
+Docker/Kubernetes
+Frameworks React
+Metodologias Ágeis Kanban
+Algoritmos e Estruturas de Dados
+JavaScript
+Segurança da Informação
+Cloud Computing
+DevOps
+HTML
+

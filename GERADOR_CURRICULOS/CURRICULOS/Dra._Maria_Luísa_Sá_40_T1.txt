@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dra. Maria Luísa Sá 
+IDADE: 40
+EMAIL: mateus99@example.net 
+CIDADE: Pinto Alegre
+ENDEREÇO: Jardim de Rodrigues, 43
+Grota
+75276-462 Sousa / PI
+ 
+HABILIDADES
+
+Liderança - Colaborativo - Participativo - Adaptável - Focado - Pontual - Responsável - Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Frameworks Django - Frameworks Flask - Docker/Kubernetes - Frameworks React - Testes Automatizados - Cloud Computing - Segurança da Informação
+

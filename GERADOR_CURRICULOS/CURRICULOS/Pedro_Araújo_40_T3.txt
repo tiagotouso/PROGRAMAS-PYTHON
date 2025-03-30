@@ -1,0 +1,55 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS NoSQL
+Metodologias Ágeis Kanban
+SQL
+DevOps
+JavaScript
+Docker/Kubernetes
+Testes Automatizados
+Segurança da Informação
+HTML
+Git/GitHub
+Frameworks Django
+Cloud Computing
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Pedro Araújo 
+IDADE 
+40
+EMAIL 
+luiz-fernando94@example.org 
+CIDADE 
+Moura do Sul
+ENDEREÇO 
+Campo de Sales, 28
+Lourdes
+65388951 Guerra de da Paz / MG
+ 
+HABILIDADES
+
+Trabalho em equipe
+Focado
+Participativo
+Liderança
+Proativo
+Organizado
+Educado
+Adaptável
+Resiliente
+Empático
+Colaborativo
+Pontual
+Criativo
+Comunicativo
+ 

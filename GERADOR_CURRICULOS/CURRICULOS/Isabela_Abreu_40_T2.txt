@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Isabela Abreu 
+IDADE: 40
+EMAIL: kbarbosa@example.org 
+CIDADE: Borges
+ENDEREÇO: Vereda de Castro, 92
+Marieta 3ª Seção
+53073070 Araújo / BA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Desenvolvedor Full Stack 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - Frameworks Django - Frameworks React - CSS - HTML - Testes Automatizados - Metodologias Ágeis Kanban - SQL - APIs REST - Paradigmas de Programação - Git/GitHub - NoSQL - JavaScript - Segurança da Informação - Frameworks Flask - Cloud Computing - DevOps - Python
+
+ 
+HABILIDADES
+
+Empático - Responsável - Liderança - Trabalho em equipe - Participativo - Colaborativo - Resiliente

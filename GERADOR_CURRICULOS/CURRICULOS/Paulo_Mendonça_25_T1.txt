@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Paulo Mendonça 
+IDADE: 25
+EMAIL: nuneseduarda@example.org 
+CIDADE: Teixeira
+ENDEREÇO: Favela Ramos, 5
+Jardinópolis
+94004-628 Moura / SC
+ 
+HABILIDADES
+
+Responsável - Participativo - Organizado - Adaptável - Empático - Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Consultor de TI 
+CONHECIMENTOS Paradigmas de Programação - HTML - Metodologias Ágeis Scrum - DevOps - APIs REST - Segurança da Informação - Frameworks Django - Testes Automatizados - Algoritmos e Estruturas de Dados - Docker/Kubernetes - Frameworks React - NoSQL - JavaScript - SQL - Cloud Computing
+

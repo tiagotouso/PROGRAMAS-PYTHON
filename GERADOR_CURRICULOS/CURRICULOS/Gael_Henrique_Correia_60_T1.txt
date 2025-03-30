@@ -1,0 +1,85 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Gael Henrique Correia 
+IDADE 
+60
+EMAIL 
+eloa52@example.com 
+CIDADE 
+Silveira da Praia
+ENDEREÇO 
+Viaduto Ana Beatriz da Mata, 665
+Monte Azul
+86684-096 Santos / CE
+ 
+HABILIDADES
+
+Organizado
+Responsável
+Focado
+Adaptável
+Criativo
+Pontual
+Liderança
+Resiliente
+Colaborativo
+Comunicativo
+Trabalho em equipe
+Empático
+Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista Administrativo 
+CONHECIMENTOS Marketing e Vendas
+Contabilidade Empresarial
+Logística e Cadeia de Suprimentos
+Direito Empresarial
+Business Intelligence (BI)
+Compliance e Governança Corporativa
+Metodologias Ágeis Kanban
+Ética e Responsabilidade Corporativa
+Inovação e Transformação Digital
+Gestão de Pessoas
+Negociação e Tomada de Decisão
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Advogado Imobiliário 
+CONHECIMENTOS Direito Administrativo
+Oratória e Argumentação Jurídica
+Negociação e Mediação
+Elaboração de Contratos
+Tecnologia e Direito Digital
+Atuação em Audiências
+Código de Processo Penal
+Direito Empresarial
+Código de Processo Civil
+Escrita Jurídica
+Direito Trabalhista
+
+TEMPO DE SERVIÇO: 
+22 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS APIs REST
+NoSQL
+Paradigmas de Programação
+Frameworks Flask
+Cloud Computing
+Testes Automatizados
+CSS
+Segurança da Informação
+Docker/Kubernetes
+SQL
+Python
+HTML
+

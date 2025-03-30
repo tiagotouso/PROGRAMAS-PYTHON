@@ -1,0 +1,48 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sr. Arthur Miguel Monteiro 
+IDADE 
+60
+EMAIL 
+fjesus@example.com 
+CIDADE 
+Moreira
+ENDEREÇO 
+Lago de Nogueira, 22
+Primeiro De Maio
+27838-675 Montenegro do Norte / MS
+ 
+HABILIDADES
+
+Pontual
+Empático
+Participativo
+Focado
+Organizado
+Adaptável
+Trabalho em equipe
+Educado
+Liderança
+Comunicativo
+Criativo
+Responsável
+Resiliente
+Colaborativo
+Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+24 anos 
+CARGO 
+Analista de Segurança da Informação 
+CONHECIMENTOS Git/GitHub
+APIs REST
+Frameworks Flask
+Frameworks React
+Metodologias Ágeis Scrum
+

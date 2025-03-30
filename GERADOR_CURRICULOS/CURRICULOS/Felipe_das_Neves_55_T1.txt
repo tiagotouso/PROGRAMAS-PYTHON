@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Felipe das Neves 
+IDADE: 55
+EMAIL: danilocastro@example.net 
+CIDADE: Pimenta do Amparo
+ENDEREÇO: Travessa Novaes, 51
+Dom Bosco
+80172-545 Siqueira de Pacheco / PE
+ 
+HABILIDADES
+
+Focado - Colaborativo - Criativo - Liderança - Educado - Empático - Comunicativo - Resiliente - Organizado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Desenvolvedor Full Stack 
+CONHECIMENTOS DevOps - Python - Metodologias Ágeis Kanban - CSS - Algoritmos e Estruturas de Dados - SQL - Frameworks React - Metodologias Ágeis Scrum - APIs REST - Cloud Computing - Frameworks Django - Frameworks Flask - JavaScript
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Juiz 
+CONHECIMENTOS Direito Constitucional - Direito Administrativo - Jurisprudência - Código de Processo Civil - Elaboração de Contratos - Atuação em Audiências - Direito Trabalhista - Direito Penal - Código de Processo Penal - Negociação e Mediação - Escrita Jurídica - Oratória e Argumentação Jurídica - Direito Tributário - Ética e Deontologia Jurídica - Direito Civil - Gestão de Escritório de Advocacia - Direito Ambiental - Tecnologia e Direito Digital
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Controladoria 
+CONHECIMENTOS Ética e Responsabilidade Corporativa - Gestão de Pessoas - Análise de Dados e Indicadores - Liderança e Gestão de Equipes - Empreendedorismo - Metodologias Ágeis Scrum - Gestão Financeira - Customer Success e Experiência do Cliente - Direito Empresarial - Contabilidade Empresarial - Logística e Cadeia de Suprimentos - Administração Pública - Metodologias Ágeis Kanban - Compliance e Governança Corporativa
+

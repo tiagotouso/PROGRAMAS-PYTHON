@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Enzo Ferreira 
+IDADE: 55
+EMAIL: icaldeira@example.com 
+CIDADE: Rezende de Minas
+ENDEREÇO: Vila Murilo Araújo, 19
+Vista Do Sol
+16558732 Melo / PB
+ 
+HABILIDADES
+
+Pontual - Educado - Liderança - Focado - Responsável - Colaborativo - Resiliente - Criativo - Participativo - Proativo - Trabalho em equipe - Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS Segurança da Informação - CSS - HTML - APIs REST - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - JavaScript - Frameworks React - Cloud Computing
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Oficial de Justiça 
+CONHECIMENTOS Legislação Atualizada - Código de Processo Civil - Negociação e Mediação - Direito Constitucional - Direito Penal - Direito Trabalhista - Direito Empresarial - Direito Tributário - Ética e Deontologia Jurídica - Jurisprudência - Oratória e Argumentação Jurídica - Elaboração de Contratos - Gestão de Escritório de Advocacia
+

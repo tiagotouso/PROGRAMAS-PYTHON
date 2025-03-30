@@ -1,0 +1,48 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Arthur Miguel da Conceição 
+IDADE 
+45
+EMAIL 
+ravi33@example.net 
+CIDADE 
+da Cruz
+ENDEREÇO 
+Rodovia de Alves, 3
+Embaúbas
+44877571 Vasconcelos da Praia / AC
+ 
+HABILIDADES
+
+Responsável
+Organizado
+Proativo
+Empático
+Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Tester/QA (Quality Assurance) 
+CONHECIMENTOS APIs REST
+Docker/Kubernetes
+NoSQL
+Frameworks React
+Metodologias Ágeis Kanban
+Frameworks Flask
+SQL
+Paradigmas de Programação
+Python
+Git/GitHub
+CSS
+HTML
+Testes Automatizados
+DevOps
+Metodologias Ágeis Scrum
+

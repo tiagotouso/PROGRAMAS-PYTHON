@@ -1,0 +1,76 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Yasmin da Mata 
+IDADE 
+40
+EMAIL 
+ferreiragustavo@example.com 
+CIDADE 
+Pereira de Costela
+ENDEREÇO 
+Parque Rebeca da Conceição, 66
+São Lucas
+54626938 Brito / BA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Defensor Público 
+CONHECIMENTOS Jurisprudência
+Atuação em Audiências
+Direito Administrativo
+Negociação e Mediação
+Direito Trabalhista
+Gestão de Escritório de Advocacia
+Direito Ambiental
+Direito Constitucional
+Ética e Deontologia Jurídica
+Direito Penal
+Direito Civil
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS NoSQL
+SQL
+Algoritmos e Estruturas de Dados
+Segurança da Informação
+Python
+Frameworks Django
+Paradigmas de Programação
+Cloud Computing
+HTML
+CSS
+Frameworks Flask
+Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+Testes Automatizados
+Git/GitHub
+Docker/Kubernetes
+Frameworks React
+
+ 
+HABILIDADES
+
+Participativo
+Pontual
+Liderança
+Adaptável
+Proativo
+Comunicativo
+Focado
+Responsável
+Criativo
+Resiliente
+Educado
+Colaborativo
+Organizado
+Trabalho em equipe
+Empático

@@ -1,0 +1,74 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Thales Farias 
+IDADE 
+50
+EMAIL 
+cirinojoao-felipe@example.org 
+CIDADE 
+Sousa de Vieira
+ENDEREÇO 
+Setor Emanuelly Cardoso, 53
+Vila São Dimas
+17726-748 Melo / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Administrador 
+CONHECIMENTOS Direito Empresarial
+Gestão de Pessoas
+Gestão de Projetos
+Logística e Cadeia de Suprimentos
+Análise de Dados e Indicadores
+Empreendedorismo
+Negociação e Tomada de Decisão
+Contabilidade Empresarial
+Customer Success e Experiência do Cliente
+Gestão da Qualidade
+Compliance e Governança Corporativa
+Inovação e Transformação Digital
+Metodologias Ágeis Scrum
+Gestão Financeira
+Business Intelligence (BI)
+Planejamento Estratégico
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Sistemas 
+CONHECIMENTOS Frameworks Flask
+DevOps
+APIs REST
+Metodologias Ágeis Scrum
+NoSQL
+JavaScript
+Python
+HTML
+Metodologias Ágeis Kanban
+Git/GitHub
+Paradigmas de Programação
+Docker/Kubernetes
+CSS
+Segurança da Informação
+SQL
+Frameworks Django
+Algoritmos e Estruturas de Dados
+Cloud Computing
+
+ 
+HABILIDADES
+
+Empático
+Adaptável
+Organizado
+Focado
+Criativo
+Trabalho em equipe
+Liderança

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Caleb Lima 
+IDADE: 40
+EMAIL: gael-henriquenunes@example.com 
+CIDADE: Lopes da Serra
+ENDEREÇO: Feira Yuri Nogueira, 76
+Heliopolis
+64055-058 Mendonça do Sul / PR
+ 
+HABILIDADES
+
+Focado - Pontual - Trabalho em equipe - Participativo - Responsável - Empático - Organizado - Criativo - Liderança - Resiliente - Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Git/GitHub - Frameworks Flask - Docker/Kubernetes - JavaScript - CSS - Frameworks Django - Algoritmos e Estruturas de Dados - Paradigmas de Programação - APIs REST - Metodologias Ágeis Scrum - DevOps - NoSQL - Cloud Computing - Frameworks React - Metodologias Ágeis Kanban - SQL - Python - Segurança da Informação
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Docker/Kubernetes - Algoritmos e Estruturas de Dados - APIs REST - Testes Automatizados - Segurança da Informação - SQL - JavaScript - Paradigmas de Programação - NoSQL - HTML - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - Git/GitHub - Python - Cloud Computing - Frameworks Django - DevOps - CSS - Frameworks Flask - Frameworks React
+

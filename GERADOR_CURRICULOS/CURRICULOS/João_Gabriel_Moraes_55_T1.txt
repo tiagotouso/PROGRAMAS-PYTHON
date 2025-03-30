@@ -1,0 +1,52 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+João Gabriel Moraes 
+IDADE 
+55
+EMAIL 
+carvalhoester@example.com 
+CIDADE 
+Cavalcanti de Montenegro
+ENDEREÇO 
+Praia Valentina Costela, 78
+Tupi B
+23355478 Dias / RN
+ 
+HABILIDADES
+
+Responsável
+Focado
+Adaptável
+Participativo
+Colaborativo
+Empático
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS DevOps
+Python
+Testes Automatizados
+Metodologias Ágeis Scrum
+CSS
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Analista Jurídico 
+CONHECIMENTOS Oratória e Argumentação Jurídica
+Direito Administrativo
+Direito Tributário
+Gestão de Escritório de Advocacia
+Direito Penal
+Legislação Atualizada
+Direito Civil
+

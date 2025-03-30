@@ -1,0 +1,64 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS Paradigmas de Programação
+NoSQL
+Frameworks Django
+JavaScript
+CSS
+Metodologias Ágeis Scrum
+Cloud Computing
+Algoritmos e Estruturas de Dados
+APIs REST
+Metodologias Ágeis Kanban
+Segurança da Informação
+Frameworks React
+DevOps
+Testes Automatizados
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Oficial de Justiça 
+CONHECIMENTOS Código de Processo Penal
+Direito Empresarial
+Direito Administrativo
+Elaboração de Contratos
+Código de Processo Civil
+Negociação e Mediação
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Diego Castro 
+IDADE 
+35
+EMAIL 
+pietro63@example.org 
+CIDADE 
+Souza de Ramos
+ENDEREÇO 
+Sítio Benjamin da Costa, 44
+São João Batista
+97591295 da Cruz / SE
+ 
+HABILIDADES
+
+Proativo
+Pontual
+Focado
+Liderança
+Empático
+Trabalho em equipe
+Responsável
+Colaborativo
+Participativo
+Resiliente
+ 

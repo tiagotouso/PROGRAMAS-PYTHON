@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS Metodologias Ágeis Kanban - Frameworks Flask - Paradigmas de Programação - Algoritmos e Estruturas de Dados - NoSQL - Docker/Kubernetes - Segurança da Informação - CSS - SQL - Frameworks Django - Metodologias Ágeis Scrum - Git/GitHub - Frameworks React - Testes Automatizados - HTML - APIs REST
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Advogado de Família 
+CONHECIMENTOS Direito Penal - Legislação Atualizada - Direito Trabalhista - Direito Constitucional - Direito Administrativo - Gestão de Escritório de Advocacia - Direito Ambiental - Direito Civil - Ética e Deontologia Jurídica - Negociação e Mediação - Código de Processo Civil - Escrita Jurídica - Tecnologia e Direito Digital - Elaboração de Contratos - Atuação em Audiências - Direito Empresarial - Direito Tributário - Código de Processo Penal
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Olívia Nascimento 
+IDADE: 40
+EMAIL: jguerra@example.org 
+CIDADE: Casa Grande
+ENDEREÇO: Quadra Nascimento, 172
+Ernesto Nascimento
+65544-466 Cavalcanti do Amparo / AC
+ 
+HABILIDADES
+
+Adaptável - Comunicativo - Liderança - Colaborativo - Criativo - Resiliente - Pontual - Focado - Educado - Empático
+ 

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Gael Henrique Nunes 
+IDADE: 25
+EMAIL: vargasnicolas@example.org 
+CIDADE: da Paz das Pedras
+ENDEREÇO: Favela Silva
+Centro
+69060818 Silveira das Pedras / DF
+ 
+HABILIDADES
+
+Participativo - Colaborativo - Trabalho em equipe - Educado - Proativo - Responsável - Adaptável - Resiliente - Liderança - Organizado - Criativo - Pontual - Comunicativo - Empático - Focado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS Docker/Kubernetes - Git/GitHub - Paradigmas de Programação - Algoritmos e Estruturas de Dados - JavaScript - CSS - SQL - HTML - Segurança da Informação - Testes Automatizados - DevOps - Cloud Computing - Metodologias Ágeis Scrum - Frameworks React - Python - Frameworks Flask
+

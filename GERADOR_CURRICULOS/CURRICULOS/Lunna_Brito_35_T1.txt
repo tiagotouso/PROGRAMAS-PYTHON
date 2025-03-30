@@ -1,0 +1,68 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Lunna Brito 
+IDADE 
+35
+EMAIL 
+hmelo@example.com 
+CIDADE 
+Pastor da Mata
+ENDEREÇO 
+Avenida de Siqueira, 1
+Guaratã
+25112-255 Lima / PB
+ 
+HABILIDADES
+
+Pontual
+Participativo
+Resiliente
+Focado
+Comunicativo
+Proativo
+Trabalho em equipe
+Colaborativo
+Empático
+Liderança
+Criativo
+Adaptável
+Organizado
+Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Procurador 
+CONHECIMENTOS Tecnologia e Direito Digital
+Atuação em Audiências
+Ética e Deontologia Jurídica
+Escrita Jurídica
+Direito Ambiental
+Direito Civil
+Negociação e Mediação
+Código de Processo Penal
+Gestão de Escritório de Advocacia
+Oratória e Argumentação Jurídica
+Direito Penal
+Jurisprudência
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS Paradigmas de Programação
+APIs REST
+Python
+Metodologias Ágeis Scrum
+SQL
+Docker/Kubernetes
+Segurança da Informação
+DevOps
+NoSQL
+

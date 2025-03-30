@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Vitor Hugo da Paz 
+IDADE: 60
+EMAIL: liampires@example.com 
+CIDADE: Camargo
+ENDEREÇO: Quadra Lucas Gabriel Borges
+Santa Cruz
+32402-219 Gonçalves / PA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Procurador 
+CONHECIMENTOS Escrita Jurídica - Tecnologia e Direito Digital - Oratória e Argumentação Jurídica - Direito Constitucional - Direito Ambiental - Direito Trabalhista - Gestão de Escritório de Advocacia - Direito Administrativo - Direito Civil - Direito Empresarial - Jurisprudência - Negociação e Mediação - Código de Processo Civil - Direito Penal - Atuação em Audiências - Legislação Atualizada - Elaboração de Contratos
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS DevOps - Frameworks React - Python - Algoritmos e Estruturas de Dados - JavaScript - Metodologias Ágeis Scrum - SQL - CSS - HTML - Git/GitHub - Frameworks Flask - Docker/Kubernetes - Metodologias Ágeis Kanban - Segurança da Informação - Testes Automatizados - Frameworks Django - Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Pontual - Resiliente - Focado - Participativo - Responsável - Criativo - Proativo - Organizado - Empático - Trabalho em equipe - Comunicativo

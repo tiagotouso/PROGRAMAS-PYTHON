@@ -1,0 +1,76 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Recepcionista 
+CONHECIMENTOS Marketing e Vendas
+Análise de Dados e Indicadores
+Gestão de Pessoas
+Contabilidade Empresarial
+Empreendedorismo
+Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+Customer Success e Experiência do Cliente
+Gestão de Projetos
+Compliance e Governança Corporativa
+Planejamento Estratégico
+Gestão da Qualidade
+Business Intelligence (BI)
+Administração Pública
+Logística e Cadeia de Suprimentos
+Inovação e Transformação Digital
+Ética e Responsabilidade Corporativa
+Direito Empresarial
+Negociação e Tomada de Decisão
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS JavaScript
+Frameworks Django
+Algoritmos e Estruturas de Dados
+HTML
+Testes Automatizados
+Frameworks Flask
+Metodologias Ágeis Scrum
+Metodologias Ágeis Kanban
+CSS
+Paradigmas de Programação
+APIs REST
+Frameworks React
+SQL
+Cloud Computing
+Python
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Brayan Novais 
+IDADE 
+30
+EMAIL 
+yjesus@example.org 
+CIDADE 
+Cavalcante
+ENDEREÇO 
+Sítio Mendes
+Vila Jardim São José
+19265201 Vasconcelos / MS
+ 
+HABILIDADES
+
+Adaptável
+Trabalho em equipe
+Empático
+Criativo
+Proativo
+Organizado
+Focado
+Resiliente
+ 

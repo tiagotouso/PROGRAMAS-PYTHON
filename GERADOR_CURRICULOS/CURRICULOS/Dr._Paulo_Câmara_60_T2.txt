@@ -1,0 +1,66 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Paulo Câmara 
+IDADE 
+60
+EMAIL 
+benicioda-rosa@example.org 
+CIDADE 
+Fonseca
+ENDEREÇO 
+Residencial de Cavalcanti
+Leonina
+97583020 Nogueira / RO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS JavaScript
+APIs REST
+Testes Automatizados
+CSS
+Git/GitHub
+Metodologias Ágeis Kanban
+Frameworks Django
+DevOps
+Frameworks React
+Frameworks Flask
+Paradigmas de Programação
+NoSQL
+HTML
+SQL
+Python
+Segurança da Informação
+Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Advogado Tributarista 
+CONHECIMENTOS Ética e Deontologia Jurídica
+Direito Empresarial
+Direito Ambiental
+Direito Civil
+Gestão de Escritório de Advocacia
+Direito Trabalhista
+Atuação em Audiências
+Escrita Jurídica
+Código de Processo Penal
+
+ 
+HABILIDADES
+
+Empático
+Organizado
+Focado
+Participativo
+Resiliente
+Pontual
+Comunicativo

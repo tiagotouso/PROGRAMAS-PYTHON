@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Francisco da Cruz 
+IDADE: 45
+EMAIL: wazevedo@example.com 
+CIDADE: da Rocha das Flores
+ENDEREÇO: Avenida de Alves, 54
+São Jorge 1ª Seção
+30028-589 Fogaça de Ramos / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Delegado de Polícia 
+CONHECIMENTOS Tecnologia e Direito Digital - Código de Processo Civil - Direito Civil - Negociação e Mediação - Legislação Atualizada
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Advogado de Família 
+CONHECIMENTOS Ética e Deontologia Jurídica - Legislação Atualizada - Direito Administrativo - Negociação e Mediação - Direito Tributário - Escrita Jurídica - Código de Processo Penal - Direito Empresarial - Direito Ambiental - Direito Civil - Direito Constitucional - Direito Penal - Direito Trabalhista - Código de Processo Civil
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS Frameworks React - APIs REST - Paradigmas de Programação - NoSQL - Cloud Computing - Metodologias Ágeis Scrum - Git/GitHub - HTML - Frameworks Django - DevOps - Testes Automatizados - Algoritmos e Estruturas de Dados - Python - Segurança da Informação - CSS - Metodologias Ágeis Kanban
+
+ 
+HABILIDADES
+
+Educado - Resiliente - Organizado - Empático - Participativo - Proativo - Comunicativo - Pontual - Trabalho em equipe - Liderança - Responsável - Criativo - Adaptável

@@ -1,0 +1,55 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Desenvolvedor Full Stack 
+CONHECIMENTOS Git/GitHub
+SQL
+Segurança da Informação
+Frameworks Django
+NoSQL
+APIs REST
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Kanban
+DevOps
+Paradigmas de Programação
+Metodologias Ágeis Scrum
+Cloud Computing
+Testes Automatizados
+HTML
+JavaScript
+Frameworks React
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Mariah da Mota 
+IDADE 
+30
+EMAIL 
+ester99@example.com 
+CIDADE 
+Jesus
+ENDEREÇO 
+Setor Rezende, 3
+São Pedro
+39030093 Mendonça Alegre / BA
+ 
+HABILIDADES
+
+Organizado
+Pontual
+Responsável
+Focado
+Adaptável
+Colaborativo
+Educado
+Liderança
+Empático
+Participativo
+ 

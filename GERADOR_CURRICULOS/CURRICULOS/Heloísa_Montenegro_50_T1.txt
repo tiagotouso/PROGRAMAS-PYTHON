@@ -1,0 +1,83 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Heloísa Montenegro 
+IDADE 
+50
+EMAIL 
+yandrade@example.net 
+CIDADE 
+Mendes Paulista
+ENDEREÇO 
+Largo Silva, 6
+São José
+80200-487 Casa Grande / DF
+ 
+HABILIDADES
+
+Liderança
+Proativo
+Adaptável
+Pontual
+Participativo
+Focado
+Empático
+Responsável
+Educado
+Colaborativo
+Criativo
+Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Controladoria 
+CONHECIMENTOS Planejamento Estratégico
+Gestão de Pessoas
+Administração Pública
+Metodologias Ágeis Scrum
+Compliance e Governança Corporativa
+Contabilidade Empresarial
+Gestão da Qualidade
+Gestão de Projetos
+Logística e Cadeia de Suprimentos
+Análise de Dados e Indicadores
+Gestão Financeira
+Empreendedorismo
+Negociação e Tomada de Decisão
+Customer Success e Experiência do Cliente
+Direito Empresarial
+Business Intelligence (BI)
+Ética e Responsabilidade Corporativa
+Marketing e Vendas
+Liderança e Gestão de Equipes
+Inovação e Transformação Digital
+Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Product Manager (PM) 
+CONHECIMENTOS Segurança da Informação
+NoSQL
+Docker/Kubernetes
+Python
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Scrum
+Frameworks Flask
+APIs REST
+DevOps
+HTML
+Paradigmas de Programação
+SQL
+Git/GitHub
+JavaScript
+Frameworks Django
+Frameworks React
+Cloud Computing
+

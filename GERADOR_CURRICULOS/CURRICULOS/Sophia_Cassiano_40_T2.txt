@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sophia Cassiano 
+IDADE: 40
+EMAIL: cavalcantilorena@example.com 
+CIDADE: Ramos
+ENDEREÇO: Avenida Luiza Silva, 60
+Álvaro Camargos
+87276-980 Dias / PB
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS Cloud Computing - Algoritmos e Estruturas de Dados - APIs REST - Paradigmas de Programação - Python - Segurança da Informação - Testes Automatizados - Frameworks Flask - Docker/Kubernetes - DevOps - HTML - NoSQL - JavaScript - CSS - Metodologias Ágeis Scrum - Git/GitHub - Metodologias Ágeis Kanban - SQL - Frameworks React - Frameworks Django
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Analista de Logística 
+CONHECIMENTOS Negociação e Tomada de Decisão - Administração Pública - Contabilidade Empresarial - Marketing e Vendas - Planejamento Estratégico - Liderança e Gestão de Equipes - Gestão de Pessoas - Customer Success e Experiência do Cliente - Inovação e Transformação Digital - Logística e Cadeia de Suprimentos - Metodologias Ágeis Kanban - Compliance e Governança Corporativa - Análise de Dados e Indicadores - Gestão de Projetos - Ética e Responsabilidade Corporativa - Metodologias Ágeis Scrum - Gestão da Qualidade - Empreendedorismo - Business Intelligence (BI) - Gestão Financeira
+
+ 
+HABILIDADES
+
+Empático - Proativo - Comunicativo - Pontual - Organizado - Responsável - Educado - Focado - Trabalho em equipe - Resiliente - Criativo - Adaptável

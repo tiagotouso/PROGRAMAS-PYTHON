@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS JavaScript - Testes Automatizados - HTML - Cloud Computing - Paradigmas de Programação - Frameworks Flask - Python - Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - Git/GitHub - DevOps - Segurança da Informação - NoSQL - CSS - Docker/Kubernetes - APIs REST - Metodologias Ágeis Kanban - Frameworks React - Frameworks Django
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Analista de Compliance 
+CONHECIMENTOS Customer Success e Experiência do Cliente - Gestão da Qualidade - Logística e Cadeia de Suprimentos - Liderança e Gestão de Equipes - Planejamento Estratégico - Gestão de Pessoas - Metodologias Ágeis Kanban
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Eduardo Mendes 
+IDADE: 55
+EMAIL: santosisabela@example.org 
+CIDADE: da Paz de Pereira
+ENDEREÇO: Morro Esther Araújo, 101
+Cruzeiro
+20868-213 Barbosa / AP
+ 
+HABILIDADES
+
+Organizado - Educado - Proativo - Responsável - Resiliente - Colaborativo - Focado - Pontual - Adaptável - Participativo - Trabalho em equipe - Empático - Comunicativo - Criativo - Liderança
+ 

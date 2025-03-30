@@ -1,0 +1,49 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS Paradigmas de Programação
+Segurança da Informação
+DevOps
+Frameworks Flask
+Frameworks React
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sra. Maria Liz Nascimento 
+IDADE 
+30
+EMAIL 
+mariahpeixoto@example.com 
+CIDADE 
+Macedo
+ENDEREÇO 
+Praia de Fogaça, 308
+Santa Rosa
+72031029 Casa Grande / RS
+ 
+HABILIDADES
+
+Adaptável
+Educado
+Proativo
+Criativo
+Pontual
+Responsável
+Focado
+Participativo
+Liderança
+Trabalho em equipe
+Resiliente
+Colaborativo
+Empático
+Organizado
+Comunicativo
+ 

@@ -1,0 +1,53 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Julia da Mata 
+IDADE 
+60
+EMAIL 
+britolorenzo@example.org 
+CIDADE 
+Rocha
+ENDEREÇO 
+Largo Sá, 2
+Vila Mantiqueira
+15209-632 da Luz do Sul / RN
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Git/GitHub
+Frameworks Django
+Paradigmas de Programação
+CSS
+Testes Automatizados
+Metodologias Ágeis Scrum
+Cloud Computing
+DevOps
+APIs REST
+JavaScript
+NoSQL
+Segurança da Informação
+Algoritmos e Estruturas de Dados
+Docker/Kubernetes
+Python
+Frameworks React
+HTML
+Frameworks Flask
+SQL
+
+ 
+HABILIDADES
+
+Adaptável
+Criativo
+Proativo
+Resiliente
+Pontual
+Liderança

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: André Silveira 
+IDADE: 35
+EMAIL: antoniocosta@example.org 
+CIDADE: Ferreira
+ENDEREÇO: Campo de Lima, 21
+Santa Tereza
+13018507 Cirino / MS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS Git/GitHub - Metodologias Ágeis Scrum - DevOps - SQL - CSS - Paradigmas de Programação - NoSQL - Docker/Kubernetes - APIs REST - Segurança da Informação - JavaScript - Metodologias Ágeis Kanban - Testes Automatizados - Python - Cloud Computing - Frameworks React
+
+ 
+HABILIDADES
+
+Participativo - Trabalho em equipe - Empático - Educado - Pontual

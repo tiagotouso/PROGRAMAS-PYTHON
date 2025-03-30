@@ -1,0 +1,63 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Luiza Brito 
+IDADE 
+50
+EMAIL 
+maria-isisandrade@example.org 
+CIDADE 
+Peixoto
+ENDEREÇO 
+Vila Gabriela Pires, 44
+São José
+69728762 Cardoso / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS Git/GitHub
+JavaScript
+Metodologias Ágeis Kanban
+DevOps
+Paradigmas de Programação
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Promotor de Justiça 
+CONHECIMENTOS Negociação e Mediação
+Direito Civil
+Direito Empresarial
+Elaboração de Contratos
+Atuação em Audiências
+Direito Ambiental
+Código de Processo Civil
+Direito Trabalhista
+Oratória e Argumentação Jurídica
+Direito Administrativo
+Direito Penal
+Tecnologia e Direito Digital
+Código de Processo Penal
+Gestão de Escritório de Advocacia
+Direito Constitucional
+Legislação Atualizada
+
+ 
+HABILIDADES
+
+Comunicativo
+Focado
+Adaptável
+Criativo
+Organizado
+Proativo
+Educado
+Colaborativo
+Trabalho em equipe

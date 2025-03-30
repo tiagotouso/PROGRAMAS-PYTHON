@@ -1,0 +1,107 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Anthony Cavalcanti 
+IDADE 
+55
+EMAIL 
+gborges@example.com 
+CIDADE 
+Sousa
+ENDEREÇO 
+Chácara de Abreu
+Tupi B
+19708638 Camargo / MA
+ 
+HABILIDADES
+
+Empático
+Comunicativo
+Organizado
+Participativo
+Responsável
+Educado
+Criativo
+Resiliente
+Proativo
+Liderança
+Focado
+Adaptável
+Trabalho em equipe
+Colaborativo
+Pontual
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Tester/QA (Quality Assurance) 
+CONHECIMENTOS Git/GitHub
+DevOps
+APIs REST
+Metodologias Ágeis Kanban
+Python
+JavaScript
+Algoritmos e Estruturas de Dados
+Segurança da Informação
+NoSQL
+SQL
+HTML
+Testes Automatizados
+Frameworks Flask
+Cloud Computing
+Frameworks Django
+Frameworks React
+Docker/Kubernetes
+Paradigmas de Programação
+CSS
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Diretor Administrativo 
+CONHECIMENTOS Gestão de Pessoas
+Administração Pública
+Logística e Cadeia de Suprimentos
+Metodologias Ágeis Kanban
+Business Intelligence (BI)
+Negociação e Tomada de Decisão
+Liderança e Gestão de Equipes
+Metodologias Ágeis Scrum
+Contabilidade Empresarial
+Empreendedorismo
+Planejamento Estratégico
+Análise de Dados e Indicadores
+Marketing e Vendas
+Ética e Responsabilidade Corporativa
+Direito Empresarial
+Compliance e Governança Corporativa
+Gestão de Projetos
+Customer Success e Experiência do Cliente
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Defensor Público 
+CONHECIMENTOS Escrita Jurídica
+Negociação e Mediação
+Direito Ambiental
+Legislação Atualizada
+Tecnologia e Direito Digital
+Jurisprudência
+Direito Administrativo
+Direito Constitucional
+Direito Trabalhista
+Ética e Deontologia Jurídica
+Direito Tributário
+Elaboração de Contratos
+Direito Empresarial
+Código de Processo Civil
+Código de Processo Penal
+Atuação em Audiências
+Direito Penal
+

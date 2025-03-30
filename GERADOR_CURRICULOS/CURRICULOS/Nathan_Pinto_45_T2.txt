@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Nathan Pinto 
+IDADE: 45
+EMAIL: mda-cruz@example.org 
+CIDADE: da Conceição
+ENDEREÇO: Viaduto de Silva, 78
+Mantiqueira
+07715352 da Paz do Galho / AM
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Coordenador Administrativo 
+CONHECIMENTOS Ética e Responsabilidade Corporativa - Gestão da Qualidade - Liderança e Gestão de Equipes - Business Intelligence (BI) - Planejamento Estratégico - Gestão de Pessoas - Direito Empresarial - Empreendedorismo - Marketing e Vendas - Negociação e Tomada de Decisão
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Site Reliability Engineer (SRE) 
+CONHECIMENTOS CSS - Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - SQL - HTML - Git/GitHub - APIs REST - Docker/Kubernetes - NoSQL - Segurança da Informação - DevOps - Frameworks Django - Cloud Computing - Metodologias Ágeis Kanban - JavaScript
+
+ 
+HABILIDADES
+
+Adaptável - Resiliente - Empático - Comunicativo - Pontual - Criativo - Proativo - Trabalho em equipe - Focado - Liderança - Educado - Responsável - Colaborativo - Participativo - Organizado

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Enrico Melo 
+IDADE: 35
+EMAIL: caparecida@example.com 
+CIDADE: Rocha
+ENDEREÇO: Fazenda Vinícius da Rosa, 80
+Pindura Saia
+36268-725 Marques / MS
+ 
+HABILIDADES
+
+Liderança - Pontual - Responsável - Colaborativo - Criativo - Educado - Participativo - Empático - Comunicativo - Organizado - Proativo - Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Consultor de TI 
+CONHECIMENTOS Python - Docker/Kubernetes - NoSQL - Metodologias Ágeis Kanban - CSS - DevOps - Frameworks Django - APIs REST - Metodologias Ágeis Scrum - HTML - Testes Automatizados - Segurança da Informação - Algoritmos e Estruturas de Dados - Frameworks React - Git/GitHub - Cloud Computing - Paradigmas de Programação - Frameworks Flask - SQL - JavaScript
+

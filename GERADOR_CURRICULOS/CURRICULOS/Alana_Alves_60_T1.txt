@@ -1,0 +1,59 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Alana Alves 
+IDADE 
+60
+EMAIL 
+larissavargas@example.org 
+CIDADE 
+das Neves de Teixeira
+ENDEREÇO 
+Lagoa Carvalho, 514
+Vila Nova Cachoeirinha 3ª Seção
+43545238 Marques Alegre / MA
+ 
+HABILIDADES
+
+Participativo
+Proativo
+Colaborativo
+Responsável
+Empático
+Trabalho em equipe
+Liderança
+Adaptável
+Organizado
+Focado
+Comunicativo
+Pontual
+Resiliente
+Educado
+Criativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Administrador de Redes 
+CONHECIMENTOS APIs REST
+Docker/Kubernetes
+Cloud Computing
+Metodologias Ágeis Scrum
+Frameworks Flask
+Paradigmas de Programação
+DevOps
+Git/GitHub
+NoSQL
+HTML
+Algoritmos e Estruturas de Dados
+Python
+CSS
+Segurança da Informação
+Frameworks Django
+JavaScript
+

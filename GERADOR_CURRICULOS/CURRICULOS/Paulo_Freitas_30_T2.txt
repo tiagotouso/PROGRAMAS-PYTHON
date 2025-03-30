@@ -1,0 +1,70 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Paulo Freitas 
+IDADE 
+30
+EMAIL 
+miguel02@example.net 
+CIDADE 
+Ferreira de Almeida
+ENDEREÇO 
+Avenida Dias
+Santa Helena
+29344092 Cunha / GO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS DevOps
+Algoritmos e Estruturas de Dados
+Cloud Computing
+HTML
+Testes Automatizados
+Docker/Kubernetes
+NoSQL
+SQL
+Git/GitHub
+CSS
+Metodologias Ágeis Scrum
+Paradigmas de Programação
+JavaScript
+APIs REST
+Segurança da Informação
+Metodologias Ágeis Kanban
+Python
+Frameworks React
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Qualidade 
+CONHECIMENTOS Negociação e Tomada de Decisão
+Análise de Dados e Indicadores
+Compliance e Governança Corporativa
+Empreendedorismo
+Gestão Financeira
+
+ 
+HABILIDADES
+
+Proativo
+Focado
+Comunicativo
+Responsável
+Colaborativo
+Pontual
+Criativo
+Adaptável
+Trabalho em equipe
+Empático
+Resiliente
+Organizado
+Liderança

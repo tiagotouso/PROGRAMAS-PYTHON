@@ -1,0 +1,61 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Clara da Conceição 
+IDADE 
+30
+EMAIL 
+thomascavalcante@example.com 
+CIDADE 
+Cassiano
+ENDEREÇO 
+Núcleo Jesus, 93
+Laranjeiras
+82180109 Macedo / MS
+ 
+HABILIDADES
+
+Criativo
+Proativo
+Trabalho em equipe
+Organizado
+Adaptável
+Educado
+Liderança
+Resiliente
+Responsável
+Focado
+Comunicativo
+Empático
+Colaborativo
+Participativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista de Business Intelligence (BI) 
+CONHECIMENTOS HTML
+Metodologias Ágeis Kanban
+Algoritmos e Estruturas de Dados
+DevOps
+JavaScript
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Infraestrutura 
+CONHECIMENTOS Segurança da Informação
+Metodologias Ágeis Scrum
+Algoritmos e Estruturas de Dados
+Git/GitHub
+DevOps
+Python
+Frameworks Flask
+APIs REST
+Metodologias Ágeis Kanban
+

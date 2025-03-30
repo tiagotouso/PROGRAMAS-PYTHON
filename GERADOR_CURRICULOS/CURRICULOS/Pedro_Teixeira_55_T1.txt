@@ -1,0 +1,66 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Pedro Teixeira 
+IDADE 
+55
+EMAIL 
+maysa23@example.com 
+CIDADE 
+Leão
+ENDEREÇO 
+Praça Freitas
+Conjunto Bonsucesso
+03292567 Vasconcelos / CE
+ 
+HABILIDADES
+
+Criativo
+Pontual
+Trabalho em equipe
+Responsável
+Colaborativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Site Reliability Engineer (SRE) 
+CONHECIMENTOS Docker/Kubernetes
+Git/GitHub
+Cloud Computing
+DevOps
+Metodologias Ágeis Scrum
+SQL
+CSS
+Segurança da Informação
+Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 
+24 anos 
+CARGO 
+Gestor de Contratos 
+CONHECIMENTOS Direito Empresarial
+Gestão de Projetos
+Contabilidade Empresarial
+Business Intelligence (BI)
+Logística e Cadeia de Suprimentos
+Administração Pública
+Metodologias Ágeis Kanban
+Gestão da Qualidade
+Customer Success e Experiência do Cliente
+Empreendedorismo
+Negociação e Tomada de Decisão
+Gestão de Pessoas
+Gestão Financeira
+Liderança e Gestão de Equipes
+Planejamento Estratégico
+Análise de Dados e Indicadores
+Marketing e Vendas
+Compliance e Governança Corporativa
+Inovação e Transformação Digital
+

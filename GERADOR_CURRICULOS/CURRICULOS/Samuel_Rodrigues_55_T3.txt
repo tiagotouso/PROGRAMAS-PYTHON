@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Paradigmas de Programação - SQL - NoSQL - Algoritmos e Estruturas de Dados - Testes Automatizados - Git/GitHub - CSS
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Analista de Compliance 
+CONHECIMENTOS Customer Success e Experiência do Cliente - Gestão da Qualidade - Ética e Responsabilidade Corporativa - Administração Pública - Planejamento Estratégico - Gestão Financeira - Logística e Cadeia de Suprimentos - Empreendedorismo - Gestão de Projetos - Compliance e Governança Corporativa - Liderança e Gestão de Equipes - Contabilidade Empresarial - Direito Empresarial - Marketing e Vendas - Business Intelligence (BI) - Negociação e Tomada de Decisão - Análise de Dados e Indicadores - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Samuel Rodrigues 
+IDADE: 55
+EMAIL: hda-rosa@example.net 
+CIDADE: Albuquerque
+ENDEREÇO: Via de Abreu, 64
+Conjunto Celso Machado
+87499125 Jesus / TO
+ 
+HABILIDADES
+
+Empático - Colaborativo - Criativo - Resiliente - Participativo - Liderança
+ 

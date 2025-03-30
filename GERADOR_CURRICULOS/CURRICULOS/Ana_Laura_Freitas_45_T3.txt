@@ -1,0 +1,53 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Site Reliability Engineer (SRE) 
+CONHECIMENTOS Frameworks Django
+Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+SQL
+Metodologias Ágeis Kanban
+NoSQL
+Docker/Kubernetes
+Frameworks Flask
+JavaScript
+Testes Automatizados
+CSS
+DevOps
+Segurança da Informação
+Python
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Laura Freitas 
+IDADE 
+45
+EMAIL 
+oliviaalmeida@example.net 
+CIDADE 
+Mendonça do Oeste
+ENDEREÇO 
+Lagoa da Mota, 621
+João Paulo Ii
+58197186 da Cunha do Campo / RR
+ 
+HABILIDADES
+
+Resiliente
+Focado
+Pontual
+Adaptável
+Criativo
+Participativo
+Liderança
+Trabalho em equipe
+Colaborativo
+Empático
+ 

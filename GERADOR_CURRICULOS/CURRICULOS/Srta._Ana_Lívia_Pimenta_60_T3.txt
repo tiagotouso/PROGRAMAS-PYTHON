@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Gerente de Operações 
+CONHECIMENTOS Compliance e Governança Corporativa - Planejamento Estratégico - Inovação e Transformação Digital - Análise de Dados e Indicadores - Metodologias Ágeis Kanban - Contabilidade Empresarial - Marketing e Vendas - Empreendedorismo - Gestão de Pessoas - Negociação e Tomada de Decisão
+
+TEMPO DE SERVIÇO: 26 anos 
+CARGO: Escrivão 
+CONHECIMENTOS Negociação e Mediação - Escrita Jurídica - Tecnologia e Direito Digital - Oratória e Argumentação Jurídica - Direito Trabalhista - Direito Tributário - Legislação Atualizada - Elaboração de Contratos - Gestão de Escritório de Advocacia - Ética e Deontologia Jurídica - Código de Processo Civil - Direito Administrativo - Atuação em Audiências - Direito Constitucional - Direito Civil - Direito Penal - Direito Ambiental - Jurisprudência - Direito Empresarial - Código de Processo Penal
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Especialista em Inteligência Artificial 
+CONHECIMENTOS Frameworks Flask - CSS - Testes Automatizados - Paradigmas de Programação - NoSQL - Segurança da Informação - HTML - APIs REST - Metodologias Ágeis Scrum - Docker/Kubernetes - SQL - Python
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Srta. Ana Lívia Pimenta 
+IDADE: 60
+EMAIL: matteo89@example.org 
+CIDADE: da Cruz da Praia
+ENDEREÇO: Conjunto de Pimenta
+Vila Antena Montanhês
+09023-327 Costela de Macedo / MG
+ 
+HABILIDADES
+
+Resiliente - Comunicativo - Empático - Focado - Criativo - Pontual - Colaborativo - Organizado - Adaptável
+ 

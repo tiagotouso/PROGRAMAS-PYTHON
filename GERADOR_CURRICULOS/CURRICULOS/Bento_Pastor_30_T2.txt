@@ -1,0 +1,49 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Bento Pastor 
+IDADE 
+30
+EMAIL 
+heloisa45@example.com 
+CIDADE 
+Peixoto Grande
+ENDEREÇO 
+Recanto Brenda Souza, 621
+Vila Inestan
+44082743 Pires / PE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Analista de Infraestrutura 
+CONHECIMENTOS NoSQL
+APIs REST
+Paradigmas de Programação
+CSS
+Testes Automatizados
+Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+JavaScript
+Algoritmos e Estruturas de Dados
+
+ 
+HABILIDADES
+
+Adaptável
+Comunicativo
+Pontual
+Responsável
+Proativo
+Participativo
+Trabalho em equipe
+Criativo
+Colaborativo
+Empático
+Liderança
+Educado

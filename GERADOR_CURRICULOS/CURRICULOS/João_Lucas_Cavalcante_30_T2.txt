@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: João Lucas Cavalcante 
+IDADE: 30
+EMAIL: ana-sophiaribeiro@example.com 
+CIDADE: Cunha de Pimenta
+ENDEREÇO: Campo Macedo, 22
+Campo Alegre
+99052517 Pinto do Oeste / CE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS Git/GitHub - Frameworks Flask - Frameworks Django - Frameworks React - NoSQL - JavaScript - Segurança da Informação - Python - Metodologias Ágeis Kanban - DevOps - CSS - Metodologias Ágeis Scrum - SQL - HTML
+
+ 
+HABILIDADES
+
+Proativo - Focado - Resiliente - Responsável - Organizado - Colaborativo - Adaptável - Comunicativo - Trabalho em equipe - Liderança - Criativo

@@ -1,0 +1,69 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Amanda Lopes 
+IDADE 
+60
+EMAIL 
+davi-miguelfonseca@example.net 
+CIDADE 
+Pereira da Serra
+ENDEREÇO 
+Passarela Castro, 98
+Itatiaia
+92015312 Castro de Sampaio / AM
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Advogado Civil 
+CONHECIMENTOS Tecnologia e Direito Digital
+Direito Empresarial
+Oratória e Argumentação Jurídica
+Ética e Deontologia Jurídica
+Legislação Atualizada
+Direito Civil
+Gestão de Escritório de Advocacia
+Elaboração de Contratos
+Código de Processo Penal
+Código de Processo Civil
+Direito Constitucional
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS Git/GitHub
+Segurança da Informação
+Metodologias Ágeis Kanban
+HTML
+Frameworks Flask
+APIs REST
+Testes Automatizados
+Algoritmos e Estruturas de Dados
+Docker/Kubernetes
+Cloud Computing
+DevOps
+Python
+NoSQL
+JavaScript
+Paradigmas de Programação
+Frameworks React
+CSS
+SQL
+Metodologias Ágeis Scrum
+Frameworks Django
+
+ 
+HABILIDADES
+
+Adaptável
+Educado
+Pontual
+Empático
+Resiliente

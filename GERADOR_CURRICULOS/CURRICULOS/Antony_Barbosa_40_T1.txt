@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Antony Barbosa 
+IDADE: 40
+EMAIL: pereiramaria-julia@example.org 
+CIDADE: Caldeira Verde
+ENDEREÇO: Vale Araújo, 7
+Mariquinhas
+36034-459 Ferreira / PR
+ 
+HABILIDADES
+
+Organizado - Resiliente - Criativo - Responsável - Adaptável - Empático - Participativo - Proativo - Trabalho em equipe - Focado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS Frameworks React - APIs REST - DevOps - Frameworks Flask - Cloud Computing - Frameworks Django - Metodologias Ágeis Scrum - Docker/Kubernetes - Testes Automatizados - Python - SQL - Segurança da Informação - CSS - Metodologias Ágeis Kanban
+

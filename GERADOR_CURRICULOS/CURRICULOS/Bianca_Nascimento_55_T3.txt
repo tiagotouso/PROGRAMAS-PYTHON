@@ -1,0 +1,93 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Sistemas 
+CONHECIMENTOS CSS
+Paradigmas de Programação
+SQL
+Frameworks Django
+Frameworks React
+APIs REST
+Metodologias Ágeis Scrum
+Segurança da Informação
+Docker/Kubernetes
+Frameworks Flask
+DevOps
+Metodologias Ágeis Kanban
+NoSQL
+HTML
+Testes Automatizados
+JavaScript
+Python
+Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Business Intelligence (BI) 
+CONHECIMENTOS Metodologias Ágeis Scrum
+Python
+Frameworks Django
+Cloud Computing
+NoSQL
+Frameworks Flask
+Metodologias Ágeis Kanban
+HTML
+Paradigmas de Programação
+DevOps
+SQL
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Desenvolvedor Backend 
+CONHECIMENTOS Frameworks Django
+CSS
+Metodologias Ágeis Kanban
+SQL
+DevOps
+Docker/Kubernetes
+NoSQL
+Paradigmas de Programação
+Metodologias Ágeis Scrum
+HTML
+Cloud Computing
+Frameworks Flask
+Frameworks React
+Testes Automatizados
+Segurança da Informação
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Bianca Nascimento 
+IDADE 
+55
+EMAIL 
+anthonyandrade@example.com 
+CIDADE 
+Almeida
+ENDEREÇO 
+Distrito de Castro
+Vila Santo Antônio Barroquinha
+43658-234 Aragão / MG
+ 
+HABILIDADES
+
+Participativo
+Comunicativo
+Empático
+Focado
+Organizado
+Proativo
+Resiliente
+Responsável
+Colaborativo
+Criativo
+ 

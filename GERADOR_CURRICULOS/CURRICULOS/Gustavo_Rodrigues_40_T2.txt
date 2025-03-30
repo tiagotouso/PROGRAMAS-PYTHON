@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Gustavo Rodrigues 
+IDADE: 40
+EMAIL: pedro-lucas30@example.com 
+CIDADE: Cirino Grande
+ENDEREÇO: Distrito Brito, 53
+Salgado Filho
+74410934 Marques / AL
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS HTML - DevOps - Cloud Computing - CSS - APIs REST - Docker/Kubernetes - Metodologias Ágeis Scrum - Testes Automatizados - NoSQL - Frameworks Django - Algoritmos e Estruturas de Dados - Git/GitHub - SQL - JavaScript - Metodologias Ágeis Kanban - Paradigmas de Programação
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Coordenador Administrativo 
+CONHECIMENTOS Liderança e Gestão de Equipes - Gestão de Pessoas - Negociação e Tomada de Decisão - Logística e Cadeia de Suprimentos - Metodologias Ágeis Scrum - Administração Pública - Metodologias Ágeis Kanban - Empreendedorismo - Inovação e Transformação Digital - Análise de Dados e Indicadores - Customer Success e Experiência do Cliente - Business Intelligence (BI) - Planejamento Estratégico
+
+ 
+HABILIDADES
+
+Adaptável - Educado - Comunicativo - Organizado - Criativo - Focado - Pontual - Colaborativo - Proativo - Participativo - Resiliente - Empático - Liderança - Trabalho em equipe - Responsável

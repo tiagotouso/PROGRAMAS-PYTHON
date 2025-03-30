@@ -1,0 +1,76 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Tester/QA (Quality Assurance) 
+CONHECIMENTOS Frameworks Django
+SQL
+Git/GitHub
+APIs REST
+Frameworks Flask
+Segurança da Informação
+NoSQL
+Algoritmos e Estruturas de Dados
+Testes Automatizados
+Python
+Cloud Computing
+JavaScript
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS Cloud Computing
+Frameworks Flask
+Testes Automatizados
+Docker/Kubernetes
+Python
+NoSQL
+Paradigmas de Programação
+Segurança da Informação
+SQL
+Metodologias Ágeis Scrum
+Frameworks Django
+Git/GitHub
+JavaScript
+DevOps
+Frameworks React
+Algoritmos e Estruturas de Dados
+APIs REST
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Clarice Jesus 
+IDADE 
+40
+EMAIL 
+henryda-rocha@example.com 
+CIDADE 
+Casa Grande Grande
+ENDEREÇO 
+Lago de Novaes
+São Vicente
+77844-392 Cavalcante / CE
+ 
+HABILIDADES
+
+Pontual
+Organizado
+Participativo
+Trabalho em equipe
+Liderança
+Adaptável
+Responsável
+Criativo
+Proativo
+Comunicativo
+Resiliente
+Empático
+Educado
+ 

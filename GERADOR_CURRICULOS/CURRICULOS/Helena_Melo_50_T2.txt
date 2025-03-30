@@ -1,0 +1,77 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Helena Melo 
+IDADE 
+50
+EMAIL 
+thiago27@example.com 
+CIDADE 
+Caldeira
+ENDEREÇO 
+Vereda João Miguel Machado, 8
+Delta
+36512068 Câmara Grande / MG
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Consultor Empresarial 
+CONHECIMENTOS Customer Success e Experiência do Cliente
+Contabilidade Empresarial
+Gestão de Projetos
+Planejamento Estratégico
+Metodologias Ágeis Scrum
+Empreendedorismo
+Ética e Responsabilidade Corporativa
+Marketing e Vendas
+Liderança e Gestão de Equipes
+Negociação e Tomada de Decisão
+Gestão Financeira
+Compliance e Governança Corporativa
+Direito Empresarial
+Metodologias Ágeis Kanban
+Inovação e Transformação Digital
+Análise de Dados e Indicadores
+Gestão da Qualidade
+Administração Pública
+Logística e Cadeia de Suprimentos
+Business Intelligence (BI)
+Gestão de Pessoas
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS Testes Automatizados
+JavaScript
+SQL
+Git/GitHub
+Frameworks React
+CSS
+Algoritmos e Estruturas de Dados
+Python
+HTML
+Cloud Computing
+
+ 
+HABILIDADES
+
+Focado
+Responsável
+Participativo
+Educado
+Colaborativo
+Organizado
+Adaptável
+Liderança
+Resiliente
+Comunicativo
+Trabalho em equipe
+Empático
+Criativo

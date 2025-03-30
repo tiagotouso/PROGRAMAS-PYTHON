@@ -1,0 +1,69 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Léo da Mata 
+IDADE 
+35
+EMAIL 
+bfarias@example.org 
+CIDADE 
+Barros
+ENDEREÇO 
+Estrada de Nascimento
+Santo André
+92093-587 Monteiro / AC
+ 
+HABILIDADES
+
+Criativo
+Participativo
+Empático
+Resiliente
+Organizado
+Focado
+Comunicativo
+Educado
+Liderança
+Pontual
+Trabalho em equipe
+Colaborativo
+Responsável
+Proativo
+Adaptável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Frameworks React
+NoSQL
+Git/GitHub
+SQL
+JavaScript
+Frameworks Flask
+Metodologias Ágeis Kanban
+Cloud Computing
+CSS
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Especialista em Cibersegurança 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+DevOps
+Metodologias Ágeis Kanban
+Testes Automatizados
+APIs REST
+NoSQL
+Git/GitHub
+Metodologias Ágeis Scrum
+Cloud Computing
+JavaScript
+HTML
+Paradigmas de Programação
+

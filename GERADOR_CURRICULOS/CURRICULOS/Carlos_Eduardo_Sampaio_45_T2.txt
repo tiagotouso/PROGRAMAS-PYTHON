@@ -1,0 +1,68 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Carlos Eduardo Sampaio 
+IDADE 
+45
+EMAIL 
+xcasa-grande@example.org 
+CIDADE 
+Nunes do Amparo
+ENDEREÇO 
+Fazenda Lucas da Conceição, 433
+Cidade Nova
+38122739 da Luz / PB
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Testes Automatizados
+APIs REST
+Paradigmas de Programação
+Frameworks Flask
+Metodologias Ágeis Scrum
+SQL
+CSS
+Docker/Kubernetes
+HTML
+Frameworks Django
+DevOps
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Sistemas 
+CONHECIMENTOS HTML
+Python
+Git/GitHub
+SQL
+Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+NoSQL
+Frameworks React
+DevOps
+
+ 
+HABILIDADES
+
+Liderança
+Proativo
+Participativo
+Comunicativo
+Trabalho em equipe
+Criativo
+Pontual
+Empático
+Colaborativo
+Organizado
+Educado
+Focado
+Adaptável
+Responsável
+Resiliente

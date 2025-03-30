@@ -1,0 +1,81 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Qualidade 
+CONHECIMENTOS Customer Success e Experiência do Cliente
+Metodologias Ágeis Kanban
+Planejamento Estratégico
+Empreendedorismo
+Análise de Dados e Indicadores
+Gestão de Pessoas
+Gestão Financeira
+Direito Empresarial
+Liderança e Gestão de Equipes
+Administração Pública
+Business Intelligence (BI)
+Gestão da Qualidade
+Logística e Cadeia de Suprimentos
+Ética e Responsabilidade Corporativa
+Negociação e Tomada de Decisão
+Compliance e Governança Corporativa
+Marketing e Vendas
+Contabilidade Empresarial
+Gestão de Projetos
+Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS Git/GitHub
+SQL
+Metodologias Ágeis Scrum
+Frameworks Django
+APIs REST
+NoSQL
+Python
+Metodologias Ágeis Kanban
+Frameworks React
+Paradigmas de Programação
+JavaScript
+HTML
+Frameworks Flask
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Benjamin Mendonça 
+IDADE 
+35
+EMAIL 
+da-cunhacaue@example.com 
+CIDADE 
+Azevedo de Goiás
+ENDEREÇO 
+Trecho Antônio da Mota, 821
+Maria Virgínia
+17942-632 Farias / PR
+ 
+HABILIDADES
+
+Liderança
+Adaptável
+Colaborativo
+Participativo
+Focado
+Educado
+Comunicativo
+Responsável
+Proativo
+Criativo
+Pontual
+Trabalho em equipe
+Resiliente
+Empático
+ 

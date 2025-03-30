@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS Git/GitHub - HTML - JavaScript - Python - Frameworks Flask - Cloud Computing - DevOps - Metodologias Ágeis Kanban - Frameworks React - Paradigmas de Programação - Algoritmos e Estruturas de Dados - Docker/Kubernetes - SQL - NoSQL - Testes Automatizados - Frameworks Django - APIs REST - Metodologias Ágeis Scrum
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Vitor Montenegro 
+IDADE: 35
+EMAIL: joaquimvasconcelos@example.org 
+CIDADE: Farias
+ENDEREÇO: Praia Casa Grande, 87
+Europa
+97646516 Melo / ES
+ 
+HABILIDADES
+
+Adaptável - Colaborativo - Organizado - Resiliente - Educado - Liderança - Criativo - Comunicativo - Proativo - Empático - Participativo - Pontual
+ 

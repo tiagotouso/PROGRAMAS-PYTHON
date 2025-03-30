@@ -1,0 +1,69 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS DevOps
+Git/GitHub
+Paradigmas de Programação
+SQL
+CSS
+APIs REST
+Python
+Docker/Kubernetes
+Frameworks React
+Cloud Computing
+Frameworks Django
+Metodologias Ágeis Kanban
+HTML
+Metodologias Ágeis Scrum
+Testes Automatizados
+NoSQL
+JavaScript
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Advogado Previdenciário 
+CONHECIMENTOS Direito Ambiental
+Direito Penal
+Jurisprudência
+Negociação e Mediação
+Legislação Atualizada
+Código de Processo Civil
+Direito Empresarial
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Emanuelly da Cruz 
+IDADE 
+25
+EMAIL 
+jade77@example.net 
+CIDADE 
+Moreira
+ENDEREÇO 
+Colônia Ana Cecília Leão, 56
+Bairro Das Indústrias Ii
+81866-864 Marques / AP
+ 
+HABILIDADES
+
+Organizado
+Liderança
+Resiliente
+Criativo
+Proativo
+Participativo
+Responsável
+Comunicativo
+Trabalho em equipe
+Colaborativo
+Educado
+ 

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Luiza Pimenta 
+IDADE: 50
+EMAIL: pachecodiogo@example.net 
+CIDADE: Aparecida
+ENDEREÇO: Rua Luan Pires, 11
+Estrela Do Oriente
+81495-480 Aparecida / AP
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Advogado Digital 
+CONHECIMENTOS Direito Tributário - Tecnologia e Direito Digital - Direito Administrativo - Código de Processo Civil - Ética e Deontologia Jurídica - Direito Civil - Oratória e Argumentação Jurídica
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Git/GitHub - Python - Frameworks Flask - CSS - Frameworks Django - Docker/Kubernetes - HTML - APIs REST - Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum
+
+ 
+HABILIDADES
+
+Trabalho em equipe - Focado - Responsável - Resiliente - Adaptável - Participativo - Criativo - Organizado - Pontual - Empático - Comunicativo - Proativo - Liderança - Colaborativo

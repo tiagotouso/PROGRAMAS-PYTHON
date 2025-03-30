@@ -1,0 +1,35 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Danilo Cavalcante 
+IDADE: 55
+EMAIL: agathagarcia@example.com 
+CIDADE: Macedo de Goiás
+ENDEREÇO: Travessa Igor Almeida, 36
+Lorena
+48258166 Nunes do Campo / MA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Analista de Processos 
+CONHECIMENTOS Gestão de Projetos - Contabilidade Empresarial - Ética e Responsabilidade Corporativa - Metodologias Ágeis Scrum - Administração Pública - Análise de Dados e Indicadores - Gestão de Pessoas - Gestão Financeira - Planejamento Estratégico - Direito Empresarial - Business Intelligence (BI) - Compliance e Governança Corporativa - Inovação e Transformação Digital - Gestão da Qualidade - Metodologias Ágeis Kanban - Negociação e Tomada de Decisão - Customer Success e Experiência do Cliente - Empreendedorismo - Marketing e Vendas - Logística e Cadeia de Suprimentos - Liderança e Gestão de Equipes
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Procurador 
+CONHECIMENTOS Direito Penal - Ética e Deontologia Jurídica - Negociação e Mediação - Direito Administrativo - Oratória e Argumentação Jurídica - Atuação em Audiências - Direito Constitucional - Direito Ambiental
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Analista de Business Intelligence (BI) 
+CONHECIMENTOS SQL - Python - Paradigmas de Programação - DevOps - Git/GitHub - APIs REST
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Supervisor Administrativo 
+CONHECIMENTOS Logística e Cadeia de Suprimentos - Marketing e Vendas - Planejamento Estratégico - Direito Empresarial - Negociação e Tomada de Decisão - Gestão Financeira - Customer Success e Experiência do Cliente - Administração Pública - Metodologias Ágeis Kanban - Business Intelligence (BI) - Empreendedorismo - Liderança e Gestão de Equipes - Inovação e Transformação Digital
+
+ 
+HABILIDADES
+
+Proativo - Participativo - Responsável - Pontual - Focado - Liderança - Empático - Criativo - Colaborativo - Trabalho em equipe - Resiliente - Educado

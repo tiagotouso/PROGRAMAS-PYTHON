@@ -1,0 +1,48 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sr. Vitor Gabriel Dias 
+IDADE 
+25
+EMAIL 
+gael-henrique32@example.org 
+CIDADE 
+Melo de Minas
+ENDEREÇO 
+Quadra Thiago Correia, 79
+Conjunto Califórnia Ii
+05102465 Fogaça / TO
+ 
+HABILIDADES
+
+Pontual
+Proativo
+Trabalho em equipe
+Focado
+Educado
+Empático
+Adaptável
+Responsável
+Organizado
+Resiliente
+Colaborativo
+Liderança
+Participativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS NoSQL
+HTML
+Frameworks React
+Paradigmas de Programação
+CSS
+Frameworks Flask
+Testes Automatizados
+

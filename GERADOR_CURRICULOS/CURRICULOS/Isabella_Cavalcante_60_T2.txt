@@ -1,0 +1,67 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Isabella Cavalcante 
+IDADE 
+60
+EMAIL 
+zpires@example.org 
+CIDADE 
+Siqueira
+ENDEREÇO 
+Praça Davi Luiz Leão, 11
+Das Industrias I
+48699241 Machado / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Advogado Criminalista 
+CONHECIMENTOS Jurisprudência
+Direito Trabalhista
+Direito Tributário
+Direito Ambiental
+Direito Empresarial
+Elaboração de Contratos
+Direito Constitucional
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Administrador de Redes 
+CONHECIMENTOS Docker/Kubernetes
+DevOps
+Algoritmos e Estruturas de Dados
+CSS
+Testes Automatizados
+Metodologias Ágeis Kanban
+SQL
+Cloud Computing
+Frameworks React
+Git/GitHub
+Paradigmas de Programação
+Metodologias Ágeis Scrum
+JavaScript
+APIs REST
+Python
+Frameworks Flask
+
+ 
+HABILIDADES
+
+Comunicativo
+Liderança
+Proativo
+Responsável
+Focado
+Colaborativo
+Educado
+Empático
+Adaptável
+Pontual
+Organizado

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sophie Lopes 
+IDADE: 55
+EMAIL: carolinarodrigues@example.net 
+CIDADE: da Mata da Mata
+ENDEREÇO: Distrito de Pereira, 7
+Horto Florestal
+02905-919 Porto / TO
+ 
+HABILIDADES
+
+Adaptável - Proativo - Colaborativo - Liderança - Trabalho em equipe - Criativo - Responsável - Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS Git/GitHub - HTML - Frameworks React - Paradigmas de Programação - Frameworks Django - SQL - Python - Metodologias Ágeis Kanban - Frameworks Flask - Cloud Computing - APIs REST - NoSQL - DevOps - JavaScript
+

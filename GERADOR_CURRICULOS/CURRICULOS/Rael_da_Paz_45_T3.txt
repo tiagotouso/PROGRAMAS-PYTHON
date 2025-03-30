@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS DevOps - HTML - JavaScript - SQL - Algoritmos e Estruturas de Dados - Docker/Kubernetes - Paradigmas de Programação - Segurança da Informação - Frameworks Flask
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Rael da Paz 
+IDADE: 45
+EMAIL: rodrigo54@example.net 
+CIDADE: Macedo
+ENDEREÇO: Pátio Garcia
+Caiçara - Adelaide
+33940945 da Costa / TO
+ 
+HABILIDADES
+
+Empático - Proativo - Comunicativo - Liderança - Pontual - Criativo - Responsável - Focado - Organizado - Adaptável
+ 

@@ -1,0 +1,91 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Especialista em UX/UI 
+CONHECIMENTOS Metodologias Ágeis Scrum
+DevOps
+Docker/Kubernetes
+Frameworks React
+Algoritmos e Estruturas de Dados
+Frameworks Flask
+Testes Automatizados
+Git/GitHub
+HTML
+Cloud Computing
+Segurança da Informação
+Python
+Frameworks Django
+JavaScript
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Delegado de Polícia 
+CONHECIMENTOS Ética e Deontologia Jurídica
+Gestão de Escritório de Advocacia
+Tecnologia e Direito Digital
+Direito Civil
+Direito Empresarial
+Escrita Jurídica
+Código de Processo Civil
+Direito Trabalhista
+Direito Ambiental
+Oratória e Argumentação Jurídica
+Direito Constitucional
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Gestor de Relacionamento com Clientes 
+CONHECIMENTOS Contabilidade Empresarial
+Liderança e Gestão de Equipes
+Metodologias Ágeis Kanban
+Gestão de Projetos
+Empreendedorismo
+Gestão Financeira
+Logística e Cadeia de Suprimentos
+Análise de Dados e Indicadores
+Metodologias Ágeis Scrum
+Compliance e Governança Corporativa
+Gestão da Qualidade
+Planejamento Estratégico
+Customer Success e Experiência do Cliente
+Direito Empresarial
+Marketing e Vendas
+Gestão de Pessoas
+Negociação e Tomada de Decisão
+Ética e Responsabilidade Corporativa
+Business Intelligence (BI)
+Inovação e Transformação Digital
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Hellena Novaes 
+IDADE 
+50
+EMAIL 
+cavalcanteeduardo@example.net 
+CIDADE 
+Abreu
+ENDEREÇO 
+Viela Fogaça, 97
+Vila Novo São Lucas
+11464725 Brito de Goiás / MG
+ 
+HABILIDADES
+
+Focado
+Colaborativo
+Liderança
+Proativo
+Criativo
+Responsável
+Participativo
+ 

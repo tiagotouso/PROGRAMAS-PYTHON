@@ -1,0 +1,35 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: João Miguel Aragão 
+IDADE: 55
+EMAIL: da-rochamaria-flor@example.com 
+CIDADE: Pastor de Goiás
+ENDEREÇO: Pátio Dias, 72
+Vila São Dimas
+43231-693 Moura / CE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Sistemas 
+CONHECIMENTOS Frameworks Django - Segurança da Informação - Paradigmas de Programação - Docker/Kubernetes - Frameworks React
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS APIs REST - Git/GitHub - Frameworks React - Metodologias Ágeis Kanban - HTML - JavaScript - CSS - Frameworks Flask - Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - Segurança da Informação - SQL - DevOps - Docker/Kubernetes - Cloud Computing - Paradigmas de Programação - Frameworks Django - Testes Automatizados - Python
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Advogado Ambiental 
+CONHECIMENTOS Direito Trabalhista - Código de Processo Civil - Jurisprudência - Ética e Deontologia Jurídica - Direito Civil - Atuação em Audiências - Código de Processo Penal - Direito Tributário - Tecnologia e Direito Digital
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS Cloud Computing - Python - Segurança da Informação - CSS - Frameworks Flask - JavaScript - Paradigmas de Programação - DevOps - SQL - Frameworks React - HTML - APIs REST - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - Git/GitHub - Algoritmos e Estruturas de Dados - Frameworks Django
+
+ 
+HABILIDADES
+
+Adaptável - Participativo - Proativo - Colaborativo - Focado - Empático - Educado

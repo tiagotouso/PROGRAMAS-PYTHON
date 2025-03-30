@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Kamilly Alves 
+IDADE: 60
+EMAIL: macedootto@example.net 
+CIDADE: Viana
+ENDEREÇO: Sítio Freitas, 768
+Campo Alegre
+00192569 Fogaça / SP
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Docker/Kubernetes - Metodologias Ágeis Kanban - NoSQL - Frameworks Flask - Cloud Computing - CSS - Paradigmas de Programação - Segurança da Informação - DevOps - SQL - APIs REST - Testes Automatizados - Frameworks Django - Frameworks React - Git/GitHub - HTML - Python - Algoritmos e Estruturas de Dados - JavaScript
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Analista de Compliance 
+CONHECIMENTOS Liderança e Gestão de Equipes - Customer Success e Experiência do Cliente - Inovação e Transformação Digital - Gestão da Qualidade - Compliance e Governança Corporativa - Administração Pública - Gestão Financeira - Gestão de Projetos - Business Intelligence (BI) - Negociação e Tomada de Decisão - Metodologias Ágeis Kanban - Ética e Responsabilidade Corporativa - Contabilidade Empresarial - Gestão de Pessoas - Direito Empresarial - Empreendedorismo - Análise de Dados e Indicadores - Marketing e Vendas
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS Cloud Computing - Git/GitHub - SQL - Segurança da Informação - DevOps - CSS - Algoritmos e Estruturas de Dados - Testes Automatizados - Frameworks Django - JavaScript - Docker/Kubernetes - Paradigmas de Programação - HTML - Frameworks Flask - Python - APIs REST - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - NoSQL - Frameworks React
+
+ 
+HABILIDADES
+
+Proativo - Organizado - Colaborativo - Resiliente - Comunicativo - Responsável - Liderança - Adaptável - Focado - Pontual

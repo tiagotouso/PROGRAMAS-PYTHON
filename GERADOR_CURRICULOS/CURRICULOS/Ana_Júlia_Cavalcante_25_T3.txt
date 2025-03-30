@@ -1,0 +1,49 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS SQL
+Metodologias Ágeis Scrum
+Python
+Paradigmas de Programação
+Frameworks React
+Testes Automatizados
+DevOps
+Git/GitHub
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Júlia Cavalcante 
+IDADE 
+25
+EMAIL 
+ramosenzo@example.org 
+CIDADE 
+Pinto
+ENDEREÇO 
+Lago de Aparecida, 57
+Vila Minaslandia
+51305881 Jesus / RO
+ 
+HABILIDADES
+
+Focado
+Trabalho em equipe
+Participativo
+Liderança
+Educado
+Proativo
+Responsável
+Adaptável
+Comunicativo
+Pontual
+Organizado
+Colaborativo
+ 

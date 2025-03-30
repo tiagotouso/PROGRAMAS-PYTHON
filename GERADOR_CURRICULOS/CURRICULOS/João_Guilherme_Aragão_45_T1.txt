@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: João Guilherme Aragão 
+IDADE: 45
+EMAIL: samaria-eduarda@example.com 
+CIDADE: Fogaça da Serra
+ENDEREÇO: Lagoa de Pastor
+Alta Tensão 1ª Seção
+80420650 Souza / RN
+ 
+HABILIDADES
+
+Pontual - Comunicativo - Resiliente - Adaptável - Participativo - Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS Cloud Computing - Algoritmos e Estruturas de Dados - Frameworks React - NoSQL - DevOps - HTML - Python - SQL - Frameworks Django - Testes Automatizados - JavaScript - Segurança da Informação - Paradigmas de Programação - CSS - APIs REST
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Gestor de Contratos 
+CONHECIMENTOS Compliance e Governança Corporativa - Gestão da Qualidade - Liderança e Gestão de Equipes - Customer Success e Experiência do Cliente - Contabilidade Empresarial - Administração Pública - Logística e Cadeia de Suprimentos - Gestão de Projetos - Metodologias Ágeis Kanban - Inovação e Transformação Digital - Metodologias Ágeis Scrum - Empreendedorismo - Business Intelligence (BI) - Análise de Dados e Indicadores
+

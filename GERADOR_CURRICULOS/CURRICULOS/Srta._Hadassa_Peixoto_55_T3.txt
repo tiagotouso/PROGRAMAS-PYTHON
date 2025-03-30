@@ -1,0 +1,66 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+26 anos 
+CARGO 
+Advogado Trabalhista 
+CONHECIMENTOS Oratória e Argumentação Jurídica
+Negociação e Mediação
+Legislação Atualizada
+Tecnologia e Direito Digital
+Direito Constitucional
+Direito Penal
+Código de Processo Civil
+Atuação em Audiências
+Direito Ambiental
+Direito Empresarial
+Direito Tributário
+Direito Trabalhista
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS SQL
+Python
+APIs REST
+Testes Automatizados
+Docker/Kubernetes
+Frameworks Flask
+Frameworks React
+Metodologias Ágeis Kanban
+JavaScript
+NoSQL
+Cloud Computing
+Algoritmos e Estruturas de Dados
+CSS
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Srta. Hadassa Peixoto 
+IDADE 
+55
+EMAIL 
+montenegroana-cecilia@example.com 
+CIDADE 
+Aparecida do Campo
+ENDEREÇO 
+Parque de Marques, 70
+São Paulo
+27301366 Costa de Vieira / MS
+ 
+HABILIDADES
+
+Colaborativo
+Adaptável
+Criativo
+Liderança
+Organizado
+Educado
+Participativo
+ 

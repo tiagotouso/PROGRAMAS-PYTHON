@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Mateus Farias 
+IDADE: 25
+EMAIL: otaviocaldeira@example.net 
+CIDADE: Pastor de da Cunha
+ENDEREÇO: Praia Abreu, 426
+Custodinha
+08501352 Barros de Cunha / MA
+ 
+HABILIDADES
+
+Adaptável - Resiliente - Responsável - Empático - Focado - Proativo - Pontual - Trabalho em equipe - Participativo - Comunicativo - Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS Git/GitHub - Testes Automatizados - Algoritmos e Estruturas de Dados - JavaScript - DevOps - Metodologias Ágeis Scrum - NoSQL - CSS - Frameworks Django - APIs REST - Metodologias Ágeis Kanban
+

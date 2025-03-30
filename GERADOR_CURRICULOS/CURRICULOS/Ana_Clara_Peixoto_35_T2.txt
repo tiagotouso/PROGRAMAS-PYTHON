@@ -1,0 +1,63 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Clara Peixoto 
+IDADE 
+35
+EMAIL 
+jade85@example.com 
+CIDADE 
+Fonseca dos Dourados
+ENDEREÇO 
+Estação de Pires
+Frei Leopoldo
+52303-720 Moreira da Prata / PB
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS APIs REST
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+Frameworks Flask
+Frameworks Django
+NoSQL
+JavaScript
+Metodologias Ágeis Scrum
+Metodologias Ágeis Kanban
+Frameworks React
+CSS
+Git/GitHub
+Docker/Kubernetes
+HTML
+DevOps
+Testes Automatizados
+SQL
+Cloud Computing
+Segurança da Informação
+Python
+
+ 
+HABILIDADES
+
+Educado
+Criativo
+Resiliente
+Liderança
+Responsável
+Proativo
+Empático
+Colaborativo
+Organizado
+Participativo
+Trabalho em equipe
+Pontual
+Focado
+Adaptável
+Comunicativo

@@ -1,0 +1,77 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Melissa Azevedo 
+IDADE 
+40
+EMAIL 
+gramos@example.net 
+CIDADE 
+Abreu do Oeste
+ENDEREÇO 
+Chácara Bruno Costa, 317
+Barão Homem De Melo 1ª Seção
+94002-259 da Cruz / MA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS CSS
+Testes Automatizados
+Python
+Docker/Kubernetes
+SQL
+Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+Frameworks Flask
+Frameworks React
+Segurança da Informação
+Cloud Computing
+DevOps
+HTML
+JavaScript
+NoSQL
+Metodologias Ágeis Scrum
+Git/GitHub
+Frameworks Django
+Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Scrum Master 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Python
+JavaScript
+Git/GitHub
+Segurança da Informação
+SQL
+Paradigmas de Programação
+Frameworks Django
+Cloud Computing
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+DevOps
+Frameworks Flask
+NoSQL
+
+ 
+HABILIDADES
+
+Organizado
+Responsável
+Comunicativo
+Educado
+Empático
+Criativo
+Proativo
+Focado
+Colaborativo
+Liderança

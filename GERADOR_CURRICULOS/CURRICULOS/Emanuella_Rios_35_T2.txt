@@ -1,0 +1,80 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Emanuella Rios 
+IDADE 
+35
+EMAIL 
+icaldeira@example.net 
+CIDADE 
+Araújo
+ENDEREÇO 
+Estação de Jesus, 27
+Grajaú
+61564218 Vargas das Flores / PB
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Site Reliability Engineer (SRE) 
+CONHECIMENTOS Frameworks Flask
+CSS
+Testes Automatizados
+Docker/Kubernetes
+Frameworks React
+Frameworks Django
+Metodologias Ágeis Kanban
+Git/GitHub
+Paradigmas de Programação
+Cloud Computing
+SQL
+Segurança da Informação
+DevOps
+HTML
+Metodologias Ágeis Scrum
+APIs REST
+Python
+JavaScript
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Desenvolvedor Full Stack 
+CONHECIMENTOS JavaScript
+Metodologias Ágeis Scrum
+Metodologias Ágeis Kanban
+Cloud Computing
+SQL
+Testes Automatizados
+Frameworks Flask
+Python
+Segurança da Informação
+Git/GitHub
+NoSQL
+Paradigmas de Programação
+HTML
+CSS
+Docker/Kubernetes
+
+ 
+HABILIDADES
+
+Organizado
+Trabalho em equipe
+Educado
+Proativo
+Resiliente
+Colaborativo
+Focado
+Liderança
+Criativo
+Adaptável
+Empático
+Participativo
+Comunicativo
+Pontual

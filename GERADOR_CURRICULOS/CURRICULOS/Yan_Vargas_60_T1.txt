@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Yan Vargas 
+IDADE: 60
+EMAIL: maria-claramarques@example.org 
+CIDADE: Peixoto de da Costa
+ENDEREÇO: Praça Vitor Gabriel Oliveira, 9
+Jardim América
+22774105 da Cruz Verde / DF
+ 
+HABILIDADES
+
+Trabalho em equipe - Participativo - Comunicativo - Adaptável - Criativo - Focado - Organizado - Resiliente - Educado - Responsável - Pontual - Proativo - Empático - Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Gestor de Relacionamento com Clientes 
+CONHECIMENTOS Gestão da Qualidade - Gestão de Pessoas - Gestão Financeira - Business Intelligence (BI) - Contabilidade Empresarial - Metodologias Ágeis Scrum - Planejamento Estratégico - Metodologias Ágeis Kanban - Direito Empresarial - Gestão de Projetos - Ética e Responsabilidade Corporativa - Logística e Cadeia de Suprimentos - Administração Pública - Liderança e Gestão de Equipes - Empreendedorismo - Compliance e Governança Corporativa - Inovação e Transformação Digital - Análise de Dados e Indicadores - Negociação e Tomada de Decisão - Marketing e Vendas
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Analista de Sistemas 
+CONHECIMENTOS JavaScript - Frameworks Flask - Cloud Computing - Git/GitHub - NoSQL - Frameworks React - Segurança da Informação - Python - Frameworks Django - Algoritmos e Estruturas de Dados - Docker/Kubernetes - DevOps - Paradigmas de Programação - HTML - Testes Automatizados - APIs REST - Metodologias Ágeis Scrum
+

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Caio Garcia 
+IDADE: 25
+EMAIL: peixotovalentim@example.org 
+CIDADE: Machado
+ENDEREÇO: Avenida Almeida, 54
+Alta Tensão 2ª Seção
+56741-951 Gonçalves / MG
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS DevOps - SQL - Algoritmos e Estruturas de Dados - HTML - Docker/Kubernetes - CSS - Git/GitHub - APIs REST - Python - Metodologias Ágeis Kanban - Segurança da Informação - Frameworks React - JavaScript - Cloud Computing - NoSQL - Testes Automatizados - Frameworks Flask - Metodologias Ágeis Scrum - Frameworks Django - Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Colaborativo - Trabalho em equipe - Resiliente - Organizado - Pontual - Participativo - Educado

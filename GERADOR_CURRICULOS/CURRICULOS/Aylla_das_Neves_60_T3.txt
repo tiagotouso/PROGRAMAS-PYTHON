@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Suprimentos 
+CONHECIMENTOS Gestão de Pessoas - Metodologias Ágeis Scrum - Empreendedorismo - Contabilidade Empresarial - Logística e Cadeia de Suprimentos - Business Intelligence (BI) - Inovação e Transformação Digital - Liderança e Gestão de Equipes - Marketing e Vendas - Negociação e Tomada de Decisão - Compliance e Governança Corporativa
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Cloud Computing - Frameworks Django - Git/GitHub - CSS - HTML - APIs REST - Segurança da Informação - Docker/Kubernetes - DevOps - Python - Paradigmas de Programação - Algoritmos e Estruturas de Dados - JavaScript - SQL - Testes Automatizados
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Advogado Criminalista 
+CONHECIMENTOS Código de Processo Civil - Direito Empresarial - Legislação Atualizada - Direito Trabalhista - Direito Civil - Direito Constitucional - Atuação em Audiências
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Aylla das Neves 
+IDADE: 60
+EMAIL: pcastro@example.org 
+CIDADE: Cunha
+ENDEREÇO: Estrada Sá, 17
+Barreiro
+12573-114 Ramos / RS
+ 
+HABILIDADES
+
+Pontual - Educado - Criativo - Empático - Adaptável - Liderança - Organizado - Trabalho em equipe - Comunicativo
+ 

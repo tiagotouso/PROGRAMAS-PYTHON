@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Davi Lucca Souza 
+IDADE: 40
+EMAIL: pdias@example.org 
+CIDADE: Rezende dos Dourados
+ENDEREÇO: Parque Gustavo Henrique Viana, 232
+Varzea Da Palma
+34491-847 Mendes / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Infraestrutura 
+CONHECIMENTOS SQL - Frameworks Flask - JavaScript - HTML - Git/GitHub - Docker/Kubernetes - Paradigmas de Programação - Metodologias Ágeis Kanban - Frameworks Django - Python - Frameworks React - Cloud Computing - Algoritmos e Estruturas de Dados - Testes Automatizados - NoSQL
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Procurador 
+CONHECIMENTOS Atuação em Audiências - Oratória e Argumentação Jurídica - Código de Processo Penal - Tecnologia e Direito Digital - Direito Empresarial - Gestão de Escritório de Advocacia - Ética e Deontologia Jurídica - Escrita Jurídica - Negociação e Mediação - Legislação Atualizada
+
+ 
+HABILIDADES
+
+Comunicativo - Responsável - Colaborativo - Participativo - Proativo

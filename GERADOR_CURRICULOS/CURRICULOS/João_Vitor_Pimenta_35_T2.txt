@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: João Vitor Pimenta 
+IDADE: 35
+EMAIL: anthony-gabrielbarbosa@example.net 
+CIDADE: Aragão
+ENDEREÇO: Conjunto de Azevedo, 89
+Conjunto Santa Maria
+52113-503 da Cunha / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS Cloud Computing - Git/GitHub - Frameworks Flask - Algoritmos e Estruturas de Dados - Python - Frameworks React - JavaScript - CSS - Metodologias Ágeis Scrum - DevOps - Frameworks Django - Docker/Kubernetes - Segurança da Informação - Metodologias Ágeis Kanban - SQL - APIs REST - NoSQL - Testes Automatizados
+
+ 
+HABILIDADES
+
+Adaptável - Participativo - Comunicativo - Empático - Colaborativo - Educado - Criativo - Organizado - Pontual

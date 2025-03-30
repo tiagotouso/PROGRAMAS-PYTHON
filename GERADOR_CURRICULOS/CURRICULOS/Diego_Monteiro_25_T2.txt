@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Diego Monteiro 
+IDADE: 25
+EMAIL: ymoreira@example.com 
+CIDADE: Porto
+ENDEREÇO: Recanto de Borges, 882
+Coração De Jesus
+70427372 Camargo dos Dourados / TO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Engenheiro de Machine Learning 
+CONHECIMENTOS APIs REST - Frameworks React - Metodologias Ágeis Scrum - HTML - Docker/Kubernetes - Git/GitHub - Frameworks Flask - JavaScript - NoSQL - Testes Automatizados - Metodologias Ágeis Kanban - Segurança da Informação - Paradigmas de Programação - Python - Cloud Computing - CSS - Frameworks Django - DevOps - Algoritmos e Estruturas de Dados - SQL
+
+ 
+HABILIDADES
+
+Trabalho em equipe - Responsável - Proativo - Organizado - Liderança - Participativo - Empático - Adaptável - Comunicativo - Focado - Pontual - Educado

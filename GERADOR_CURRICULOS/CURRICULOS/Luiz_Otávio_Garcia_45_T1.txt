@@ -1,0 +1,71 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Luiz Otávio Garcia 
+IDADE 
+45
+EMAIL 
+vargasgael-henrique@example.org 
+CIDADE 
+Pires
+ENDEREÇO 
+Parque Moura
+Olhos D'água
+66931-984 Araújo das Flores / GO
+ 
+HABILIDADES
+
+Criativo
+Participativo
+Focado
+Responsável
+Comunicativo
+Adaptável
+Resiliente
+Pontual
+Trabalho em equipe
+Empático
+Educado
+Proativo
+Organizado
+Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+22 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS Testes Automatizados
+Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+HTML
+CSS
+Docker/Kubernetes
+Metodologias Ágeis Scrum
+Frameworks Flask
+APIs REST
+Metodologias Ágeis Kanban
+Frameworks Django
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Advogado Criminalista 
+CONHECIMENTOS Direito Constitucional
+Direito Penal
+Direito Ambiental
+Oratória e Argumentação Jurídica
+Atuação em Audiências
+Jurisprudência
+Direito Trabalhista
+Tecnologia e Direito Digital
+Ética e Deontologia Jurídica
+Direito Tributário
+Gestão de Escritório de Advocacia
+Negociação e Mediação
+Direito Administrativo
+

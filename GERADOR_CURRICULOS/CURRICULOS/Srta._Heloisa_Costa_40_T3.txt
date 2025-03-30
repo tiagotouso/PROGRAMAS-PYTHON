@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS SQL - Frameworks React - Git/GitHub - CSS - Frameworks Flask - JavaScript - Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS Segurança da Informação - Docker/Kubernetes - Testes Automatizados - Python - APIs REST - Metodologias Ágeis Scrum - SQL - Frameworks Flask - Cloud Computing - DevOps - Metodologias Ágeis Kanban - Frameworks Django - CSS
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Srta. Heloisa Costa 
+IDADE: 40
+EMAIL: pauloda-mata@example.com 
+CIDADE: Souza do Galho
+ENDEREÇO: Alameda Melissa Araújo, 622
+Ademar Maldonado
+19498-441 Nogueira de Vieira / AP
+ 
+HABILIDADES
+
+Trabalho em equipe - Organizado - Criativo - Resiliente - Adaptável - Liderança - Comunicativo - Colaborativo
+ 

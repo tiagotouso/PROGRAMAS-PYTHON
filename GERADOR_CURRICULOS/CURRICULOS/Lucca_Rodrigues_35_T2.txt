@@ -1,0 +1,52 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Lucca Rodrigues 
+IDADE 
+35
+EMAIL 
+azevedohelena@example.com 
+CIDADE 
+da Rocha da Prata
+ENDEREÇO 
+Passarela de Cassiano, 7
+Savassi
+29576-872 Oliveira do Sul / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Supervisor Administrativo 
+CONHECIMENTOS Metodologias Ágeis Scrum
+Inovação e Transformação Digital
+Gestão de Projetos
+Gestão da Qualidade
+Logística e Cadeia de Suprimentos
+Direito Empresarial
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS Frameworks Flask
+Algoritmos e Estruturas de Dados
+Frameworks Django
+Cloud Computing
+Testes Automatizados
+
+ 
+HABILIDADES
+
+Comunicativo
+Resiliente
+Liderança
+Participativo
+Pontual
+Focado
+Educado
+Empático

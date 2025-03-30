@@ -1,0 +1,78 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Benjamin Cavalcante 
+IDADE 
+55
+EMAIL 
+bmartins@example.net 
+CIDADE 
+Carvalho
+ENDEREÇO 
+Condomínio de Mendonça
+Penha
+59594029 Moraes das Flores / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Coordenador de Atendimento 
+CONHECIMENTOS Planejamento Estratégico
+Marketing e Vendas
+Logística e Cadeia de Suprimentos
+Gestão da Qualidade
+Metodologias Ágeis Scrum
+Gestão de Projetos
+Liderança e Gestão de Equipes
+Compliance e Governança Corporativa
+Customer Success e Experiência do Cliente
+Direito Empresarial
+Gestão Financeira
+Inovação e Transformação Digital
+Business Intelligence (BI)
+Contabilidade Empresarial
+Gestão de Pessoas
+Negociação e Tomada de Decisão
+Análise de Dados e Indicadores
+Empreendedorismo
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS APIs REST
+Frameworks React
+Cloud Computing
+SQL
+CSS
+HTML
+Python
+Paradigmas de Programação
+DevOps
+Metodologias Ágeis Kanban
+JavaScript
+Frameworks Flask
+Metodologias Ágeis Scrum
+Git/GitHub
+Algoritmos e Estruturas de Dados
+NoSQL
+Testes Automatizados
+
+ 
+HABILIDADES
+
+Empático
+Focado
+Resiliente
+Colaborativo
+Criativo
+Organizado
+Adaptável
+Pontual
+Comunicativo
+Participativo

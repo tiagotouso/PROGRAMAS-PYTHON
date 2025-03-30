@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Alícia Martins 
+IDADE: 50
+EMAIL: siqueiralaura@example.net 
+CIDADE: Pires de Goiás
+ENDEREÇO: Travessa Lavínia Sousa, 83
+Vila Cloris
+66175595 Campos do Galho / MA
+ 
+HABILIDADES
+
+Empático - Participativo - Resiliente - Criativo - Focado - Comunicativo - Colaborativo - Organizado - Trabalho em equipe - Pontual
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: DevOps Engineer 
+CONHECIMENTOS Testes Automatizados - Cloud Computing - APIs REST - Frameworks Flask - CSS - DevOps - Git/GitHub - Frameworks Django - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - HTML - Docker/Kubernetes - Segurança da Informação - SQL - NoSQL - Paradigmas de Programação - Metodologias Ágeis Scrum - JavaScript - Python
+

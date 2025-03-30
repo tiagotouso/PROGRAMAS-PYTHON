@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Jade Carvalho 
+IDADE: 35
+EMAIL: randrade@example.net 
+CIDADE: Barbosa de Castro
+ENDEREÇO: Viela Aparecida, 23
+Barro Preto
+28407060 Rezende / RN
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Analista de Sistemas 
+CONHECIMENTOS Git/GitHub - Segurança da Informação - Algoritmos e Estruturas de Dados - Cloud Computing - APIs REST - NoSQL - CSS - Frameworks React - Paradigmas de Programação - Metodologias Ágeis Scrum - DevOps
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Cientista de Dados 
+CONHECIMENTOS DevOps - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - JavaScript - Python - Testes Automatizados - Cloud Computing - Frameworks Django - SQL - Paradigmas de Programação - HTML - Frameworks React - Frameworks Flask - APIs REST - Algoritmos e Estruturas de Dados - Docker/Kubernetes - CSS - NoSQL - Git/GitHub - Segurança da Informação
+
+ 
+HABILIDADES
+
+Comunicativo - Educado - Criativo - Pontual - Focado - Participativo - Resiliente

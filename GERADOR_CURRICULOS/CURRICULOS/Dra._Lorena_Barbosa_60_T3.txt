@@ -1,0 +1,36 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Procurador 
+CONHECIMENTOS Direito Trabalhista - Negociação e Mediação - Direito Penal - Direito Administrativo - Jurisprudência - Direito Ambiental - Direito Civil - Direito Constitucional - Oratória e Argumentação Jurídica - Ética e Deontologia Jurídica - Direito Empresarial - Legislação Atualizada - Código de Processo Penal - Direito Tributário
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Juiz 
+CONHECIMENTOS Ética e Deontologia Jurídica - Tecnologia e Direito Digital - Direito Penal - Código de Processo Penal - Oratória e Argumentação Jurídica - Gestão de Escritório de Advocacia - Código de Processo Civil - Direito Tributário - Direito Trabalhista
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Cientista de Dados 
+CONHECIMENTOS Docker/Kubernetes - JavaScript - Git/GitHub - Metodologias Ágeis Scrum - DevOps - Testes Automatizados - SQL - Python - Frameworks Flask - HTML - Paradigmas de Programação - Cloud Computing - Frameworks React - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - NoSQL - Frameworks Django - CSS - Segurança da Informação - APIs REST
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Advogado Imobiliário 
+CONHECIMENTOS Oratória e Argumentação Jurídica - Ética e Deontologia Jurídica - Legislação Atualizada - Escrita Jurídica - Direito Constitucional - Direito Empresarial - Tecnologia e Direito Digital - Direito Tributário - Código de Processo Penal - Negociação e Mediação - Direito Civil - Atuação em Audiências - Código de Processo Civil - Elaboração de Contratos - Direito Trabalhista - Direito Administrativo
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Dra. Lorena Barbosa 
+IDADE: 60
+EMAIL: fvasconcelos@example.net 
+CIDADE: Borges
+ENDEREÇO: Morro de Fogaça, 341
+Palmares
+84723459 Monteiro / MS
+ 
+HABILIDADES
+
+Adaptável - Colaborativo - Responsável - Criativo - Focado - Liderança - Pontual - Proativo - Educado - Organizado - Trabalho em equipe
+ 

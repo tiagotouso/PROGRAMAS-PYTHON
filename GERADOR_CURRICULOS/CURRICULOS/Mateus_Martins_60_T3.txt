@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Cientista de Dados 
+CONHECIMENTOS NoSQL - Algoritmos e Estruturas de Dados - Frameworks Flask - Testes Automatizados - Segurança da Informação - SQL - Python - Git/GitHub - APIs REST - Frameworks Django - Metodologias Ágeis Kanban - Docker/Kubernetes - HTML
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Consultor Empresarial 
+CONHECIMENTOS Contabilidade Empresarial - Metodologias Ágeis Scrum - Negociação e Tomada de Decisão - Gestão Financeira - Planejamento Estratégico - Customer Success e Experiência do Cliente - Empreendedorismo - Ética e Responsabilidade Corporativa - Gestão de Projetos - Inovação e Transformação Digital - Gestão de Pessoas - Marketing e Vendas - Metodologias Ágeis Kanban - Liderança e Gestão de Equipes - Administração Pública - Compliance e Governança Corporativa - Business Intelligence (BI)
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Processos 
+CONHECIMENTOS Gestão de Projetos - Liderança e Gestão de Equipes - Empreendedorismo - Análise de Dados e Indicadores - Marketing e Vendas - Metodologias Ágeis Kanban - Administração Pública - Customer Success e Experiência do Cliente - Planejamento Estratégico - Contabilidade Empresarial - Negociação e Tomada de Decisão - Gestão Financeira - Gestão da Qualidade - Ética e Responsabilidade Corporativa - Business Intelligence (BI)
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Mateus Martins 
+IDADE: 60
+EMAIL: viniciusfogaca@example.com 
+CIDADE: Rocha do Campo
+ENDEREÇO: Rodovia de Camargo
+Vila Independencia 1ª Seção
+84761086 Santos da Prata / SC
+ 
+HABILIDADES
+
+Empático - Criativo - Participativo - Trabalho em equipe - Liderança - Adaptável - Resiliente - Organizado - Pontual - Colaborativo - Proativo - Educado - Comunicativo - Responsável - Focado
+ 

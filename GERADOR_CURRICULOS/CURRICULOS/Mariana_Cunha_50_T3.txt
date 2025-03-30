@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Sistemas 
+CONHECIMENTOS Frameworks Django - Metodologias Ágeis Scrum - Cloud Computing - SQL - Metodologias Ágeis Kanban - Git/GitHub - CSS - HTML - Testes Automatizados - Frameworks React - Paradigmas de Programação - JavaScript - Python - Frameworks Flask - Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 26 anos 
+CARGO: Advogado de Família 
+CONHECIMENTOS Jurisprudência - Ética e Deontologia Jurídica - Gestão de Escritório de Advocacia - Negociação e Mediação - Legislação Atualizada - Tecnologia e Direito Digital - Direito Empresarial - Oratória e Argumentação Jurídica - Elaboração de Contratos - Direito Tributário - Direito Civil
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Mariana Cunha 
+IDADE: 50
+EMAIL: jesusmaria-flor@example.org 
+CIDADE: Marques Grande
+ENDEREÇO: Residencial de Pinto
+Vila Santa Rosa
+93760-003 Aparecida de Farias / SP
+ 
+HABILIDADES
+
+Resiliente - Trabalho em equipe - Liderança - Criativo - Proativo - Empático - Educado - Comunicativo - Adaptável - Organizado - Participativo - Colaborativo
+ 

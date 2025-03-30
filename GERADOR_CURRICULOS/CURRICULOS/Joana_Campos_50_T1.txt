@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Joana Campos 
+IDADE: 50
+EMAIL: samuelsales@example.net 
+CIDADE: Aragão de Farias
+ENDEREÇO: Travessa da Mota, 17
+Tirol
+14290-003 Borges das Flores / AP
+ 
+HABILIDADES
+
+Organizado - Criativo - Proativo - Participativo - Resiliente - Focado - Pontual - Liderança - Comunicativo - Educado - Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Analista de Planejamento Estratégico 
+CONHECIMENTOS Metodologias Ágeis Scrum - Business Intelligence (BI) - Gestão de Projetos - Logística e Cadeia de Suprimentos - Gestão da Qualidade - Negociação e Tomada de Decisão - Compliance e Governança Corporativa - Gestão de Pessoas - Empreendedorismo - Gestão Financeira - Liderança e Gestão de Equipes - Marketing e Vendas - Planejamento Estratégico - Inovação e Transformação Digital - Análise de Dados e Indicadores - Administração Pública - Customer Success e Experiência do Cliente - Ética e Responsabilidade Corporativa
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Python - CSS - Testes Automatizados - Docker/Kubernetes - DevOps - APIs REST - Algoritmos e Estruturas de Dados - Git/GitHub - Frameworks Django - Frameworks React - Segurança da Informação - Cloud Computing - Paradigmas de Programação - Metodologias Ágeis Scrum - SQL - HTML - JavaScript - NoSQL - Metodologias Ágeis Kanban
+

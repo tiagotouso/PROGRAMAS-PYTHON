@@ -1,0 +1,69 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maitê Machado 
+IDADE 
+40
+EMAIL 
+fernandesmirella@example.org 
+CIDADE 
+Rezende
+ENDEREÇO 
+Trecho de Fernandes, 860
+Vila Nova Cachoeirinha 3ª Seção
+52725-168 Vargas / MT
+ 
+HABILIDADES
+
+Empático
+Adaptável
+Resiliente
+Liderança
+Responsável
+Criativo
+Colaborativo
+Proativo
+Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS Frameworks Flask
+NoSQL
+CSS
+Testes Automatizados
+Cloud Computing
+Metodologias Ágeis Scrum
+SQL
+JavaScript
+Frameworks React
+Python
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+Frameworks Django
+APIs REST
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS Frameworks Flask
+Segurança da Informação
+Metodologias Ágeis Scrum
+Testes Automatizados
+JavaScript
+CSS
+Python
+HTML
+Frameworks Django
+Frameworks React
+Algoritmos e Estruturas de Dados
+APIs REST
+Git/GitHub
+

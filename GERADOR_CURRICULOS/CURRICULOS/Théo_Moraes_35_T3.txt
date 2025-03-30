@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS HTML - Testes Automatizados - Git/GitHub - NoSQL - Paradigmas de Programação - APIs REST - Python - Frameworks React - SQL - Metodologias Ágeis Scrum - CSS - Frameworks Django - Docker/Kubernetes - Algoritmos e Estruturas de Dados - Frameworks Flask - DevOps
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Théo Moraes 
+IDADE: 35
+EMAIL: eduardosa@example.com 
+CIDADE: Sá
+ENDEREÇO: Núcleo Leão, 96
+Castanheira
+19023291 Moura da Praia / MG
+ 
+HABILIDADES
+
+Adaptável - Participativo - Pontual - Colaborativo - Organizado - Empático - Trabalho em equipe - Proativo - Focado - Educado - Resiliente - Liderança - Responsável - Criativo
+ 

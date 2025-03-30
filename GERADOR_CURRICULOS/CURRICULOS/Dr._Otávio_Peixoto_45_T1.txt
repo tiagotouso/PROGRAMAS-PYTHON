@@ -1,0 +1,58 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Otávio Peixoto 
+IDADE 
+45
+EMAIL 
+isaac80@example.net 
+CIDADE 
+Oliveira
+ENDEREÇO 
+Sítio Eduarda Caldeira
+Bonsucesso
+53042-535 Garcia / AP
+ 
+HABILIDADES
+
+Organizado
+Adaptável
+Trabalho em equipe
+Colaborativo
+Participativo
+Comunicativo
+Resiliente
+Responsável
+Liderança
+Criativo
+Pontual
+Empático
+Proativo
+Focado
+Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Tester/QA (Quality Assurance) 
+CONHECIMENTOS SQL
+Docker/Kubernetes
+Paradigmas de Programação
+Git/GitHub
+Cloud Computing
+Python
+Metodologias Ágeis Scrum
+CSS
+HTML
+Metodologias Ágeis Kanban
+Testes Automatizados
+Frameworks React
+Frameworks Django
+Frameworks Flask
+NoSQL
+

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Liam Fonseca 
+IDADE: 45
+EMAIL: macedomaria-helena@example.com 
+CIDADE: Pires
+ENDEREÇO: Viaduto Ravy Peixoto, 348
+Suzana
+35006380 Barbosa / TO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS Frameworks Django - Frameworks React - Segurança da Informação - Python - CSS - Cloud Computing - Frameworks Flask - Git/GitHub - SQL - Testes Automatizados - NoSQL
+
+ 
+HABILIDADES
+
+Educado - Proativo - Pontual - Colaborativo - Adaptável - Trabalho em equipe

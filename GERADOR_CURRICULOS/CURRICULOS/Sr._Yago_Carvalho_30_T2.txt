@@ -1,0 +1,63 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sr. Yago Carvalho 
+IDADE 
+30
+EMAIL 
+nathansantos@example.com 
+CIDADE 
+Porto dos Dourados
+ENDEREÇO 
+Estação Mendonça, 92
+Renascença
+28051511 Garcia da Serra / BA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista de Qualidade 
+CONHECIMENTOS Planejamento Estratégico
+Gestão da Qualidade
+Business Intelligence (BI)
+Análise de Dados e Indicadores
+Ética e Responsabilidade Corporativa
+Contabilidade Empresarial
+Logística e Cadeia de Suprimentos
+Liderança e Gestão de Equipes
+Compliance e Governança Corporativa
+Metodologias Ágeis Kanban
+Customer Success e Experiência do Cliente
+Marketing e Vendas
+Metodologias Ágeis Scrum
+Gestão de Pessoas
+Empreendedorismo
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Sistemas 
+CONHECIMENTOS Cloud Computing
+NoSQL
+Paradigmas de Programação
+Frameworks Django
+CSS
+HTML
+Frameworks React
+
+ 
+HABILIDADES
+
+Comunicativo
+Trabalho em equipe
+Responsável
+Focado
+Participativo
+Organizado
+Criativo
+Pontual

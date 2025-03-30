@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista Jurídico 
+CONHECIMENTOS Código de Processo Civil - Gestão de Escritório de Advocacia - Direito Civil - Oratória e Argumentação Jurídica - Jurisprudência - Direito Administrativo
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS APIs REST - HTML - Metodologias Ágeis Kanban - Cloud Computing - Docker/Kubernetes - Metodologias Ágeis Scrum - Git/GitHub - NoSQL - CSS - Paradigmas de Programação - Algoritmos e Estruturas de Dados - Testes Automatizados - Frameworks Django - Python
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Gestor de Facilities 
+CONHECIMENTOS Compliance e Governança Corporativa - Logística e Cadeia de Suprimentos - Negociação e Tomada de Decisão - Contabilidade Empresarial - Marketing e Vendas - Inovação e Transformação Digital - Gestão de Pessoas - Business Intelligence (BI) - Empreendedorismo - Gestão da Qualidade - Ética e Responsabilidade Corporativa - Gestão Financeira
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Pedro Lucas Ramos 
+IDADE: 40
+EMAIL: garciayan@example.com 
+CIDADE: Lima Paulista
+ENDEREÇO: Avenida de Dias, 249
+Funcionários
+63216-868 Melo do Norte / AC
+ 
+HABILIDADES
+
+Responsável - Empático - Criativo - Proativo - Educado - Participativo - Focado - Adaptável - Resiliente
+ 

@@ -1,0 +1,80 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Otávio da Rocha 
+IDADE 
+40
+EMAIL 
+danilolima@example.org 
+CIDADE 
+Caldeira da Prata
+ENDEREÇO 
+Largo de Garcia, 479
+Custodinha
+97284-933 da Costa de Goiás / AM
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Engenheiro de Machine Learning 
+CONHECIMENTOS Paradigmas de Programação
+Frameworks Django
+SQL
+APIs REST
+Testes Automatizados
+Docker/Kubernetes
+Frameworks React
+Cloud Computing
+Algoritmos e Estruturas de Dados
+Frameworks Flask
+Metodologias Ágeis Kanban
+JavaScript
+Metodologias Ágeis Scrum
+CSS
+Git/GitHub
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista de Segurança da Informação 
+CONHECIMENTOS Cloud Computing
+Segurança da Informação
+Metodologias Ágeis Kanban
+Frameworks Flask
+APIs REST
+Testes Automatizados
+Paradigmas de Programação
+NoSQL
+Python
+CSS
+Frameworks React
+JavaScript
+Git/GitHub
+HTML
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+Algoritmos e Estruturas de Dados
+
+ 
+HABILIDADES
+
+Organizado
+Comunicativo
+Colaborativo
+Participativo
+Empático
+Criativo
+Focado
+Liderança
+Resiliente
+Proativo
+Pontual
+Adaptável
+Trabalho em equipe
+Educado
+Responsável

@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS NoSQL - APIs REST - DevOps - JavaScript - Algoritmos e Estruturas de Dados - Testes Automatizados - HTML - SQL - Cloud Computing - Metodologias Ágeis Kanban - Python - Git/GitHub - CSS - Frameworks Flask - Docker/Kubernetes - Metodologias Ágeis Scrum - Frameworks React
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Isaac Borges 
+IDADE: 25
+EMAIL: vitor-hugoda-conceicao@example.net 
+CIDADE: Ramos
+ENDEREÇO: Pátio Luara Vieira, 7
+São João Batista
+60710990 Porto / SP
+ 
+HABILIDADES
+
+Colaborativo - Resiliente - Educado - Focado - Comunicativo - Trabalho em equipe - Criativo - Empático - Organizado - Participativo - Responsável - Proativo
+ 

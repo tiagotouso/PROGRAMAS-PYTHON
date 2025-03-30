@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Isaque Monteiro 
+IDADE: 25
+EMAIL: ebarbosa@example.com 
+CIDADE: Oliveira
+ENDEREÇO: Esplanada Davi Miguel Andrade, 2
+Urca
+30995-852 Silva de Borges / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Engenheiro de Software 
+CONHECIMENTOS APIs REST - SQL - Docker/Kubernetes - CSS - Frameworks Flask - Cloud Computing - Metodologias Ágeis Kanban - JavaScript
+
+ 
+HABILIDADES
+
+Empático - Adaptável - Resiliente - Participativo - Liderança - Focado - Responsável - Proativo - Comunicativo - Educado - Organizado - Criativo - Trabalho em equipe - Pontual

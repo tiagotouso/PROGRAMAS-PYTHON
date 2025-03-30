@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Yago Azevedo 
+IDADE: 55
+EMAIL: gnovaes@example.com 
+CIDADE: Camargo
+ENDEREÇO: Vale Augusto Freitas, 4
+Jardim Atlântico
+43156956 Porto das Flores / AC
+ 
+HABILIDADES
+
+Proativo - Resiliente - Comunicativo - Responsável - Organizado - Pontual - Criativo - Focado - Adaptável - Participativo - Empático - Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Git/GitHub - Python - Algoritmos e Estruturas de Dados - Frameworks Flask - Segurança da Informação - Docker/Kubernetes - CSS - APIs REST - Testes Automatizados - Paradigmas de Programação - Frameworks Django - Metodologias Ágeis Kanban - HTML - Cloud Computing
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS HTML - Git/GitHub - Docker/Kubernetes - NoSQL - Frameworks Django - Python - Frameworks React
+

@@ -1,0 +1,48 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Nicole Jesus 
+IDADE 
+50
+EMAIL 
+portonoah@example.org 
+CIDADE 
+Monteiro de da Mota
+ENDEREÇO 
+Lagoa de Marques, 775
+Santa Rosa
+75481-827 Cassiano / MA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Analista de Compras 
+CONHECIMENTOS Negociação e Tomada de Decisão
+Empreendedorismo
+Gestão de Pessoas
+Logística e Cadeia de Suprimentos
+Gestão da Qualidade
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Product Manager (PM) 
+CONHECIMENTOS Cloud Computing
+Git/GitHub
+Testes Automatizados
+Paradigmas de Programação
+Frameworks React
+
+ 
+HABILIDADES
+
+Colaborativo
+Proativo
+Resiliente
+Responsável
+Participativo

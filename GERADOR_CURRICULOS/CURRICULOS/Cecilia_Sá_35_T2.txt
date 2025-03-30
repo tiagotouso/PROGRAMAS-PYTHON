@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Cecilia Sá 
+IDADE: 35
+EMAIL: fda-conceicao@example.com 
+CIDADE: Caldeira da Prata
+ENDEREÇO: Colônia Oliveira, 64
+Vila Sumaré
+06335974 Fernandes / TO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Professor de Direito 
+CONHECIMENTOS Direito Penal - Oratória e Argumentação Jurídica - Jurisprudência - Direito Empresarial - Tecnologia e Direito Digital - Elaboração de Contratos - Direito Constitucional - Direito Civil - Atuação em Audiências - Código de Processo Civil - Direito Trabalhista - Direito Administrativo
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS JavaScript - NoSQL - Algoritmos e Estruturas de Dados - Cloud Computing - Frameworks React - CSS - Git/GitHub - Segurança da Informação - Frameworks Flask
+
+ 
+HABILIDADES
+
+Criativo - Responsável - Educado - Liderança - Colaborativo - Pontual - Comunicativo - Adaptável

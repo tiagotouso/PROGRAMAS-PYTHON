@@ -1,0 +1,59 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Rhavi Gomes 
+IDADE 
+30
+EMAIL 
+lunna88@example.org 
+CIDADE 
+Rios de Farias
+ENDEREÇO 
+Vale Souza, 718
+Vila Nova Paraíso
+18100-572 Fogaça Verde / PA
+ 
+HABILIDADES
+
+Focado
+Responsável
+Organizado
+Colaborativo
+Resiliente
+Proativo
+Trabalho em equipe
+Comunicativo
+Participativo
+Adaptável
+Pontual
+Liderança
+Criativo
+Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Especialista em Inteligência Artificial 
+CONHECIMENTOS APIs REST
+CSS
+Frameworks Django
+Testes Automatizados
+HTML
+Paradigmas de Programação
+Segurança da Informação
+Frameworks React
+SQL
+Metodologias Ágeis Kanban
+DevOps
+Cloud Computing
+Algoritmos e Estruturas de Dados
+Python
+Docker/Kubernetes
+JavaScript
+Git/GitHub
+

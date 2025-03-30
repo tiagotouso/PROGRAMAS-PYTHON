@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Julia Almeida 
+IDADE: 25
+EMAIL: luiz-otaviocorreia@example.net 
+CIDADE: Freitas
+ENDEREÇO: Ladeira Oliveira, 19
+Vila Santa Monica 2ª Seção
+77243451 Carvalho do Oeste / MS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Advogado Imobiliário 
+CONHECIMENTOS Direito Constitucional - Oratória e Argumentação Jurídica - Código de Processo Penal - Direito Tributário - Direito Trabalhista - Jurisprudência - Direito Ambiental - Atuação em Audiências
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Frameworks Django - Algoritmos e Estruturas de Dados - DevOps - Frameworks Flask - SQL
+
+ 
+HABILIDADES
+
+Liderança - Colaborativo - Participativo - Empático - Comunicativo - Resiliente - Criativo - Focado - Pontual - Trabalho em equipe - Organizado - Educado - Proativo

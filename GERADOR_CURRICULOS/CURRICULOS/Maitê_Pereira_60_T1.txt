@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maitê Pereira 
+IDADE: 60
+EMAIL: apollo05@example.org 
+CIDADE: Gonçalves do Campo
+ENDEREÇO: Praia Maya Fogaça, 58
+Vila Santa Monica 2ª Seção
+50520-000 Moreira dos Dourados / PI
+ 
+HABILIDADES
+
+Liderança - Adaptável - Focado - Criativo - Colaborativo - Participativo - Comunicativo - Resiliente - Educado - Proativo - Pontual
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS JavaScript - Python - APIs REST - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - Testes Automatizados - Frameworks React - Paradigmas de Programação - CSS - DevOps - Frameworks Flask - SQL - NoSQL
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Consultor Jurídico 
+CONHECIMENTOS Direito Trabalhista - Gestão de Escritório de Advocacia - Escrita Jurídica - Direito Administrativo - Jurisprudência - Atuação em Audiências - Tecnologia e Direito Digital - Elaboração de Contratos - Código de Processo Penal - Ética e Deontologia Jurídica - Legislação Atualizada - Negociação e Mediação - Direito Constitucional - Direito Civil - Direito Empresarial - Oratória e Argumentação Jurídica - Direito Ambiental - Direito Penal - Direito Tributário
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Gestor de Relacionamento com Clientes 
+CONHECIMENTOS Direito Empresarial - Planejamento Estratégico - Business Intelligence (BI) - Metodologias Ágeis Kanban - Compliance e Governança Corporativa - Administração Pública - Gestão de Pessoas - Inovação e Transformação Digital - Logística e Cadeia de Suprimentos
+

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Thomas Moura 
+IDADE: 55
+EMAIL: pastorbeatriz@example.net 
+CIDADE: Machado de Goiás
+ENDEREÇO: Vereda de Vargas, 6
+São Sebastião
+47229521 Aparecida / GO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Infraestrutura 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - DevOps - Frameworks Flask - SQL - HTML
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS Frameworks React - Testes Automatizados - Cloud Computing - JavaScript - Segurança da Informação - CSS - Python - Metodologias Ágeis Kanban - Docker/Kubernetes - Frameworks Flask - Algoritmos e Estruturas de Dados - DevOps - HTML - APIs REST - Paradigmas de Programação - SQL - Metodologias Ágeis Scrum - Git/GitHub
+
+ 
+HABILIDADES
+
+Educado - Resiliente - Proativo - Empático - Focado - Colaborativo - Organizado - Participativo - Criativo - Adaptável - Liderança - Comunicativo - Pontual - Responsável

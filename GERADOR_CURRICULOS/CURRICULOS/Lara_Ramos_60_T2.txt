@@ -1,0 +1,39 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Lara Ramos 
+IDADE 
+60
+EMAIL 
+gdas-neves@example.com 
+CIDADE 
+Pereira
+ENDEREÇO 
+Lagoa da Mata
+Horto Florestal
+94032619 Viana de Barros / RO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Arquiteto de Soluções 
+CONHECIMENTOS CSS
+Frameworks Django
+Metodologias Ágeis Kanban
+Frameworks React
+Docker/Kubernetes
+NoSQL
+
+ 
+HABILIDADES
+
+Pontual
+Adaptável
+Empático
+Liderança
+Participativo

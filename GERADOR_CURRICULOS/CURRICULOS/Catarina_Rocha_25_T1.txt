@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Catarina Rocha 
+IDADE: 25
+EMAIL: luisacamargo@example.com 
+CIDADE: Farias
+ENDEREÇO: Setor de Castro, 635
+Eymard
+01662023 Alves Paulista / AC
+ 
+HABILIDADES
+
+Resiliente - Empático - Criativo - Adaptável - Organizado - Responsável - Comunicativo - Focado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Metodologias Ágeis Kanban - APIs REST - Git/GitHub - Segurança da Informação - HTML - Python - JavaScript - CSS - Cloud Computing - Algoritmos e Estruturas de Dados
+

@@ -1,0 +1,67 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Camila Lima 
+IDADE 
+45
+EMAIL 
+ecorreia@example.com 
+CIDADE 
+Melo da Prata
+ENDEREÇO 
+Quadra de Cassiano, 94
+Palmeiras
+52204260 Marques do Amparo / SC
+ 
+HABILIDADES
+
+Criativo
+Responsável
+Trabalho em equipe
+Adaptável
+Proativo
+Resiliente
+Liderança
+Pontual
+Organizado
+Participativo
+Focado
+Empático
+Comunicativo
+Educado
+Colaborativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+24 anos 
+CARGO 
+Secretário Executivo 
+CONHECIMENTOS Customer Success e Experiência do Cliente
+Gestão Financeira
+Direito Empresarial
+Logística e Cadeia de Suprimentos
+Gestão da Qualidade
+Negociação e Tomada de Decisão
+Liderança e Gestão de Equipes
+Ética e Responsabilidade Corporativa
+Inovação e Transformação Digital
+Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Site Reliability Engineer (SRE) 
+CONHECIMENTOS Docker/Kubernetes
+APIs REST
+Frameworks Django
+Testes Automatizados
+Metodologias Ágeis Scrum
+JavaScript
+Cloud Computing
+DevOps
+Python
+

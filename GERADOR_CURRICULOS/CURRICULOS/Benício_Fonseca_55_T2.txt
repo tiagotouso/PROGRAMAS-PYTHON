@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Benício Fonseca 
+IDADE: 55
+EMAIL: dda-paz@example.com 
+CIDADE: Souza das Flores
+ENDEREÇO: Loteamento de Montenegro, 969
+Senhor Dos Passos
+34414698 Cavalcante Paulista / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Analista de Infraestrutura 
+CONHECIMENTOS NoSQL - Metodologias Ágeis Scrum - Frameworks Django - CSS - JavaScript - Metodologias Ágeis Kanban - HTML
+
+ 
+HABILIDADES
+
+Pontual - Comunicativo - Educado - Resiliente - Empático - Proativo - Criativo - Responsável - Adaptável - Participativo - Organizado - Liderança - Colaborativo

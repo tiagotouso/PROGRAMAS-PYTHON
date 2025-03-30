@@ -1,0 +1,46 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Raquel Montenegro 
+IDADE 
+40
+EMAIL 
+isadora68@example.net 
+CIDADE 
+Caldeira Grande
+ENDEREÇO 
+Praia Vicente Abreu
+Gutierrez
+64021-107 Alves dos Dourados / MG
+ 
+HABILIDADES
+
+Adaptável
+Empático
+Pontual
+Trabalho em equipe
+Colaborativo
+Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Algoritmos e Estruturas de Dados
+Python
+CSS
+Git/GitHub
+Frameworks Django
+Frameworks Flask
+Testes Automatizados
+NoSQL
+Frameworks React
+APIs REST
+SQL
+

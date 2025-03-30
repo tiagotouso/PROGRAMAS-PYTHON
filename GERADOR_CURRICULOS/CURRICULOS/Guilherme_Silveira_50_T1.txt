@@ -1,0 +1,73 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Guilherme Silveira 
+IDADE 
+50
+EMAIL 
+tda-paz@example.net 
+CIDADE 
+Aparecida
+ENDEREÇO 
+Largo de Silveira, 46
+Cinquentenário
+81173-923 Correia / RR
+ 
+HABILIDADES
+
+Participativo
+Comunicativo
+Educado
+Adaptável
+Pontual
+Resiliente
+Colaborativo
+Focado
+Criativo
+Organizado
+Liderança
+Trabalho em equipe
+Empático
+Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS NoSQL
+Frameworks React
+Metodologias Ágeis Scrum
+Algoritmos e Estruturas de Dados
+HTML
+CSS
+Metodologias Ágeis Kanban
+JavaScript
+Segurança da Informação
+DevOps
+Frameworks Flask
+SQL
+Cloud Computing
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Advogado Público 
+CONHECIMENTOS Direito Civil
+Atuação em Audiências
+Direito Empresarial
+Direito Constitucional
+Código de Processo Penal
+Negociação e Mediação
+Jurisprudência
+Direito Trabalhista
+Gestão de Escritório de Advocacia
+Direito Tributário
+Ética e Deontologia Jurídica
+Tecnologia e Direito Digital
+Direito Ambiental
+

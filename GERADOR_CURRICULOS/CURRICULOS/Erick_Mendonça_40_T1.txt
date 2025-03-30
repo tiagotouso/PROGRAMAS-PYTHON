@@ -1,0 +1,57 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Erick Mendonça 
+IDADE 
+40
+EMAIL 
+da-matamaria-clara@example.net 
+CIDADE 
+Azevedo
+ENDEREÇO 
+Alameda Fernanda Mendes, 3
+Vila Atila De Paiva
+12691-550 Rezende / CE
+ 
+HABILIDADES
+
+Pontual
+Focado
+Participativo
+Comunicativo
+Adaptável
+Liderança
+Colaborativo
+Proativo
+Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Docker/Kubernetes
+HTML
+Cloud Computing
+Python
+Frameworks Flask
+Metodologias Ágeis Kanban
+CSS
+Frameworks Django
+NoSQL
+Git/GitHub
+DevOps
+SQL
+Paradigmas de Programação
+Testes Automatizados
+JavaScript
+Frameworks React
+Algoritmos e Estruturas de Dados
+APIs REST
+Segurança da Informação
+Metodologias Ágeis Scrum
+

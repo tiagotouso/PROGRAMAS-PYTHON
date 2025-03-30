@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Laura Cavalcante 
+IDADE: 40
+EMAIL: fda-mata@example.org 
+CIDADE: Souza das Pedras
+ENDEREÇO: Aeroporto Oliveira, 715
+Boa Viagem
+91768-594 Dias do Amparo / MS
+ 
+HABILIDADES
+
+Organizado - Criativo - Colaborativo - Liderança - Pontual - Focado - Trabalho em equipe - Empático - Adaptável - Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS Cloud Computing - DevOps - APIs REST - Git/GitHub - Paradigmas de Programação - Frameworks Django - SQL - Frameworks Flask - Segurança da Informação - CSS - Testes Automatizados - Metodologias Ágeis Scrum
+

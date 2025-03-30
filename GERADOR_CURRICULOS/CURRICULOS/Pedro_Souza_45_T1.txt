@@ -1,0 +1,54 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Pedro Souza 
+IDADE 
+45
+EMAIL 
+icaldeira@example.org 
+CIDADE 
+Cardoso
+ENDEREÇO 
+Residencial de Cassiano, 386
+Túnel De Ibirité
+45234556 Freitas / AP
+ 
+HABILIDADES
+
+Empático
+Adaptável
+Comunicativo
+Participativo
+Resiliente
+Trabalho em equipe
+Focado
+Responsável
+Pontual
+Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+26 anos 
+CARGO 
+Administrador de Redes 
+CONHECIMENTOS Git/GitHub
+Python
+Segurança da Informação
+Testes Automatizados
+HTML
+DevOps
+JavaScript
+NoSQL
+Cloud Computing
+Docker/Kubernetes
+Frameworks React
+Metodologias Ágeis Scrum
+APIs REST
+CSS
+Paradigmas de Programação
+Frameworks Flask
+

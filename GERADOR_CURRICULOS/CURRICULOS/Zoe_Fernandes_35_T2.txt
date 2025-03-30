@@ -1,0 +1,65 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Zoe Fernandes 
+IDADE 
+35
+EMAIL 
+guerravicente@example.org 
+CIDADE 
+Dias Verde
+ENDEREÇO 
+Alameda Oliveira, 173
+Santa Monica
+44613-628 Nascimento de Gomes / SP
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Business Intelligence (BI) 
+CONHECIMENTOS Testes Automatizados
+Frameworks React
+Segurança da Informação
+CSS
+APIs REST
+JavaScript
+Metodologias Ágeis Scrum
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista de Infraestrutura 
+CONHECIMENTOS Frameworks React
+SQL
+NoSQL
+DevOps
+APIs REST
+Testes Automatizados
+Segurança da Informação
+Git/GitHub
+HTML
+Frameworks Flask
+Docker/Kubernetes
+Paradigmas de Programação
+Python
+JavaScript
+Frameworks Django
+CSS
+Metodologias Ágeis Scrum
+
+ 
+HABILIDADES
+
+Proativo
+Focado
+Organizado
+Educado
+Adaptável
+Criativo
+Empático

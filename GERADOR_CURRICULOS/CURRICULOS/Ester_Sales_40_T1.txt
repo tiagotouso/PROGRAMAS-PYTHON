@@ -1,0 +1,47 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ester Sales 
+IDADE 
+40
+EMAIL 
+laismoura@example.com 
+CIDADE 
+Siqueira
+ENDEREÇO 
+Alameda Murilo Rocha, 89
+Miramar
+20401489 Mendonça de Campos / SP
+ 
+HABILIDADES
+
+Proativo
+Colaborativo
+Focado
+Liderança
+Resiliente
+Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Analista de Processos 
+CONHECIMENTOS Contabilidade Empresarial
+Compliance e Governança Corporativa
+Marketing e Vendas
+Liderança e Gestão de Equipes
+Ética e Responsabilidade Corporativa
+Business Intelligence (BI)
+Análise de Dados e Indicadores
+Metodologias Ágeis Scrum
+Gestão de Projetos
+Gestão da Qualidade
+Customer Success e Experiência do Cliente
+Metodologias Ágeis Kanban
+Negociação e Tomada de Decisão
+

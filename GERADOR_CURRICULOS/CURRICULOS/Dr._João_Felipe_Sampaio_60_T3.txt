@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS Testes Automatizados - Segurança da Informação - Metodologias Ágeis Kanban - Docker/Kubernetes - Metodologias Ágeis Scrum - JavaScript - SQL - Git/GitHub - Python
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Engenheiro de Machine Learning 
+CONHECIMENTOS Cloud Computing - Metodologias Ágeis Scrum - JavaScript - Git/GitHub - Docker/Kubernetes - Frameworks Flask - CSS - Testes Automatizados - Paradigmas de Programação - Segurança da Informação - Metodologias Ágeis Kanban - Frameworks Django - NoSQL - DevOps - APIs REST - Frameworks React
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. João Felipe Sampaio 
+IDADE: 60
+EMAIL: correiagustavo@example.net 
+CIDADE: Souza de Montenegro
+ENDEREÇO: Núcleo Ana Clara da Conceição, 26
+Barroca
+78528-148 Teixeira / ES
+ 
+HABILIDADES
+
+Colaborativo - Trabalho em equipe - Criativo - Focado - Comunicativo - Pontual
+ 

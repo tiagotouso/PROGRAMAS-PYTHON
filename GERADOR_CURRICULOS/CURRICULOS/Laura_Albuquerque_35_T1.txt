@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Laura Albuquerque 
+IDADE: 35
+EMAIL: gabriela49@example.com 
+CIDADE: Siqueira
+ENDEREÇO: Praça Rodrigo Garcia, 8
+Nossa Senhora Da Aparecida
+96587457 Barros / PI
+ 
+HABILIDADES
+
+Pontual - Criativo - Participativo - Educado - Focado - Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Advogado Digital 
+CONHECIMENTOS Direito Empresarial - Oratória e Argumentação Jurídica - Atuação em Audiências - Direito Civil - Ética e Deontologia Jurídica - Gestão de Escritório de Advocacia - Direito Ambiental - Jurisprudência - Código de Processo Civil - Direito Constitucional - Direito Penal - Direito Tributário - Negociação e Mediação - Direito Administrativo - Escrita Jurídica
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Site Reliability Engineer (SRE) 
+CONHECIMENTOS CSS - Metodologias Ágeis Kanban - SQL - Frameworks Flask - Frameworks React - APIs REST
+

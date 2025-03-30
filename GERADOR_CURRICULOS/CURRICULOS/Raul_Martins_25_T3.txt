@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS JavaScript - Git/GitHub - Testes Automatizados - Cloud Computing - Frameworks Django - Docker/Kubernetes
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Raul Martins 
+IDADE: 25
+EMAIL: diogocamargo@example.com 
+CIDADE: Vieira da Praia
+ENDEREÇO: Viaduto de Peixoto, 17
+Santa Terezinha
+88485-123 Fernandes / TO
+ 
+HABILIDADES
+
+Responsável - Adaptável - Pontual - Empático - Participativo - Criativo - Focado - Comunicativo - Proativo - Colaborativo
+ 

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Gabrielly da Luz 
+IDADE: 30
+EMAIL: jgoncalves@example.net 
+CIDADE: Pinto
+ENDEREÇO: Condomínio de Gonçalves, 24
+Ouro Preto
+03205-041 Cavalcanti do Amparo / SP
+ 
+HABILIDADES
+
+Resiliente - Empático - Criativo - Liderança - Organizado - Participativo - Proativo - Comunicativo - Responsável - Colaborativo - Adaptável - Focado - Trabalho em equipe - Pontual
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Site Reliability Engineer (SRE) 
+CONHECIMENTOS Metodologias Ágeis Scrum - Testes Automatizados - Segurança da Informação - APIs REST - Algoritmos e Estruturas de Dados - Cloud Computing - SQL - Frameworks React - NoSQL - Frameworks Flask - Git/GitHub - HTML - Paradigmas de Programação - JavaScript - DevOps - CSS - Frameworks Django - Metodologias Ágeis Kanban - Docker/Kubernetes - Python
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Oficial de Justiça 
+CONHECIMENTOS Direito Ambiental - Ética e Deontologia Jurídica - Direito Penal - Direito Administrativo - Escrita Jurídica - Direito Tributário - Tecnologia e Direito Digital - Código de Processo Civil - Elaboração de Contratos - Legislação Atualizada - Negociação e Mediação - Direito Trabalhista - Oratória e Argumentação Jurídica - Jurisprudência - Direito Empresarial - Atuação em Audiências - Código de Processo Penal - Direito Constitucional - Direito Civil
+

@@ -1,0 +1,58 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Otávio Mendonça 
+IDADE 
+45
+EMAIL 
+joaquim43@example.net 
+CIDADE 
+da Costa Paulista
+ENDEREÇO 
+Residencial de Pacheco
+Jaraguá
+53990-033 da Cunha Paulista / RN
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Compliance Officer 
+CONHECIMENTOS Código de Processo Civil
+Direito Administrativo
+Elaboração de Contratos
+Direito Constitucional
+Direito Tributário
+Atuação em Audiências
+Direito Penal
+Direito Ambiental
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS CSS
+APIs REST
+Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+Frameworks Flask
+HTML
+Frameworks React
+
+ 
+HABILIDADES
+
+Criativo
+Resiliente
+Liderança
+Empático
+Participativo
+Adaptável
+Organizado
+Colaborativo
+Educado
+Pontual

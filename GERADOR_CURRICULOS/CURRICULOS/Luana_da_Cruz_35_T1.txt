@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Luana da Cruz 
+IDADE: 35
+EMAIL: fonsecacarolina@example.org 
+CIDADE: Andrade
+ENDEREÇO: Praia Silva, 379
+Bonfim
+29219605 das Neves do Amparo / RN
+ 
+HABILIDADES
+
+Comunicativo - Resiliente - Proativo - Empático - Adaptável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Gerente de Projetos 
+CONHECIMENTOS Customer Success e Experiência do Cliente - Gestão Financeira - Planejamento Estratégico - Ética e Responsabilidade Corporativa - Gestão de Pessoas - Direito Empresarial - Administração Pública - Metodologias Ágeis Kanban - Business Intelligence (BI) - Gestão da Qualidade
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS Git/GitHub - Testes Automatizados - HTML - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - Cloud Computing - Docker/Kubernetes - JavaScript - CSS - Paradigmas de Programação - Python
+

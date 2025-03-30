@@ -1,0 +1,52 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Carlos Eduardo Alves 
+IDADE 
+25
+EMAIL 
+castroemanuella@example.org 
+CIDADE 
+Silva
+ENDEREÇO 
+Lagoa Cirino, 47
+Antonio Ribeiro De Abreu 1ª Seção
+89885-014 Lima / AC
+ 
+HABILIDADES
+
+Focado
+Responsável
+Participativo
+Colaborativo
+Liderança
+Empático
+Pontual
+Educado
+Adaptável
+Criativo
+Proativo
+Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS Frameworks Django
+SQL
+Metodologias Ágeis Kanban
+Testes Automatizados
+Python
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+Algoritmos e Estruturas de Dados
+CSS
+Segurança da Informação
+Paradigmas de Programação
+NoSQL
+

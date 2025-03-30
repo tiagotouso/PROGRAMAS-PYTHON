@@ -1,0 +1,77 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Assistente Administrativo 
+CONHECIMENTOS Planejamento Estratégico
+Logística e Cadeia de Suprimentos
+Gestão da Qualidade
+Metodologias Ágeis Kanban
+Inovação e Transformação Digital
+Marketing e Vendas
+Business Intelligence (BI)
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Especialista em UX/UI 
+CONHECIMENTOS Paradigmas de Programação
+Frameworks Django
+HTML
+NoSQL
+SQL
+APIs REST
+Metodologias Ágeis Kanban
+CSS
+Metodologias Ágeis Scrum
+JavaScript
+Segurança da Informação
+Python
+DevOps
+Cloud Computing
+Git/GitHub
+Frameworks Flask
+Testes Automatizados
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista Administrativo 
+CONHECIMENTOS Marketing e Vendas
+Gestão da Qualidade
+Gestão de Pessoas
+Gestão Financeira
+Administração Pública
+Direito Empresarial
+Compliance e Governança Corporativa
+Ética e Responsabilidade Corporativa
+Gestão de Projetos
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Vitória Gomes 
+IDADE 
+50
+EMAIL 
+antonio81@example.org 
+CIDADE 
+Campos
+ENDEREÇO 
+Alameda Araújo, 411
+Vila Santo Antônio Barroquinha
+85910-676 Rodrigues / PB
+ 
+HABILIDADES
+
+Trabalho em equipe
+Resiliente
+Educado
+Responsável
+Empático
+ 

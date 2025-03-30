@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - CSS - Cloud Computing - Frameworks React - DevOps - JavaScript - Testes Automatizados - Metodologias Ágeis Scrum - SQL - APIs REST - Git/GitHub - Python - NoSQL - Docker/Kubernetes - Frameworks Django
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Arbitro 
+CONHECIMENTOS Código de Processo Civil - Jurisprudência - Ética e Deontologia Jurídica - Escrita Jurídica - Negociação e Mediação - Elaboração de Contratos - Atuação em Audiências - Oratória e Argumentação Jurídica - Direito Tributário
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Beatriz Costela 
+IDADE: 40
+EMAIL: dantelopes@example.net 
+CIDADE: Freitas de Sousa
+ENDEREÇO: Favela Lopes
+Ernesto Nascimento
+10534994 Pacheco do Campo / AL
+ 
+HABILIDADES
+
+Participativo - Liderança - Resiliente - Trabalho em equipe - Proativo - Responsável - Empático - Organizado - Criativo - Pontual - Educado - Focado - Colaborativo - Comunicativo - Adaptável
+ 

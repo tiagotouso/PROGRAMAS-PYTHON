@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Arquiteto de Soluções 
+CONHECIMENTOS Metodologias Ágeis Kanban - JavaScript - CSS - Paradigmas de Programação - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS Frameworks Django - APIs REST - Algoritmos e Estruturas de Dados - Docker/Kubernetes - SQL - Cloud Computing - Metodologias Ágeis Scrum - Frameworks React - Paradigmas de Programação - HTML - Frameworks Flask - Python - Testes Automatizados - JavaScript - Metodologias Ágeis Kanban - CSS - NoSQL
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Administrador 
+CONHECIMENTOS Marketing e Vendas - Metodologias Ágeis Scrum - Inovação e Transformação Digital - Gestão de Pessoas - Metodologias Ágeis Kanban - Gestão Financeira - Empreendedorismo - Análise de Dados e Indicadores - Gestão da Qualidade - Direito Empresarial - Administração Pública - Ética e Responsabilidade Corporativa
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Evelyn Sampaio 
+IDADE: 60
+EMAIL: mateus82@example.org 
+CIDADE: Cardoso de Farias
+ENDEREÇO: Loteamento de da Mata
+Ápia
+89421-744 Pires das Pedras / MT
+ 
+HABILIDADES
+
+Proativo - Educado - Colaborativo - Focado - Adaptável - Organizado - Comunicativo - Trabalho em equipe - Resiliente - Criativo - Liderança - Pontual
+ 

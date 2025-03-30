@@ -1,0 +1,82 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dra. Helena Pacheco 
+IDADE 
+35
+EMAIL 
+ana-carolina11@example.org 
+CIDADE 
+Cunha
+ENDEREÇO 
+Avenida de da Mata
+Vila Aeroporto
+46236-414 Barros do Amparo / RJ
+ 
+HABILIDADES
+
+Criativo
+Proativo
+Focado
+Empático
+Colaborativo
+Liderança
+Educado
+Resiliente
+Adaptável
+Pontual
+Participativo
+Trabalho em equipe
+Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Engenheiro de Machine Learning 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+Segurança da Informação
+Git/GitHub
+DevOps
+APIs REST
+Cloud Computing
+CSS
+Metodologias Ágeis Kanban
+Frameworks Flask
+Docker/Kubernetes
+Metodologias Ágeis Scrum
+Frameworks Django
+Python
+Paradigmas de Programação
+Testes Automatizados
+Frameworks React
+NoSQL
+JavaScript
+HTML
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Gerente de Projetos 
+CONHECIMENTOS Análise de Dados e Indicadores
+Negociação e Tomada de Decisão
+Metodologias Ágeis Scrum
+Planejamento Estratégico
+Administração Pública
+Contabilidade Empresarial
+Marketing e Vendas
+Liderança e Gestão de Equipes
+Compliance e Governança Corporativa
+Metodologias Ágeis Kanban
+Gestão de Projetos
+Inovação e Transformação Digital
+Gestão Financeira
+Direito Empresarial
+Ética e Responsabilidade Corporativa
+Customer Success e Experiência do Cliente
+Gestão da Qualidade
+

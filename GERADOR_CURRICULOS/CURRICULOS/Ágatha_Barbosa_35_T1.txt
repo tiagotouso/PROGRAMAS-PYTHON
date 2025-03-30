@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Ágatha Barbosa 
+IDADE: 35
+EMAIL: joao92@example.net 
+CIDADE: Novaes do Galho
+ENDEREÇO: Estrada de Dias, 25
+Santa Inês
+07823-519 Marques de Rezende / PI
+ 
+HABILIDADES
+
+Colaborativo - Pontual - Responsável - Focado - Criativo - Empático - Adaptável - Trabalho em equipe - Liderança - Organizado - Resiliente - Proativo - Participativo - Educado - Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS Cloud Computing - Git/GitHub - Metodologias Ágeis Kanban - Python - NoSQL - Segurança da Informação - Algoritmos e Estruturas de Dados - HTML - CSS - Testes Automatizados - Docker/Kubernetes - Frameworks Django - DevOps - Metodologias Ágeis Scrum - Frameworks React
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Docker/Kubernetes - Frameworks Django - Metodologias Ágeis Scrum - DevOps - Testes Automatizados - Metodologias Ágeis Kanban - HTML - Frameworks React - SQL - Git/GitHub - JavaScript - Frameworks Flask - CSS
+

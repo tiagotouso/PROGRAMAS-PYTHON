@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Clarice Moraes 
+IDADE: 45
+EMAIL: maria-helenaandrade@example.com 
+CIDADE: Nascimento de Pinto
+ENDEREÇO: Vereda Ravi Garcia, 243
+Vila Real 2ª Seção
+90497-126 Alves / AL
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista Jurídico 
+CONHECIMENTOS Legislação Atualizada - Direito Penal - Gestão de Escritório de Advocacia - Direito Constitucional - Atuação em Audiências - Jurisprudência - Direito Tributário - Escrita Jurídica - Direito Empresarial - Oratória e Argumentação Jurídica - Código de Processo Penal
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS Frameworks Django - CSS - Python - APIs REST - Metodologias Ágeis Scrum - Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Responsável - Liderança - Colaborativo - Focado - Comunicativo - Organizado - Pontual - Participativo - Resiliente - Criativo - Educado - Empático - Trabalho em equipe - Proativo

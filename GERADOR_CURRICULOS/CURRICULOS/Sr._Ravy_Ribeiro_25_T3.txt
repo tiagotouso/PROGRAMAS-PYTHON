@@ -1,0 +1,50 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Sistemas 
+CONHECIMENTOS JavaScript
+Git/GitHub
+Frameworks Flask
+APIs REST
+Python
+Algoritmos e Estruturas de Dados
+Testes Automatizados
+Docker/Kubernetes
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sr. Ravy Ribeiro 
+IDADE 
+25
+EMAIL 
+qdias@example.net 
+CIDADE 
+Gomes de da Rosa
+ENDEREÇO 
+Feira de da Luz, 32
+Coqueiros
+05479553 Borges / PR
+ 
+HABILIDADES
+
+Criativo
+Responsável
+Educado
+Participativo
+Adaptável
+Liderança
+Colaborativo
+Pontual
+Resiliente
+Trabalho em equipe
+Focado
+Comunicativo
+Empático
+ 

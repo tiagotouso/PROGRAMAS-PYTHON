@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Davi Lucas Sampaio 
+IDADE: 60
+EMAIL: diogo80@example.net 
+CIDADE: Brito
+ENDEREÇO: Passarela Costela, 53
+Ipe
+86571-565 Leão / AC
+ 
+HABILIDADES
+
+Educado - Colaborativo - Participativo - Empático - Pontual - Organizado - Trabalho em equipe - Resiliente - Proativo - Adaptável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Assistente de Escritório 
+CONHECIMENTOS Liderança e Gestão de Equipes - Ética e Responsabilidade Corporativa - Negociação e Tomada de Decisão - Contabilidade Empresarial - Gestão Financeira - Empreendedorismo - Customer Success e Experiência do Cliente - Logística e Cadeia de Suprimentos - Administração Pública - Business Intelligence (BI) - Gestão da Qualidade
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS Testes Automatizados - Paradigmas de Programação - Frameworks React - Frameworks Django - Docker/Kubernetes - SQL - APIs REST - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - DevOps - Git/GitHub - Algoritmos e Estruturas de Dados - CSS - Segurança da Informação - NoSQL - HTML - Frameworks Flask - Python
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Analista de Infraestrutura 
+CONHECIMENTOS Frameworks Flask - Python - Segurança da Informação - HTML - CSS - DevOps - Frameworks React - Docker/Kubernetes - Metodologias Ágeis Kanban - NoSQL - JavaScript - Paradigmas de Programação - SQL - Metodologias Ágeis Scrum - APIs REST - Frameworks Django - Testes Automatizados - Git/GitHub - Algoritmos e Estruturas de Dados
+

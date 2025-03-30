@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS CSS - Cloud Computing - Python - Git/GitHub - HTML - DevOps
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Pedro Miguel Costela 
+IDADE: 45
+EMAIL: rpacheco@example.net 
+CIDADE: Dias
+ENDEREÇO: Trecho Samuel Silva, 7
+Monte Azul
+52605301 da Luz / PB
+ 
+HABILIDADES
+
+Organizado - Pontual - Participativo - Adaptável - Trabalho em equipe - Colaborativo
+ 

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Lucas Ribeiro 
+IDADE: 60
+EMAIL: agatha86@example.net 
+CIDADE: Novaes
+ENDEREÇO: Viaduto de Rios, 618
+São José
+41052086 Mendes / PE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Infraestrutura 
+CONHECIMENTOS DevOps - Frameworks React - Paradigmas de Programação - APIs REST - Frameworks Flask - HTML - Cloud Computing - Algoritmos e Estruturas de Dados - SQL - Git/GitHub - Docker/Kubernetes - NoSQL - JavaScript - Testes Automatizados - Metodologias Ágeis Scrum - Frameworks Django - Segurança da Informação - CSS
+
+TEMPO DE SERVIÇO: 26 anos 
+CARGO: Compliance Officer 
+CONHECIMENTOS Atuação em Audiências - Escrita Jurídica - Direito Constitucional - Negociação e Mediação - Código de Processo Civil - Direito Ambiental - Tecnologia e Direito Digital - Direito Empresarial - Direito Administrativo - Ética e Deontologia Jurídica - Código de Processo Penal - Direito Tributário - Elaboração de Contratos - Legislação Atualizada - Direito Trabalhista
+
+ 
+HABILIDADES
+
+Participativo - Liderança - Organizado - Focado - Educado - Empático - Trabalho em equipe - Responsável - Proativo - Pontual - Resiliente - Adaptável - Colaborativo - Criativo

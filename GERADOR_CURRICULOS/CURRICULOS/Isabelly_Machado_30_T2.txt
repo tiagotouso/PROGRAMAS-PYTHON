@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Isabelly Machado 
+IDADE: 30
+EMAIL: pda-cruz@example.org 
+CIDADE: Cavalcanti
+ENDEREÇO: Recanto João Pedro Abreu, 902
+Vila Calafate
+46094461 Pires da Mata / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Mobile 
+CONHECIMENTOS Frameworks Flask - APIs REST - Segurança da Informação - JavaScript - Docker/Kubernetes - Cloud Computing - Paradigmas de Programação - Testes Automatizados - Git/GitHub - Metodologias Ágeis Kanban - Frameworks React - HTML - DevOps
+
+ 
+HABILIDADES
+
+Resiliente - Colaborativo - Responsável - Pontual - Empático - Educado - Focado - Participativo - Proativo - Organizado

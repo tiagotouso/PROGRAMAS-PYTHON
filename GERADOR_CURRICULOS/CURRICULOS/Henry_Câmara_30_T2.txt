@@ -1,0 +1,60 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Henry Câmara 
+IDADE 
+30
+EMAIL 
+sarahnovaes@example.org 
+CIDADE 
+Gonçalves da Serra
+ENDEREÇO 
+Campo de Farias, 744
+Vila Madre Gertrudes 3ª Seção
+29122-483 Moraes de Cardoso / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Especialista em Cibersegurança 
+CONHECIMENTOS Docker/Kubernetes
+Frameworks Flask
+Segurança da Informação
+Frameworks React
+HTML
+Metodologias Ágeis Kanban
+JavaScript
+Algoritmos e Estruturas de Dados
+Cloud Computing
+APIs REST
+Testes Automatizados
+NoSQL
+Frameworks Django
+DevOps
+Git/GitHub
+Python
+Metodologias Ágeis Scrum
+CSS
+Paradigmas de Programação
+SQL
+
+ 
+HABILIDADES
+
+Focado
+Participativo
+Trabalho em equipe
+Responsável
+Liderança
+Proativo
+Colaborativo
+Empático
+Criativo
+Organizado
+Pontual
+Adaptável

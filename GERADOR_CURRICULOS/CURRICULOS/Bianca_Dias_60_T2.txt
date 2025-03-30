@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Bianca Dias 
+IDADE: 60
+EMAIL: matteopeixoto@example.net 
+CIDADE: Costela de Vieira
+ENDEREÇO: Viela de Costela, 67
+Calafate
+90105261 Mendes / GO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Cientista de Dados 
+CONHECIMENTOS Frameworks React - JavaScript - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - Frameworks Django - CSS - DevOps - Git/GitHub - Paradigmas de Programação - Docker/Kubernetes - Testes Automatizados - Cloud Computing - Segurança da Informação - Python - APIs REST - HTML - Frameworks Flask - SQL - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Consultor Empresarial 
+CONHECIMENTOS Business Intelligence (BI) - Metodologias Ágeis Scrum - Customer Success e Experiência do Cliente - Análise de Dados e Indicadores - Gestão de Projetos
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Analista de Dados 
+CONHECIMENTOS Frameworks React - Metodologias Ágeis Kanban - DevOps - Git/GitHub - Testes Automatizados - APIs REST - Algoritmos e Estruturas de Dados - JavaScript - SQL - Paradigmas de Programação - Frameworks Flask - Docker/Kubernetes - HTML - Cloud Computing
+
+ 
+HABILIDADES
+
+Colaborativo - Adaptável - Resiliente - Organizado - Educado - Comunicativo - Trabalho em equipe - Empático - Liderança - Proativo

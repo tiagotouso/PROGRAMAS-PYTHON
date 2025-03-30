@@ -1,0 +1,65 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Luiz Gustavo Guerra 
+IDADE 
+35
+EMAIL 
+ana-juliaporto@example.com 
+CIDADE 
+Macedo do Amparo
+ENDEREÇO 
+Largo Luigi Moura, 3
+Vila Ouro Minas
+81088-208 Pires / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+CSS
+SQL
+NoSQL
+Frameworks Django
+Cloud Computing
+DevOps
+APIs REST
+HTML
+Testes Automatizados
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Gerente de TI 
+CONHECIMENTOS Metodologias Ágeis Kanban
+NoSQL
+CSS
+APIs REST
+DevOps
+Algoritmos e Estruturas de Dados
+JavaScript
+Segurança da Informação
+Metodologias Ágeis Scrum
+
+ 
+HABILIDADES
+
+Criativo
+Educado
+Organizado
+Proativo
+Adaptável
+Resiliente
+Pontual
+Participativo
+Focado
+Empático

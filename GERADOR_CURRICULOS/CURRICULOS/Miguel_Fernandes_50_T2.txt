@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Miguel Fernandes 
+IDADE: 50
+EMAIL: caleb36@example.net 
+CIDADE: Abreu do Oeste
+ENDEREÇO: Área Ágatha Cardoso, 72
+Nova Cintra
+01775554 Andrade / PR
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Advogado Trabalhista 
+CONHECIMENTOS Direito Tributário - Ética e Deontologia Jurídica - Direito Penal - Direito Ambiental - Código de Processo Penal - Oratória e Argumentação Jurídica - Gestão de Escritório de Advocacia
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Arquiteto de Soluções 
+CONHECIMENTOS Frameworks Django - Frameworks React - NoSQL - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - Paradigmas de Programação - Cloud Computing - Docker/Kubernetes - APIs REST - JavaScript - Segurança da Informação - DevOps - Algoritmos e Estruturas de Dados
+
+ 
+HABILIDADES
+
+Comunicativo - Criativo - Adaptável - Pontual - Liderança - Educado - Responsável - Colaborativo - Resiliente - Trabalho em equipe - Organizado

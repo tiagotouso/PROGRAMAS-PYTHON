@@ -1,0 +1,67 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Laura Sá 
+IDADE 
+60
+EMAIL 
+gabrielly38@example.net 
+CIDADE 
+Cavalcanti
+ENDEREÇO 
+Rodovia Dante Leão, 74
+Santa Rosa
+87970047 Vieira / SP
+ 
+HABILIDADES
+
+Organizado
+Liderança
+Colaborativo
+Trabalho em equipe
+Comunicativo
+Proativo
+Criativo
+Adaptável
+Empático
+Resiliente
+Participativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+22 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS HTML
+CSS
+Frameworks Flask
+NoSQL
+DevOps
+SQL
+Git/GitHub
+Algoritmos e Estruturas de Dados
+Python
+Testes Automatizados
+Cloud Computing
+APIs REST
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Especialista em UX/UI 
+CONHECIMENTOS Segurança da Informação
+DevOps
+SQL
+NoSQL
+Frameworks React
+Docker/Kubernetes
+Testes Automatizados
+HTML
+Algoritmos e Estruturas de Dados
+JavaScript
+Git/GitHub
+

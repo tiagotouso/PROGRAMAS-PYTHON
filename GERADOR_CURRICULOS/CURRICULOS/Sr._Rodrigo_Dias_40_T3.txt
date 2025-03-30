@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Full Stack 
+CONHECIMENTOS Python - Paradigmas de Programação - SQL - Segurança da Informação - Git/GitHub - DevOps - Metodologias Ágeis Scrum - APIs REST - Frameworks Django - Frameworks React - NoSQL - Metodologias Ágeis Kanban
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Rodrigo Dias 
+IDADE: 40
+EMAIL: labreu@example.com 
+CIDADE: da Rocha do Galho
+ENDEREÇO: Jardim de Cavalcanti
+Prado
+06339796 Souza Grande / MG
+ 
+HABILIDADES
+
+Colaborativo - Responsável - Participativo - Proativo - Educado - Empático - Resiliente - Organizado - Pontual - Liderança - Focado
+ 

@@ -1,0 +1,73 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Alícia Duarte 
+IDADE 
+45
+EMAIL 
+carlos-eduardo76@example.net 
+CIDADE 
+da Mata
+ENDEREÇO 
+Campo Joana Silva, 496
+Ouro Preto
+60234-427 Aragão de da Conceição / PB
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS Testes Automatizados
+Segurança da Informação
+Docker/Kubernetes
+SQL
+JavaScript
+Git/GitHub
+Frameworks Django
+Paradigmas de Programação
+APIs REST
+Algoritmos e Estruturas de Dados
+Frameworks Flask
+Python
+CSS
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Procurador 
+CONHECIMENTOS Direito Trabalhista
+Escrita Jurídica
+Direito Penal
+Ética e Deontologia Jurídica
+Negociação e Mediação
+Jurisprudência
+Código de Processo Civil
+Tecnologia e Direito Digital
+Atuação em Audiências
+Direito Tributário
+Oratória e Argumentação Jurídica
+Direito Civil
+Direito Constitucional
+Legislação Atualizada
+Gestão de Escritório de Advocacia
+Elaboração de Contratos
+Direito Empresarial
+
+ 
+HABILIDADES
+
+Criativo
+Comunicativo
+Focado
+Empático
+Resiliente
+Trabalho em equipe
+Responsável
+Educado
+Liderança
+Proativo

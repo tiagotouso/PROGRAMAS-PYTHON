@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Business Intelligence (BI) 
+CONHECIMENTOS JavaScript - Frameworks Django - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - Frameworks Flask - Algoritmos e Estruturas de Dados - NoSQL - CSS - Cloud Computing - Paradigmas de Programação - APIs REST - HTML - DevOps - SQL - Git/GitHub - Docker/Kubernetes - Frameworks React - Python - Segurança da Informação
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Clarice Garcia 
+IDADE: 25
+EMAIL: dcamara@example.net 
+CIDADE: Albuquerque da Praia
+ENDEREÇO: Viela da Mata, 859
+Paquetá
+72104909 Rios / RN
+ 
+HABILIDADES
+
+Resiliente - Educado - Pontual - Trabalho em equipe - Liderança - Focado - Comunicativo - Criativo - Proativo - Empático - Responsável - Adaptável - Organizado
+ 

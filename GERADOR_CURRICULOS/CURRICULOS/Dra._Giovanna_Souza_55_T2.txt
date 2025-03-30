@@ -1,0 +1,71 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dra. Giovanna Souza 
+IDADE 
+55
+EMAIL 
+maria-luizavieira@example.com 
+CIDADE 
+Jesus
+ENDEREÇO 
+Via de Garcia, 74
+Marilandia
+48576-442 das Neves / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Gestor de Contratos 
+CONHECIMENTOS Metodologias Ágeis Scrum
+Gestão de Projetos
+Negociação e Tomada de Decisão
+Marketing e Vendas
+Análise de Dados e Indicadores
+Gestão de Pessoas
+Ética e Responsabilidade Corporativa
+Gestão da Qualidade
+Planejamento Estratégico
+Direito Empresarial
+Administração Pública
+Empreendedorismo
+Compliance e Governança Corporativa
+Logística e Cadeia de Suprimentos
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Administrador de Redes 
+CONHECIMENTOS CSS
+JavaScript
+Paradigmas de Programação
+Python
+Frameworks Django
+Metodologias Ágeis Scrum
+SQL
+NoSQL
+DevOps
+Git/GitHub
+Frameworks React
+Testes Automatizados
+HTML
+Segurança da Informação
+Cloud Computing
+
+ 
+HABILIDADES
+
+Criativo
+Educado
+Resiliente
+Empático
+Responsável
+Pontual
+Organizado
+Participativo
+Liderança

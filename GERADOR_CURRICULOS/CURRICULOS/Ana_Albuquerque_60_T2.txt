@@ -1,0 +1,97 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Albuquerque 
+IDADE 
+60
+EMAIL 
+camposjose-pedro@example.com 
+CIDADE 
+Cavalcanti
+ENDEREÇO 
+Sítio Carvalho, 674
+Vila Nova Cachoeirinha 2ª Seção
+96812187 Camargo da Serra / GO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Oficial de Justiça 
+CONHECIMENTOS Direito Penal
+Direito Tributário
+Direito Trabalhista
+Escrita Jurídica
+Oratória e Argumentação Jurídica
+Ética e Deontologia Jurídica
+Código de Processo Penal
+Tecnologia e Direito Digital
+Código de Processo Civil
+Direito Ambiental
+Atuação em Audiências
+Direito Empresarial
+Direito Civil
+Legislação Atualizada
+Jurisprudência
+Negociação e Mediação
+Elaboração de Contratos
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Scrum Master 
+CONHECIMENTOS Git/GitHub
+Python
+Frameworks React
+HTML
+Cloud Computing
+Testes Automatizados
+Paradigmas de Programação
+Metodologias Ágeis Kanban
+DevOps
+Frameworks Django
+Algoritmos e Estruturas de Dados
+SQL
+CSS
+Frameworks Flask
+Docker/Kubernetes
+JavaScript
+NoSQL
+Segurança da Informação
+APIs REST
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Analista de Suprimentos 
+CONHECIMENTOS Direito Empresarial
+Gestão de Pessoas
+Metodologias Ágeis Scrum
+Customer Success e Experiência do Cliente
+Gestão Financeira
+Empreendedorismo
+Gestão da Qualidade
+Análise de Dados e Indicadores
+Compliance e Governança Corporativa
+Administração Pública
+Ética e Responsabilidade Corporativa
+Contabilidade Empresarial
+Gestão de Projetos
+Business Intelligence (BI)
+Logística e Cadeia de Suprimentos
+
+ 
+HABILIDADES
+
+Empático
+Comunicativo
+Trabalho em equipe
+Liderança
+Colaborativo
+Organizado
+Resiliente
+Educado

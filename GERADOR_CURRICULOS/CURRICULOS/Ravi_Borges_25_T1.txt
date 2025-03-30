@@ -1,0 +1,54 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ravi Borges 
+IDADE 
+25
+EMAIL 
+gomesraquel@example.org 
+CIDADE 
+Dias
+ENDEREÇO 
+Parque Rafaela Fogaça, 95
+Ernesto Nascimento
+10224-768 Montenegro de Monteiro / AL
+ 
+HABILIDADES
+
+Participativo
+Resiliente
+Criativo
+Pontual
+Colaborativo
+Comunicativo
+Focado
+Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Desenvolvedor Full Stack 
+CONHECIMENTOS Testes Automatizados
+SQL
+Frameworks Django
+DevOps
+NoSQL
+Segurança da Informação
+APIs REST
+Paradigmas de Programação
+Frameworks React
+Frameworks Flask
+Metodologias Ágeis Kanban
+CSS
+Cloud Computing
+JavaScript
+Metodologias Ágeis Scrum
+Python
+Algoritmos e Estruturas de Dados
+Git/GitHub
+

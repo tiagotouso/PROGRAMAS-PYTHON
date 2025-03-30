@@ -1,0 +1,52 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sr. Davi Miguel Carvalho 
+IDADE 
+50
+EMAIL 
+fonsecajulia@example.org 
+CIDADE 
+Barbosa
+ENDEREÇO 
+Jardim de Pinto, 25
+Aparecida
+52364-224 Sampaio / AP
+ 
+HABILIDADES
+
+Educado
+Empático
+Adaptável
+Focado
+Colaborativo
+Liderança
+Responsável
+Criativo
+Participativo
+Proativo
+Comunicativo
+Resiliente
+Pontual
+Organizado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Infraestrutura 
+CONHECIMENTOS Python
+Paradigmas de Programação
+SQL
+Segurança da Informação
+CSS
+Frameworks Flask
+Testes Automatizados
+DevOps
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Scrum
+

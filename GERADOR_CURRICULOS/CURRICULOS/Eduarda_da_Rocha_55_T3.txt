@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Mobile 
+CONHECIMENTOS Git/GitHub - Paradigmas de Programação - DevOps - CSS - SQL - NoSQL - HTML - Metodologias Ágeis Scrum - JavaScript - Frameworks React - Algoritmos e Estruturas de Dados - Segurança da Informação - Docker/Kubernetes - Frameworks Django - Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Oficial de Justiça 
+CONHECIMENTOS Legislação Atualizada - Direito Ambiental - Direito Trabalhista - Gestão de Escritório de Advocacia - Direito Constitucional - Direito Empresarial - Tecnologia e Direito Digital - Direito Tributário - Direito Administrativo - Direito Civil - Elaboração de Contratos - Jurisprudência - Ética e Deontologia Jurídica - Código de Processo Civil - Oratória e Argumentação Jurídica - Escrita Jurídica - Direito Penal - Negociação e Mediação - Código de Processo Penal - Atuação em Audiências
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Eduarda da Rocha 
+IDADE: 55
+EMAIL: danielmoreira@example.net 
+CIDADE: Aragão
+ENDEREÇO: Sítio de Peixoto
+Fernão Dias
+69694582 Barbosa de Fogaça / AM
+ 
+HABILIDADES
+
+Responsável - Educado - Trabalho em equipe - Participativo - Criativo - Empático - Liderança - Comunicativo
+ 

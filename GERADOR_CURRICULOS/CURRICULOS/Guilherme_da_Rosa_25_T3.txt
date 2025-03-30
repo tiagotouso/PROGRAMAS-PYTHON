@@ -1,0 +1,50 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Desenvolvedor Full Stack 
+CONHECIMENTOS Paradigmas de Programação
+CSS
+DevOps
+Python
+Metodologias Ágeis Scrum
+Frameworks Django
+Cloud Computing
+Frameworks Flask
+Git/GitHub
+APIs REST
+NoSQL
+SQL
+JavaScript
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Guilherme da Rosa 
+IDADE 
+25
+EMAIL 
+lucca04@example.org 
+CIDADE 
+Fonseca Paulista
+ENDEREÇO 
+Esplanada Matteo Cavalcante, 55
+Chácara Leonina
+22035-543 Silveira de Cavalcante / PR
+ 
+HABILIDADES
+
+Educado
+Empático
+Proativo
+Trabalho em equipe
+Colaborativo
+Criativo
+Participativo
+Responsável
+ 

@@ -1,0 +1,69 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Gerente de TI 
+CONHECIMENTOS CSS
+SQL
+Algoritmos e Estruturas de Dados
+Testes Automatizados
+Git/GitHub
+Metodologias Ágeis Scrum
+Frameworks Django
+Docker/Kubernetes
+Segurança da Informação
+Python
+NoSQL
+JavaScript
+APIs REST
+Cloud Computing
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Docker/Kubernetes
+Frameworks Django
+APIs REST
+SQL
+JavaScript
+Frameworks Flask
+Git/GitHub
+Metodologias Ágeis Kanban
+Cloud Computing
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Apollo Cassiano 
+IDADE 
+55
+EMAIL 
+jpacheco@example.com 
+CIDADE 
+Siqueira da Mata
+ENDEREÇO 
+Área Manuella Mendes, 490
+Jardim Dos Comerciarios
+45912-908 Pimenta do Sul / MS
+ 
+HABILIDADES
+
+Participativo
+Adaptável
+Colaborativo
+Proativo
+Responsável
+Criativo
+Trabalho em equipe
+Empático
+Resiliente
+Organizado
+Pontual
+ 

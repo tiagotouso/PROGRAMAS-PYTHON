@@ -1,0 +1,58 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Especialista em Inteligência Artificial 
+CONHECIMENTOS NoSQL
+Frameworks Flask
+Python
+Docker/Kubernetes
+Frameworks Django
+Algoritmos e Estruturas de Dados
+DevOps
+SQL
+Metodologias Ágeis Scrum
+Frameworks React
+Cloud Computing
+HTML
+Testes Automatizados
+Paradigmas de Programação
+Git/GitHub
+APIs REST
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Pietro Fogaça 
+IDADE 
+30
+EMAIL 
+nalmeida@example.net 
+CIDADE 
+Araújo
+ENDEREÇO 
+Largo Rodrigues
+Lagoinha
+56743708 Montenegro Grande / RN
+ 
+HABILIDADES
+
+Participativo
+Organizado
+Responsável
+Proativo
+Adaptável
+Trabalho em equipe
+Colaborativo
+Empático
+Criativo
+Educado
+Pontual
+Liderança
+Focado
+ 

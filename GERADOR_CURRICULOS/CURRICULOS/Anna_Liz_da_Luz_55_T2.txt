@@ -1,0 +1,93 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Anna Liz da Luz 
+IDADE 
+55
+EMAIL 
+augustoda-mota@example.com 
+CIDADE 
+Aparecida do Oeste
+ENDEREÇO 
+Trecho João Miguel Ramos
+Flavio Marques Lisboa
+62027-543 Caldeira / MT
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista Financeiro 
+CONHECIMENTOS Metodologias Ágeis Scrum
+Ética e Responsabilidade Corporativa
+Planejamento Estratégico
+Metodologias Ágeis Kanban
+Gestão Financeira
+Business Intelligence (BI)
+Empreendedorismo
+Administração Pública
+Gestão de Pessoas
+Marketing e Vendas
+Inovação e Transformação Digital
+Compliance e Governança Corporativa
+Direito Empresarial
+Customer Success e Experiência do Cliente
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Tester/QA (Quality Assurance) 
+CONHECIMENTOS APIs REST
+Frameworks Django
+JavaScript
+Paradigmas de Programação
+NoSQL
+Testes Automatizados
+HTML
+Frameworks Flask
+Python
+Metodologias Ágeis Kanban
+Frameworks React
+Segurança da Informação
+Cloud Computing
+Metodologias Ágeis Scrum
+DevOps
+Algoritmos e Estruturas de Dados
+Docker/Kubernetes
+CSS
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Processos 
+CONHECIMENTOS Customer Success e Experiência do Cliente
+Gestão da Qualidade
+Planejamento Estratégico
+Direito Empresarial
+Gestão de Pessoas
+Compliance e Governança Corporativa
+Análise de Dados e Indicadores
+Contabilidade Empresarial
+Gestão Financeira
+Marketing e Vendas
+
+ 
+HABILIDADES
+
+Focado
+Adaptável
+Pontual
+Resiliente
+Empático
+Proativo
+Trabalho em equipe
+Educado
+Colaborativo
+Participativo
+Criativo
+Liderança
+Organizado

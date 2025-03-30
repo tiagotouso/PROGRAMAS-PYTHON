@@ -1,0 +1,42 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Srta. Bárbara Souza 
+IDADE 
+40
+EMAIL 
+vitormelo@example.net 
+CIDADE 
+da Mota
+ENDEREÇO 
+Ladeira Paulo Novaes, 30
+Nova Floresta
+33265102 Peixoto / MS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Consultor Empresarial 
+CONHECIMENTOS Compliance e Governança Corporativa
+Negociação e Tomada de Decisão
+Logística e Cadeia de Suprimentos
+Metodologias Ágeis Scrum
+Gestão da Qualidade
+Gestão de Projetos
+Direito Empresarial
+
+ 
+HABILIDADES
+
+Proativo
+Responsável
+Comunicativo
+Resiliente
+Colaborativo
+Adaptável
+Trabalho em equipe

@@ -1,0 +1,35 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Ana Vitória Carvalho 
+IDADE: 60
+EMAIL: ppimenta@example.net 
+CIDADE: Freitas das Pedras
+ENDEREÇO: Largo Maria Sophia Casa Grande
+Nazare
+65746022 Andrade / GO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Compras 
+CONHECIMENTOS Administração Pública - Gestão de Projetos - Business Intelligence (BI) - Empreendedorismo - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS Frameworks React - Git/GitHub - Segurança da Informação - Frameworks Flask - Algoritmos e Estruturas de Dados - SQL - NoSQL - APIs REST - JavaScript - Docker/Kubernetes - CSS - Metodologias Ágeis Scrum - Cloud Computing - Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Analista de Compras 
+CONHECIMENTOS Metodologias Ágeis Kanban - Gestão de Projetos - Liderança e Gestão de Equipes - Negociação e Tomada de Decisão - Logística e Cadeia de Suprimentos - Gestão de Pessoas - Customer Success e Experiência do Cliente - Gestão da Qualidade - Metodologias Ágeis Scrum - Ética e Responsabilidade Corporativa - Marketing e Vendas - Administração Pública - Gestão Financeira - Compliance e Governança Corporativa - Empreendedorismo - Business Intelligence (BI) - Inovação e Transformação Digital - Contabilidade Empresarial - Análise de Dados e Indicadores - Direito Empresarial - Planejamento Estratégico
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS Frameworks React - Algoritmos e Estruturas de Dados - Git/GitHub - Metodologias Ágeis Kanban - SQL - Docker/Kubernetes - APIs REST
+
+ 
+HABILIDADES
+
+Organizado - Responsável - Trabalho em equipe - Resiliente - Colaborativo - Proativo - Focado - Adaptável - Educado - Liderança - Participativo - Comunicativo - Empático - Criativo - Pontual

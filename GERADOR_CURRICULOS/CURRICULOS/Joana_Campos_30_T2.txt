@@ -1,0 +1,78 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Joana Campos 
+IDADE 
+30
+EMAIL 
+efonseca@example.net 
+CIDADE 
+Mendes
+ENDEREÇO 
+Recanto Pereira, 85
+Barreiro
+74761135 Marques / SE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS Frameworks React
+NoSQL
+SQL
+Segurança da Informação
+Metodologias Ágeis Scrum
+APIs REST
+HTML
+Algoritmos e Estruturas de Dados
+Testes Automatizados
+Paradigmas de Programação
+Cloud Computing
+Frameworks Django
+Metodologias Ágeis Kanban
+CSS
+Git/GitHub
+DevOps
+Frameworks Flask
+Python
+Docker/Kubernetes
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Desenvolvedor Backend 
+CONHECIMENTOS Docker/Kubernetes
+Git/GitHub
+Frameworks Flask
+Cloud Computing
+Testes Automatizados
+CSS
+JavaScript
+DevOps
+APIs REST
+Segurança da Informação
+Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Responsável
+Liderança
+Participativo
+Resiliente
+Criativo
+Comunicativo
+Focado
+Adaptável
+Pontual
+Educado
+Empático
+Trabalho em equipe
+Organizado
+Colaborativo
+Proativo

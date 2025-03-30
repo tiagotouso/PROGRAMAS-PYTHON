@@ -1,0 +1,49 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Davi da Conceição 
+IDADE 
+30
+EMAIL 
+lsa@example.org 
+CIDADE 
+Azevedo
+ENDEREÇO 
+Setor de Albuquerque, 89
+São Jorge 3ª Seção
+91754-298 Melo da Praia / AP
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS HTML
+Metodologias Ágeis Kanban
+DevOps
+Paradigmas de Programação
+Metodologias Ágeis Scrum
+Cloud Computing
+Testes Automatizados
+Segurança da Informação
+SQL
+Frameworks Django
+Algoritmos e Estruturas de Dados
+Python
+Git/GitHub
+NoSQL
+CSS
+Frameworks Flask
+
+ 
+HABILIDADES
+
+Pontual
+Proativo
+Educado
+Organizado
+Trabalho em equipe

@@ -1,0 +1,73 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Lorenzo Cavalcanti 
+IDADE 
+40
+EMAIL 
+pastormaria-eduarda@example.com 
+CIDADE 
+Aragão de Minas
+ENDEREÇO 
+Condomínio Pedro Miguel Siqueira, 55
+Alto Dos Pinheiros
+96478282 Campos / BA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Gestor de Relacionamento com Clientes 
+CONHECIMENTOS Business Intelligence (BI)
+Metodologias Ágeis Kanban
+Logística e Cadeia de Suprimentos
+Ética e Responsabilidade Corporativa
+Gestão de Pessoas
+Inovação e Transformação Digital
+Empreendedorismo
+Metodologias Ágeis Scrum
+Contabilidade Empresarial
+Gestão da Qualidade
+Marketing e Vendas
+Negociação e Tomada de Decisão
+Planejamento Estratégico
+Direito Empresarial
+Customer Success e Experiência do Cliente
+Administração Pública
+Liderança e Gestão de Equipes
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+APIs REST
+HTML
+CSS
+Docker/Kubernetes
+Frameworks React
+DevOps
+NoSQL
+Paradigmas de Programação
+Segurança da Informação
+Git/GitHub
+Metodologias Ágeis Scrum
+Cloud Computing
+SQL
+
+ 
+HABILIDADES
+
+Liderança
+Participativo
+Criativo
+Resiliente
+Colaborativo
+Comunicativo
+Trabalho em equipe
+Adaptável
+Responsável

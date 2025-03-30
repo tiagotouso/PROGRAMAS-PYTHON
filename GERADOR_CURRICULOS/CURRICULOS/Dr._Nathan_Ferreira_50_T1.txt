@@ -1,0 +1,64 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Nathan Ferreira 
+IDADE 
+50
+EMAIL 
+luiz-fernandoferreira@example.org 
+CIDADE 
+Silveira
+ENDEREÇO 
+Morro Mariah Lima, 85
+Mirante
+37900459 da Cruz de Teixeira / PA
+ 
+HABILIDADES
+
+Pontual
+Colaborativo
+Participativo
+Responsável
+Trabalho em equipe
+Adaptável
+Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS APIs REST
+Cloud Computing
+Frameworks React
+Metodologias Ágeis Scrum
+Segurança da Informação
+Frameworks Django
+Frameworks Flask
+SQL
+DevOps
+HTML
+Git/GitHub
+Testes Automatizados
+Python
+CSS
+Paradigmas de Programação
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Compliance Officer 
+CONHECIMENTOS Código de Processo Civil
+Direito Constitucional
+Elaboração de Contratos
+Código de Processo Penal
+Negociação e Mediação
+Atuação em Audiências
+Oratória e Argumentação Jurídica
+Direito Penal
+Escrita Jurídica
+

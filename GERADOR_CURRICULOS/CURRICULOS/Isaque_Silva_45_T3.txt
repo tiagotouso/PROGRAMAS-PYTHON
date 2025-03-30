@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS Frameworks Django - Segurança da Informação - HTML - Algoritmos e Estruturas de Dados - Cloud Computing - DevOps - SQL - Paradigmas de Programação - Testes Automatizados - Metodologias Ágeis Kanban - Frameworks Flask - Metodologias Ágeis Scrum - JavaScript - CSS
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Isaque Silva 
+IDADE: 45
+EMAIL: pcampos@example.com 
+CIDADE: das Neves da Mata
+ENDEREÇO: Favela de Azevedo, 934
+Vila Inestan
+40729823 da Cunha / MA
+ 
+HABILIDADES
+
+Pontual - Educado - Empático - Adaptável - Resiliente - Focado - Participativo
+ 

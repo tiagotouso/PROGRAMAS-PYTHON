@@ -1,0 +1,67 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Júlia Gomes 
+IDADE 
+40
+EMAIL 
+abreuemanuel@example.com 
+CIDADE 
+Nunes da Serra
+ENDEREÇO 
+Rodovia Brayan Rezende, 37
+Venda Nova
+50810220 da Rocha de Ramos / RJ
+ 
+HABILIDADES
+
+Organizado
+Proativo
+Participativo
+Adaptável
+Responsável
+Pontual
+Liderança
+Focado
+Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Advogado Empresarial 
+CONHECIMENTOS Direito Trabalhista
+Oratória e Argumentação Jurídica
+Direito Empresarial
+Atuação em Audiências
+Direito Tributário
+Ética e Deontologia Jurídica
+Jurisprudência
+Gestão de Escritório de Advocacia
+Direito Ambiental
+Código de Processo Civil
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Arquiteto de Soluções 
+CONHECIMENTOS APIs REST
+Segurança da Informação
+Python
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+Frameworks Flask
+HTML
+Cloud Computing
+Frameworks React
+JavaScript
+Paradigmas de Programação
+Frameworks Django
+DevOps
+CSS
+Algoritmos e Estruturas de Dados
+

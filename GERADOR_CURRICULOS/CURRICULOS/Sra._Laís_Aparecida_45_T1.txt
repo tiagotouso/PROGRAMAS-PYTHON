@@ -1,0 +1,71 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sra. Laís Aparecida 
+IDADE 
+45
+EMAIL 
+mathiassouza@example.net 
+CIDADE 
+Azevedo
+ENDEREÇO 
+Largo de Moraes
+Alta Tensão 2ª Seção
+97938-979 Vargas do Galho / RO
+ 
+HABILIDADES
+
+Empático
+Pontual
+Comunicativo
+Focado
+Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Suprimentos 
+CONHECIMENTOS Gestão de Projetos
+Business Intelligence (BI)
+Customer Success e Experiência do Cliente
+Gestão de Pessoas
+Análise de Dados e Indicadores
+Metodologias Ágeis Kanban
+Administração Pública
+Ética e Responsabilidade Corporativa
+Marketing e Vendas
+Gestão da Qualidade
+Gestão Financeira
+Inovação e Transformação Digital
+Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Advogado de Família 
+CONHECIMENTOS Direito Penal
+Negociação e Mediação
+Direito Ambiental
+Direito Trabalhista
+Direito Constitucional
+Escrita Jurídica
+Código de Processo Civil
+Direito Empresarial
+Legislação Atualizada
+Oratória e Argumentação Jurídica
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Business Intelligence (BI) 
+CONHECIMENTOS Frameworks Django
+JavaScript
+Metodologias Ágeis Kanban
+Git/GitHub
+Algoritmos e Estruturas de Dados
+

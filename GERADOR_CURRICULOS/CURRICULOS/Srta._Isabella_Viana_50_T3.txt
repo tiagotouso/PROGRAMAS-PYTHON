@@ -1,0 +1,44 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Sistemas 
+CONHECIMENTOS Frameworks Django
+Algoritmos e Estruturas de Dados
+DevOps
+Python
+Metodologias Ágeis Kanban
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Srta. Isabella Viana 
+IDADE 
+50
+EMAIL 
+yanmelo@example.org 
+CIDADE 
+Pastor
+ENDEREÇO 
+Condomínio de Cunha, 12
+Itaipu
+80917-115 Abreu / PR
+ 
+HABILIDADES
+
+Liderança
+Organizado
+Colaborativo
+Participativo
+Pontual
+Responsável
+Adaptável
+Empático
+Comunicativo
+Trabalho em equipe
+ 

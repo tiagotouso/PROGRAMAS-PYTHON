@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Cientista de Dados 
+CONHECIMENTOS Cloud Computing - Git/GitHub - Python - Metodologias Ágeis Scrum - Frameworks React - Segurança da Informação - JavaScript - Frameworks Django - NoSQL - APIs REST - Frameworks Flask - Algoritmos e Estruturas de Dados - SQL - CSS
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Engenheiro de Machine Learning 
+CONHECIMENTOS Segurança da Informação - HTML - CSS - Python - Git/GitHub - Frameworks Django - Testes Automatizados
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Diretor Administrativo 
+CONHECIMENTOS Planejamento Estratégico - Negociação e Tomada de Decisão - Logística e Cadeia de Suprimentos - Gestão Financeira - Liderança e Gestão de Equipes - Gestão de Projetos - Administração Pública - Ética e Responsabilidade Corporativa - Contabilidade Empresarial - Compliance e Governança Corporativa - Business Intelligence (BI) - Metodologias Ágeis Scrum - Análise de Dados e Indicadores
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Pedro Henrique Aragão 
+IDADE: 50
+EMAIL: bruno37@example.com 
+CIDADE: Martins
+ENDEREÇO: Fazenda de Marques, 56
+Vila Real 1ª Seção
+39648-674 Gonçalves / MS
+ 
+HABILIDADES
+
+Criativo - Proativo - Responsável - Participativo - Organizado - Resiliente - Pontual - Liderança - Comunicativo
+ 

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Srta. Carolina Alves 
+IDADE: 60
+EMAIL: gviana@example.org 
+CIDADE: das Neves da Mata
+ENDEREÇO: Ladeira Lopes, 847
+Vila Maloca
+69924-166 Farias / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS SQL - Frameworks Flask - Docker/Kubernetes - Git/GitHub - Testes Automatizados - Cloud Computing - HTML - NoSQL - Metodologias Ágeis Scrum - Segurança da Informação - JavaScript - Algoritmos e Estruturas de Dados - Frameworks React - Python - Frameworks Django - Paradigmas de Programação - APIs REST - CSS - Metodologias Ágeis Kanban - DevOps
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS HTML - Segurança da Informação - Frameworks React - Metodologias Ágeis Scrum - Algoritmos e Estruturas de Dados - NoSQL - SQL - Paradigmas de Programação - Python - JavaScript - Metodologias Ágeis Kanban - Docker/Kubernetes - APIs REST
+
+ 
+HABILIDADES
+
+Participativo - Adaptável - Focado - Educado - Responsável - Proativo - Organizado - Empático - Colaborativo - Comunicativo - Pontual - Resiliente - Liderança - Criativo - Trabalho em equipe

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Noah da Cruz 
+IDADE: 55
+EMAIL: davi-miguelcarvalho@example.com 
+CIDADE: Santos de Ribeiro
+ENDEREÇO: Sítio Maria Júlia Mendes, 1
+Madri
+13787361 Novaes / PB
+ 
+HABILIDADES
+
+Adaptável - Proativo - Focado - Empático - Educado - Comunicativo - Resiliente - Trabalho em equipe - Organizado - Colaborativo - Participativo - Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 26 anos 
+CARGO: Analista de Business Intelligence (BI) 
+CONHECIMENTOS Python - SQL - NoSQL - Git/GitHub - JavaScript - DevOps - Testes Automatizados - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - Frameworks Django - Metodologias Ágeis Scrum - Cloud Computing - Paradigmas de Programação - Docker/Kubernetes - CSS - Segurança da Informação
+

@@ -1,0 +1,36 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Desenvolvedor Full Stack 
+CONHECIMENTOS APIs REST - Frameworks React - DevOps - Metodologias Ágeis Scrum - CSS - Segurança da Informação - NoSQL - Docker/Kubernetes - HTML - Paradigmas de Programação - SQL - Cloud Computing - Python - Frameworks Django - Testes Automatizados - JavaScript - Frameworks Flask - Git/GitHub
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS Segurança da Informação - HTML - CSS - Testes Automatizados - JavaScript - Docker/Kubernetes - Frameworks React
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Analista Financeiro 
+CONHECIMENTOS Customer Success e Experiência do Cliente - Business Intelligence (BI) - Direito Empresarial - Metodologias Ágeis Scrum - Compliance e Governança Corporativa - Contabilidade Empresarial - Logística e Cadeia de Suprimentos
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Recepcionista 
+CONHECIMENTOS Administração Pública - Compliance e Governança Corporativa - Direito Empresarial - Marketing e Vendas - Gestão de Pessoas - Business Intelligence (BI) - Metodologias Ágeis Kanban - Empreendedorismo
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Diogo Aparecida 
+IDADE: 60
+EMAIL: rebeca37@example.com 
+CIDADE: Machado Grande
+ENDEREÇO: Área Farias, 47
+Boa Esperança
+94757197 Ramos / PA
+ 
+HABILIDADES
+
+Colaborativo - Educado - Liderança - Pontual - Proativo - Adaptável - Criativo - Empático - Organizado
+ 

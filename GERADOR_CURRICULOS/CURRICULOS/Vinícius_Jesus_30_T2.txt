@@ -1,0 +1,47 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Vinícius Jesus 
+IDADE 
+30
+EMAIL 
+luizavasconcelos@example.com 
+CIDADE 
+Aragão
+ENDEREÇO 
+Estação Pinto, 6
+Vista Do Sol
+25732-602 Ferreira / CE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS Docker/Kubernetes
+Frameworks Django
+Segurança da Informação
+DevOps
+Metodologias Ágeis Kanban
+CSS
+Frameworks Flask
+Testes Automatizados
+JavaScript
+
+ 
+HABILIDADES
+
+Resiliente
+Colaborativo
+Focado
+Participativo
+Organizado
+Adaptável
+Empático
+Trabalho em equipe
+Liderança
+Comunicativo

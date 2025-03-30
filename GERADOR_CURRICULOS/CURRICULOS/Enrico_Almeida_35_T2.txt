@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Enrico Almeida 
+IDADE: 35
+EMAIL: gaelmarques@example.org 
+CIDADE: Souza de Novaes
+ENDEREÇO: Condomínio de Sales, 31
+Santa Rita De Cássia
+33064928 Melo da Praia / PE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Analista de Logística 
+CONHECIMENTOS Empreendedorismo - Customer Success e Experiência do Cliente - Ética e Responsabilidade Corporativa - Direito Empresarial - Liderança e Gestão de Equipes - Gestão de Projetos - Inovação e Transformação Digital - Negociação e Tomada de Decisão - Gestão da Qualidade - Business Intelligence (BI) - Marketing e Vendas - Metodologias Ágeis Scrum - Administração Pública - Logística e Cadeia de Suprimentos - Gestão de Pessoas - Planejamento Estratégico - Metodologias Ágeis Kanban - Compliance e Governança Corporativa - Análise de Dados e Indicadores - Gestão Financeira
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS Frameworks React - Cloud Computing - Frameworks Django - Metodologias Ágeis Scrum - Algoritmos e Estruturas de Dados - APIs REST - Paradigmas de Programação - CSS - Docker/Kubernetes - Metodologias Ágeis Kanban - DevOps - Segurança da Informação - Frameworks Flask
+
+ 
+HABILIDADES
+
+Proativo - Criativo - Empático - Pontual - Participativo - Organizado - Responsável

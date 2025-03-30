@@ -1,0 +1,48 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Benício da Paz 
+IDADE 
+50
+EMAIL 
+ibrito@example.com 
+CIDADE 
+Mendonça
+ENDEREÇO 
+Estrada Raquel Sampaio, 79
+Salgado Filho
+98318-139 Vasconcelos / RJ
+ 
+HABILIDADES
+
+Proativo
+Focado
+Adaptável
+Resiliente
+Comunicativo
+Empático
+Trabalho em equipe
+Liderança
+Responsável
+Participativo
+Criativo
+Colaborativo
+Pontual
+Educado
+Organizado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Gerente Administrativo 
+CONHECIMENTOS Business Intelligence (BI)
+Inovação e Transformação Digital
+Empreendedorismo
+Metodologias Ágeis Scrum
+Marketing e Vendas
+

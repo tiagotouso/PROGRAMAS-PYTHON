@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Analista de Dados 
+CONHECIMENTOS Frameworks React - Git/GitHub - NoSQL - CSS - DevOps - Algoritmos e Estruturas de Dados - HTML - JavaScript - Frameworks Flask
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Luísa Mendonça 
+IDADE: 35
+EMAIL: caiocastro@example.com 
+CIDADE: da Conceição
+ENDEREÇO: Setor Bryan Marques
+Vila Santo Antônio Barroquinha
+32640-253 Marques / SC
+ 
+HABILIDADES
+
+Responsável - Participativo - Focado - Resiliente - Liderança - Empático - Proativo - Criativo - Adaptável - Organizado - Trabalho em equipe
+ 

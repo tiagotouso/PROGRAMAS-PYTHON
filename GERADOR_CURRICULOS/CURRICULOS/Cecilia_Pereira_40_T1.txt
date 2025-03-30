@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Cecilia Pereira 
+IDADE: 40
+EMAIL: antonioalves@example.net 
+CIDADE: Nunes dos Dourados
+ENDEREÇO: Residencial Maria Clara Sá, 79
+Taquaril
+20979692 Novais / PI
+ 
+HABILIDADES
+
+Adaptável - Empático - Participativo - Organizado - Pontual - Proativo - Liderança - Focado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Analista de Dados 
+CONHECIMENTOS Metodologias Ágeis Kanban - APIs REST - SQL - JavaScript - Metodologias Ágeis Scrum - CSS - Python - Git/GitHub - Frameworks Flask - DevOps - NoSQL - Frameworks React - Docker/Kubernetes - HTML - Testes Automatizados - Segurança da Informação
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Compliance Officer 
+CONHECIMENTOS Código de Processo Civil - Jurisprudência - Direito Tributário - Direito Constitucional - Direito Administrativo - Elaboração de Contratos - Tecnologia e Direito Digital - Direito Trabalhista - Direito Empresarial - Código de Processo Penal - Negociação e Mediação - Ética e Deontologia Jurídica - Atuação em Audiências
+

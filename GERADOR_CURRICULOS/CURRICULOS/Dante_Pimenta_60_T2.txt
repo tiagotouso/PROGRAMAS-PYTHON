@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dante Pimenta 
+IDADE: 60
+EMAIL: omarques@example.net 
+CIDADE: Moreira dos Dourados
+ENDEREÇO: Residencial de Peixoto, 32
+Corumbiara
+14302441 Dias da Serra / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Especialista em Inteligência Artificial 
+CONHECIMENTOS Metodologias Ágeis Kanban - Paradigmas de Programação - Git/GitHub - Testes Automatizados - Frameworks Flask - APIs REST - Cloud Computing - SQL - Algoritmos e Estruturas de Dados - DevOps - Frameworks Django - Metodologias Ágeis Scrum - Segurança da Informação - HTML - Python - CSS - Docker/Kubernetes
+
+TEMPO DE SERVIÇO: 26 anos 
+CARGO: Advogado Público 
+CONHECIMENTOS Oratória e Argumentação Jurídica - Ética e Deontologia Jurídica - Jurisprudência - Direito Administrativo - Negociação e Mediação - Direito Civil - Escrita Jurídica - Direito Ambiental - Direito Constitucional - Código de Processo Civil - Legislação Atualizada - Gestão de Escritório de Advocacia - Direito Trabalhista - Elaboração de Contratos - Direito Empresarial - Atuação em Audiências - Código de Processo Penal - Tecnologia e Direito Digital - Direito Penal - Direito Tributário
+
+ 
+HABILIDADES
+
+Participativo - Resiliente - Liderança - Trabalho em equipe - Empático - Organizado - Pontual - Comunicativo - Responsável

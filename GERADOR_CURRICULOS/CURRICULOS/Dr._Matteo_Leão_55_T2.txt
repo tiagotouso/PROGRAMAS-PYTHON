@@ -1,0 +1,47 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Matteo Leão 
+IDADE 
+55
+EMAIL 
+tsa@example.com 
+CIDADE 
+Moreira Grande
+ENDEREÇO 
+Residencial Arthur Gabriel Andrade, 83
+Indaiá
+83367456 da Mota / BA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+22 anos 
+CARGO 
+DevOps Engineer 
+CONHECIMENTOS Cloud Computing
+Metodologias Ágeis Scrum
+Python
+NoSQL
+Segurança da Informação
+Frameworks React
+Paradigmas de Programação
+CSS
+APIs REST
+
+ 
+HABILIDADES
+
+Organizado
+Focado
+Responsável
+Resiliente
+Colaborativo
+Adaptável
+Trabalho em equipe
+Liderança
+Comunicativo
+Participativo

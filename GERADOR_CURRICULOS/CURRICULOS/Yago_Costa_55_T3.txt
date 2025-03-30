@@ -1,0 +1,62 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Dados 
+CONHECIMENTOS Frameworks Django
+DevOps
+HTML
+NoSQL
+Segurança da Informação
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS SQL
+DevOps
+Segurança da Informação
+Testes Automatizados
+Frameworks Flask
+CSS
+Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+Python
+Docker/Kubernetes
+NoSQL
+Metodologias Ágeis Scrum
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Yago Costa 
+IDADE 
+55
+EMAIL 
+ottosiqueira@example.com 
+CIDADE 
+da Luz do Sul
+ENDEREÇO 
+Viaduto Pietro Rodrigues, 75
+Senhor Dos Passos
+39794292 da Cruz de Aragão / SP
+ 
+HABILIDADES
+
+Responsável
+Focado
+Liderança
+Participativo
+Empático
+Criativo
+Colaborativo
+Pontual
+Comunicativo
+Trabalho em equipe
+Resiliente
+ 

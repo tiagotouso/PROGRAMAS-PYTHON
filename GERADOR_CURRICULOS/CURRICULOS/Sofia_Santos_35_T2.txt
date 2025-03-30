@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sofia Santos 
+IDADE: 35
+EMAIL: guerrastella@example.com 
+CIDADE: Barbosa de Sousa
+ENDEREÇO: Quadra Ramos, 87
+Cenaculo
+51652-225 Fonseca dos Dourados / PA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS SQL - Docker/Kubernetes - APIs REST - Cloud Computing - Paradigmas de Programação - NoSQL - Testes Automatizados - Git/GitHub - Algoritmos e Estruturas de Dados - JavaScript - Frameworks Flask - Metodologias Ágeis Scrum
+
+ 
+HABILIDADES
+
+Focado - Pontual - Participativo - Resiliente - Empático - Proativo - Colaborativo - Educado - Adaptável - Trabalho em equipe - Responsável - Comunicativo - Liderança

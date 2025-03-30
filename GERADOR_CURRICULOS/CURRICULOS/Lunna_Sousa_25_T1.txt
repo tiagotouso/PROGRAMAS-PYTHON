@@ -1,0 +1,53 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Lunna Sousa 
+IDADE 
+25
+EMAIL 
+yda-conceicao@example.org 
+CIDADE 
+Marques de Vasconcelos
+ENDEREÇO 
+Trevo Lima, 3
+Ipiranga
+47205688 Vasconcelos de Novais / RO
+ 
+HABILIDADES
+
+Organizado
+Proativo
+Trabalho em equipe
+Pontual
+Comunicativo
+Colaborativo
+Participativo
+Adaptável
+Criativo
+Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Metodologias Ágeis Scrum
+HTML
+Docker/Kubernetes
+Git/GitHub
+Metodologias Ágeis Kanban
+Testes Automatizados
+Cloud Computing
+Algoritmos e Estruturas de Dados
+Frameworks Django
+Python
+Frameworks Flask
+DevOps
+JavaScript
+APIs REST
+CSS
+

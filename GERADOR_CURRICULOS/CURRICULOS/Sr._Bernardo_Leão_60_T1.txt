@@ -1,0 +1,89 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sr. Bernardo Leão 
+IDADE 
+60
+EMAIL 
+cavalcantiesther@example.org 
+CIDADE 
+Caldeira
+ENDEREÇO 
+Lagoa de Fernandes, 6
+Caiçara - Adelaide
+60201276 Nascimento das Flores / PE
+ 
+HABILIDADES
+
+Liderança
+Trabalho em equipe
+Pontual
+Participativo
+Comunicativo
+Educado
+Organizado
+Empático
+Responsável
+Adaptável
+Criativo
+Focado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Tabelião 
+CONHECIMENTOS Código de Processo Civil
+Ética e Deontologia Jurídica
+Atuação em Audiências
+Elaboração de Contratos
+Legislação Atualizada
+Negociação e Mediação
+Direito Constitucional
+Código de Processo Penal
+Direito Ambiental
+Oratória e Argumentação Jurídica
+Gestão de Escritório de Advocacia
+Direito Empresarial
+Tecnologia e Direito Digital
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista de Suporte Técnico 
+CONHECIMENTOS Frameworks React
+Python
+DevOps
+Metodologias Ágeis Scrum
+HTML
+Frameworks Django
+Cloud Computing
+Segurança da Informação
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Kanban
+Docker/Kubernetes
+CSS
+Frameworks Flask
+JavaScript
+APIs REST
+Testes Automatizados
+NoSQL
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS DevOps
+NoSQL
+Docker/Kubernetes
+Testes Automatizados
+Algoritmos e Estruturas de Dados
+SQL
+HTML
+Frameworks React
+Cloud Computing
+

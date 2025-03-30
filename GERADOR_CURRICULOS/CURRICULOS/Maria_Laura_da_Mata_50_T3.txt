@@ -1,0 +1,40 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Especialista em UX/UI 
+CONHECIMENTOS CSS
+Docker/Kubernetes
+Frameworks Django
+Algoritmos e Estruturas de Dados
+DevOps
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Laura da Mata 
+IDADE 
+50
+EMAIL 
+xpires@example.net 
+CIDADE 
+Martins
+ENDEREÇO 
+Conjunto Sousa, 69
+Estrela Do Oriente
+17099-054 Aragão da Mata / BA
+ 
+HABILIDADES
+
+Liderança
+Adaptável
+Criativo
+Participativo
+Trabalho em equipe
+Responsável
+ 

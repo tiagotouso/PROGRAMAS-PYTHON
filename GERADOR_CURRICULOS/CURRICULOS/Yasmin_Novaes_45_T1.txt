@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Yasmin Novaes 
+IDADE: 45
+EMAIL: rafaelviana@example.org 
+CIDADE: Alves das Flores
+ENDEREÇO: Rodovia Fernando Borges, 30
+Virgínia
+48562335 Cirino do Campo / CE
+ 
+HABILIDADES
+
+Responsável - Resiliente - Empático - Proativo - Colaborativo - Criativo - Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS Git/GitHub - Cloud Computing - Docker/Kubernetes - Paradigmas de Programação - Segurança da Informação - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - CSS - Frameworks Flask - Testes Automatizados - Algoritmos e Estruturas de Dados - Frameworks Django - SQL - APIs REST - Frameworks React - JavaScript
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Gestor de Relacionamento com Clientes 
+CONHECIMENTOS Planejamento Estratégico - Liderança e Gestão de Equipes - Gestão Financeira - Análise de Dados e Indicadores - Gestão da Qualidade - Compliance e Governança Corporativa - Marketing e Vendas - Inovação e Transformação Digital - Negociação e Tomada de Decisão - Business Intelligence (BI) - Gestão de Pessoas - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - Direito Empresarial - Ética e Responsabilidade Corporativa - Customer Success e Experiência do Cliente - Logística e Cadeia de Suprimentos - Empreendedorismo - Gestão de Projetos - Administração Pública - Contabilidade Empresarial
+

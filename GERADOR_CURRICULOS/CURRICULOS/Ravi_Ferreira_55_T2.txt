@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Ravi Ferreira 
+IDADE: 55
+EMAIL: jmarques@example.com 
+CIDADE: Rodrigues
+ENDEREÇO: Rodovia Caldeira, 8
+Satelite
+24701-052 Borges / PB
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Analista de Business Intelligence (BI) 
+CONHECIMENTOS Testes Automatizados - Metodologias Ágeis Kanban - SQL - Frameworks Django - Metodologias Ágeis Scrum - Frameworks Flask - Algoritmos e Estruturas de Dados - Segurança da Informação - Frameworks React - Python - CSS - Cloud Computing
+
+ 
+HABILIDADES
+
+Participativo - Responsável - Empático - Educado - Criativo - Colaborativo - Liderança - Comunicativo - Adaptável - Focado - Resiliente - Proativo - Pontual - Organizado - Trabalho em equipe

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dra. Hellena Dias 
+IDADE: 50
+EMAIL: joao-felipemendes@example.net 
+CIDADE: Siqueira
+ENDEREÇO: Lagoa Melo, 7
+Conjunto Califórnia I
+26677981 Guerra do Sul / AP
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Analista de Controladoria 
+CONHECIMENTOS Business Intelligence (BI) - Direito Empresarial - Empreendedorismo - Planejamento Estratégico - Gestão de Projetos - Metodologias Ágeis Kanban - Contabilidade Empresarial - Logística e Cadeia de Suprimentos - Compliance e Governança Corporativa - Metodologias Ágeis Scrum - Gestão de Pessoas - Administração Pública - Inovação e Transformação Digital - Gestão da Qualidade - Marketing e Vendas - Negociação e Tomada de Decisão
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Full Stack 
+CONHECIMENTOS Frameworks Django - CSS - Frameworks React - Git/GitHub - Algoritmos e Estruturas de Dados - APIs REST - SQL - Python - Segurança da Informação - Metodologias Ágeis Scrum - HTML - Cloud Computing - Frameworks Flask - Metodologias Ágeis Kanban - Docker/Kubernetes - DevOps
+
+ 
+HABILIDADES
+
+Responsável - Pontual - Educado - Proativo - Focado - Adaptável

@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS Testes Automatizados - Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban - Paradigmas de Programação - CSS - Cloud Computing - Metodologias Ágeis Scrum - Python
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Joaquim Gonçalves 
+IDADE: 40
+EMAIL: da-rochaalana@example.org 
+CIDADE: Oliveira de Casa Grande
+ENDEREÇO: Conjunto de Rios, 12
+Vila Novo São Lucas
+20013-273 da Cunha / PI
+ 
+HABILIDADES
+
+Criativo - Organizado - Proativo - Comunicativo - Colaborativo - Trabalho em equipe
+ 

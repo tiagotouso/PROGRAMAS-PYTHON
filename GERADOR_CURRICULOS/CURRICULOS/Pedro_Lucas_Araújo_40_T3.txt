@@ -1,0 +1,56 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS Paradigmas de Programação
+Frameworks Django
+Frameworks Flask
+Python
+Metodologias Ágeis Kanban
+HTML
+NoSQL
+APIs REST
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Procurador 
+CONHECIMENTOS Elaboração de Contratos
+Direito Civil
+Código de Processo Penal
+Oratória e Argumentação Jurídica
+Escrita Jurídica
+Direito Constitucional
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Pedro Lucas Araújo 
+IDADE 
+40
+EMAIL 
+theo66@example.com 
+CIDADE 
+Cirino de Machado
+ENDEREÇO 
+Quadra Camila Sá, 41
+Senhor Dos Passos
+13682-208 Cavalcante Grande / AC
+ 
+HABILIDADES
+
+Educado
+Resiliente
+Liderança
+Pontual
+Proativo
+Comunicativo
+Adaptável
+Colaborativo
+ 

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: João Pedro Correia 
+IDADE: 25
+EMAIL: yan22@example.com 
+CIDADE: Vieira
+ENDEREÇO: Chácara de Barbosa, 79
+Parque São José
+66725-482 Siqueira da Praia / PE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Cloud Computing - JavaScript - SQL - Segurança da Informação - Frameworks Django
+
+ 
+HABILIDADES
+
+Responsável - Criativo - Organizado - Focado - Resiliente

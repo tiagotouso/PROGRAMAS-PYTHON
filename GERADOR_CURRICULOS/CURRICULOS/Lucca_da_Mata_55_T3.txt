@@ -1,0 +1,62 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+24 anos 
+CARGO 
+DevOps Engineer 
+CONHECIMENTOS DevOps
+Algoritmos e Estruturas de Dados
+Cloud Computing
+Segurança da Informação
+Metodologias Ágeis Scrum
+Frameworks Flask
+HTML
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS DevOps
+Metodologias Ágeis Kanban
+Python
+Testes Automatizados
+NoSQL
+APIs REST
+Algoritmos e Estruturas de Dados
+Frameworks Django
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Lucca da Mata 
+IDADE 
+55
+EMAIL 
+pachecovinicius@example.net 
+CIDADE 
+Pires
+ENDEREÇO 
+Condomínio Azevedo, 91
+Vila São Gabriel
+72995128 Cavalcanti das Pedras / SC
+ 
+HABILIDADES
+
+Adaptável
+Pontual
+Empático
+Participativo
+Trabalho em equipe
+Resiliente
+Proativo
+Focado
+Educado
+Organizado
+Criativo
+Responsável
+Colaborativo
+ 

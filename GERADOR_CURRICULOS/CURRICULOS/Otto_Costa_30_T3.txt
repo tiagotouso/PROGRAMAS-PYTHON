@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS SQL - Paradigmas de Programação - Frameworks React - Metodologias Ágeis Scrum - HTML - Git/GitHub - Testes Automatizados
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Otto Costa 
+IDADE: 30
+EMAIL: procha@example.org 
+CIDADE: Macedo Alegre
+ENDEREÇO: Feira da Rosa, 50
+Floramar
+33582-698 Caldeira / MT
+ 
+HABILIDADES
+
+Organizado - Criativo - Proativo - Resiliente - Comunicativo - Participativo - Trabalho em equipe
+ 

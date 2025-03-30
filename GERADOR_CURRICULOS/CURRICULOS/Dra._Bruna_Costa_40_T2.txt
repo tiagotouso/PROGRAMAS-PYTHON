@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dra. Bruna Costa 
+IDADE: 40
+EMAIL: hfarias@example.com 
+CIDADE: Pimenta
+ENDEREÇO: Alameda Barros, 81
+Ribeiro De Abreu
+52670661 Alves de Marques / MG
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Desenvolvedor Mobile 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Testes Automatizados - Segurança da Informação - APIs REST - Frameworks Flask - SQL - CSS - Docker/Kubernetes - Metodologias Ágeis Scrum - HTML - Frameworks Django - Frameworks React - Cloud Computing
+
+ 
+HABILIDADES
+
+Trabalho em equipe - Focado - Colaborativo - Responsável - Resiliente - Pontual - Proativo - Liderança - Educado - Empático - Organizado - Criativo - Participativo

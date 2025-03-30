@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Theodoro Guerra 
+IDADE: 35
+EMAIL: joao-felipe69@example.net 
+CIDADE: Novaes das Pedras
+ENDEREÇO: Parque Siqueira, 71
+Vila Dos Anjos
+46034179 Gomes / AM
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: DevOps Engineer 
+CONHECIMENTOS JavaScript - Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - APIs REST - HTML - Frameworks Django
+
+ 
+HABILIDADES
+
+Participativo - Pontual - Responsável - Proativo - Trabalho em equipe - Adaptável - Resiliente - Comunicativo

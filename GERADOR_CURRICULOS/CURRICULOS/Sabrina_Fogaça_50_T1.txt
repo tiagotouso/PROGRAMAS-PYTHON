@@ -1,0 +1,85 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sabrina Fogaça 
+IDADE 
+50
+EMAIL 
+novaisana-luiza@example.org 
+CIDADE 
+Oliveira das Flores
+ENDEREÇO 
+Lagoa Juliana Barbosa, 704
+Vila Sesc
+40310-267 Pastor dos Dourados / RS
+ 
+HABILIDADES
+
+Criativo
+Colaborativo
+Liderança
+Pontual
+Resiliente
+Comunicativo
+Adaptável
+Proativo
+Empático
+Educado
+Organizado
+Focado
+Participativo
+Trabalho em equipe
+Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Compliance Officer 
+CONHECIMENTOS Jurisprudência
+Direito Tributário
+Ética e Deontologia Jurídica
+Direito Empresarial
+Tecnologia e Direito Digital
+Escrita Jurídica
+Legislação Atualizada
+Gestão de Escritório de Advocacia
+Direito Trabalhista
+Código de Processo Penal
+Direito Civil
+Código de Processo Civil
+Negociação e Mediação
+Direito Administrativo
+Direito Penal
+Elaboração de Contratos
+Oratória e Argumentação Jurídica
+Direito Constitucional
+Direito Ambiental
+Atuação em Audiências
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Product Manager (PM) 
+CONHECIMENTOS DevOps
+JavaScript
+HTML
+APIs REST
+NoSQL
+Algoritmos e Estruturas de Dados
+SQL
+Git/GitHub
+Testes Automatizados
+Metodologias Ágeis Scrum
+Metodologias Ágeis Kanban
+Segurança da Informação
+Frameworks Django
+Frameworks React
+Python
+CSS
+Paradigmas de Programação
+

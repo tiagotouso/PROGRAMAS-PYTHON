@@ -1,0 +1,51 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Manuella da Mota 
+IDADE 
+25
+EMAIL 
+maria-luisa38@example.org 
+CIDADE 
+Lopes de Oliveira
+ENDEREÇO 
+Recanto Abreu, 525
+Monte Azul
+78451752 da Costa / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Arquiteto de Soluções 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Segurança da Informação
+APIs REST
+Git/GitHub
+Docker/Kubernetes
+JavaScript
+Frameworks Flask
+Testes Automatizados
+Frameworks React
+Cloud Computing
+
+ 
+HABILIDADES
+
+Empático
+Colaborativo
+Participativo
+Adaptável
+Responsável
+Focado
+Educado
+Pontual
+Criativo
+Organizado
+Liderança
+Trabalho em equipe
+Proativo

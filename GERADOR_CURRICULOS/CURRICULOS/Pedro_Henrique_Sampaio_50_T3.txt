@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS HTML - Cloud Computing - Python - Frameworks React - APIs REST - SQL - Frameworks Flask - Metodologias Ágeis Kanban - Docker/Kubernetes - Paradigmas de Programação - NoSQL - Frameworks Django - Metodologias Ágeis Scrum - JavaScript - Segurança da Informação - CSS - Algoritmos e Estruturas de Dados - Git/GitHub
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Pedro Henrique Sampaio 
+IDADE: 50
+EMAIL: benicioguerra@example.net 
+CIDADE: Santos de Almeida
+ENDEREÇO: Aeroporto Mathias Nogueira, 378
+Penha
+62244-187 Azevedo / RS
+ 
+HABILIDADES
+
+Liderança - Resiliente - Responsável - Focado - Participativo - Criativo - Organizado - Comunicativo - Adaptável - Proativo - Colaborativo - Educado - Pontual - Trabalho em equipe
+ 

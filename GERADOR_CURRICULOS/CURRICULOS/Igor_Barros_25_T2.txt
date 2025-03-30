@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Igor Barros 
+IDADE: 25
+EMAIL: imendes@example.org 
+CIDADE: Brito
+ENDEREÇO: Parque de Teixeira
+Vila Independencia 2ª Seção
+61448010 Lima / MG
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS Paradigmas de Programação - Testes Automatizados - Frameworks Flask - Frameworks React - Cloud Computing - JavaScript - HTML - SQL - NoSQL - Git/GitHub
+
+ 
+HABILIDADES
+
+Comunicativo - Adaptável - Pontual - Participativo - Criativo - Trabalho em equipe - Focado - Empático - Educado - Organizado

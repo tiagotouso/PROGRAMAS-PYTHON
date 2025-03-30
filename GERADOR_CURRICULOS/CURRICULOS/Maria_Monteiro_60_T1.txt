@@ -1,0 +1,68 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Monteiro 
+IDADE 
+60
+EMAIL 
+vicente30@example.net 
+CIDADE 
+Gonçalves de Fogaça
+ENDEREÇO 
+Alameda Ana Cecília Silva, 51
+Vila Piratininga
+33976-815 Porto de Gonçalves / PA
+ 
+HABILIDADES
+
+Responsável
+Trabalho em equipe
+Comunicativo
+Organizado
+Focado
+Proativo
+Empático
+Participativo
+Resiliente
+Colaborativo
+Liderança
+Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Engenheiro de Machine Learning 
+CONHECIMENTOS Docker/Kubernetes
+Paradigmas de Programação
+CSS
+DevOps
+Metodologias Ágeis Scrum
+Cloud Computing
+NoSQL
+Git/GitHub
+Frameworks Django
+Python
+Segurança da Informação
+Algoritmos e Estruturas de Dados
+HTML
+APIs REST
+
+TEMPO DE SERVIÇO: 
+26 anos 
+CARGO 
+Desenvolvedor Full Stack 
+CONHECIMENTOS SQL
+JavaScript
+Algoritmos e Estruturas de Dados
+HTML
+NoSQL
+Cloud Computing
+Frameworks Flask
+Frameworks Django
+Frameworks React
+

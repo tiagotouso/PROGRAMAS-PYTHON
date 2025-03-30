@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Arquiteto de Soluções 
+CONHECIMENTOS Cloud Computing - NoSQL - Frameworks Flask - Frameworks Django - SQL - Paradigmas de Programação - APIs REST - DevOps - HTML - Segurança da Informação - Metodologias Ágeis Kanban - Testes Automatizados
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Engenheiro de Software 
+CONHECIMENTOS HTML - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - Frameworks React - Git/GitHub
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Maya Jesus 
+IDADE: 55
+EMAIL: machadodiego@example.net 
+CIDADE: Abreu Grande
+ENDEREÇO: Loteamento Bento Cavalcante, 14
+Custodinha
+19154605 Brito dos Dourados / BA
+ 
+HABILIDADES
+
+Comunicativo - Organizado - Liderança - Trabalho em equipe - Adaptável - Participativo
+ 

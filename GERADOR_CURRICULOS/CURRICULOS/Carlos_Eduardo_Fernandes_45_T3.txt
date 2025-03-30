@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Python - DevOps - Frameworks Django - Segurança da Informação - Cloud Computing - APIs REST - Frameworks React - Frameworks Flask - Docker/Kubernetes - NoSQL - CSS - Git/GitHub - Testes Automatizados - Metodologias Ágeis Scrum - SQL - Paradigmas de Programação - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Carlos Eduardo Fernandes 
+IDADE: 45
+EMAIL: hvargas@example.net 
+CIDADE: Pires
+ENDEREÇO: Vila Alana Vasconcelos, 84
+Paulo Vi
+18287-886 Brito / PA
+ 
+HABILIDADES
+
+Organizado - Resiliente - Participativo - Criativo - Adaptável - Educado - Empático - Proativo - Trabalho em equipe - Focado - Pontual - Liderança - Colaborativo
+ 

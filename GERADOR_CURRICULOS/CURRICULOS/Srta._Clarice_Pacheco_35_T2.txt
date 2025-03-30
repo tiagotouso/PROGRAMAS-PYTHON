@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Srta. Clarice Pacheco 
+IDADE: 35
+EMAIL: theodoroviana@example.net 
+CIDADE: Viana do Amparo
+ENDEREÇO: Estrada de Souza, 1
+Unidas
+59648818 Abreu / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Arquiteto de Soluções 
+CONHECIMENTOS NoSQL - Git/GitHub - Testes Automatizados - Paradigmas de Programação - HTML - Frameworks Django - APIs REST
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Advogado de Família 
+CONHECIMENTOS Negociação e Mediação - Direito Trabalhista - Direito Civil - Direito Empresarial - Código de Processo Civil - Gestão de Escritório de Advocacia - Atuação em Audiências - Tecnologia e Direito Digital - Escrita Jurídica - Direito Constitucional - Elaboração de Contratos - Direito Administrativo - Oratória e Argumentação Jurídica - Direito Ambiental - Legislação Atualizada - Direito Tributário
+
+ 
+HABILIDADES
+
+Liderança - Trabalho em equipe - Focado - Resiliente - Empático - Adaptável - Participativo - Comunicativo - Colaborativo - Organizado - Responsável - Proativo - Criativo - Pontual

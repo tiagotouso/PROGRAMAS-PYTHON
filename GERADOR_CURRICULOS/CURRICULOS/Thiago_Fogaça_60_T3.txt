@@ -1,0 +1,36 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Advogado Trabalhista 
+CONHECIMENTOS Jurisprudência - Direito Trabalhista - Gestão de Escritório de Advocacia - Escrita Jurídica - Direito Ambiental - Ética e Deontologia Jurídica - Direito Penal - Direito Empresarial - Código de Processo Civil - Elaboração de Contratos - Atuação em Audiências - Direito Administrativo - Legislação Atualizada - Tecnologia e Direito Digital - Direito Constitucional
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Coordenador Administrativo 
+CONHECIMENTOS Compliance e Governança Corporativa - Ética e Responsabilidade Corporativa - Logística e Cadeia de Suprimentos - Marketing e Vendas - Gestão de Pessoas - Gestão da Qualidade - Gestão Financeira - Inovação e Transformação Digital - Negociação e Tomada de Decisão - Metodologias Ágeis Scrum - Gestão de Projetos - Liderança e Gestão de Equipes - Business Intelligence (BI) - Contabilidade Empresarial - Empreendedorismo - Direito Empresarial
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS Metodologias Ágeis Kanban - Git/GitHub - JavaScript - Docker/Kubernetes - NoSQL - HTML
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Analista de Sistemas 
+CONHECIMENTOS Python - Frameworks Django - Frameworks React - Git/GitHub - Metodologias Ágeis Scrum - NoSQL - CSS - JavaScript - Docker/Kubernetes - Metodologias Ágeis Kanban
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Thiago Fogaça 
+IDADE: 60
+EMAIL: sarahviana@example.net 
+CIDADE: da Rocha de Minas
+ENDEREÇO: Feira Yan Moura, 8
+Estoril
+16545540 Martins / SP
+ 
+HABILIDADES
+
+Trabalho em equipe - Empático - Organizado - Focado - Liderança
+ 

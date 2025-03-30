@@ -1,0 +1,66 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Cecília Marques 
+IDADE 
+45
+EMAIL 
+xmacedo@example.com 
+CIDADE 
+Sales Grande
+ENDEREÇO 
+Distrito de Garcia
+Santa Branca
+59852-956 Sousa da Praia / RJ
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Escrivão 
+CONHECIMENTOS Direito Empresarial
+Código de Processo Civil
+Negociação e Mediação
+Direito Trabalhista
+Tecnologia e Direito Digital
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Git/GitHub
+Metodologias Ágeis Scrum
+Frameworks Django
+SQL
+CSS
+NoSQL
+Testes Automatizados
+Frameworks Flask
+Paradigmas de Programação
+JavaScript
+Cloud Computing
+Docker/Kubernetes
+Frameworks React
+Algoritmos e Estruturas de Dados
+
+ 
+HABILIDADES
+
+Proativo
+Empático
+Trabalho em equipe
+Participativo
+Organizado
+Responsável
+Comunicativo
+Colaborativo
+Educado
+Criativo
+Focado
+Pontual
+Adaptável

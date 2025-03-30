@@ -1,0 +1,81 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Isadora Nascimento 
+IDADE 
+55
+EMAIL 
+antonio04@example.net 
+CIDADE 
+Cavalcante do Galho
+ENDEREÇO 
+Recanto Gonçalves, 87
+Serra
+74471429 Teixeira da Serra / MS
+ 
+HABILIDADES
+
+Pontual
+Organizado
+Criativo
+Comunicativo
+Adaptável
+Participativo
+Proativo
+Liderança
+Focado
+Educado
+Colaborativo
+Empático
+Responsável
+Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Desenvolvedor Backend 
+CONHECIMENTOS Frameworks Flask
+APIs REST
+Docker/Kubernetes
+Metodologias Ágeis Kanban
+DevOps
+HTML
+
+TEMPO DE SERVIÇO: 
+26 anos 
+CARGO 
+Analista de Planejamento Estratégico 
+CONHECIMENTOS Negociação e Tomada de Decisão
+Contabilidade Empresarial
+Empreendedorismo
+Compliance e Governança Corporativa
+Gestão da Qualidade
+Metodologias Ágeis Kanban
+Inovação e Transformação Digital
+Business Intelligence (BI)
+Marketing e Vendas
+Gestão de Pessoas
+Customer Success e Experiência do Cliente
+Análise de Dados e Indicadores
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Especialista em UX/UI 
+CONHECIMENTOS NoSQL
+DevOps
+Frameworks Flask
+Cloud Computing
+APIs REST
+Git/GitHub
+SQL
+Metodologias Ágeis Scrum
+HTML
+JavaScript
+Algoritmos e Estruturas de Dados
+

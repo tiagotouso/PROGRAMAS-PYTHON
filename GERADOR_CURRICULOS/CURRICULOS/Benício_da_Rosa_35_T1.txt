@@ -1,0 +1,59 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Benício da Rosa 
+IDADE 
+35
+EMAIL 
+luiza60@example.org 
+CIDADE 
+Azevedo
+ENDEREÇO 
+Passarela José da Cunha, 45
+São Luiz
+18702-648 Vargas / AM
+ 
+HABILIDADES
+
+Trabalho em equipe
+Comunicativo
+Focado
+Empático
+Pontual
+Criativo
+Participativo
+Responsável
+Resiliente
+Organizado
+Adaptável
+Colaborativo
+Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS NoSQL
+Frameworks Flask
+DevOps
+SQL
+JavaScript
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Scrum
+Python
+Segurança da Informação
+APIs REST
+Testes Automatizados
+Frameworks React
+Paradigmas de Programação
+Git/GitHub
+Cloud Computing
+Metodologias Ágeis Kanban
+Frameworks Django
+HTML
+

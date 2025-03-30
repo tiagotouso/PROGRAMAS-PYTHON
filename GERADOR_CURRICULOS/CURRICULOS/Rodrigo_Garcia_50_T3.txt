@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 26 anos 
+CARGO: Desenvolvedor Full Stack 
+CONHECIMENTOS Docker/Kubernetes - Metodologias Ágeis Kanban - Segurança da Informação - Frameworks Django - Frameworks React - CSS - NoSQL - DevOps - Algoritmos e Estruturas de Dados - HTML - Frameworks Flask - Metodologias Ágeis Scrum - SQL - Cloud Computing - Testes Automatizados - Python - Git/GitHub - APIs REST
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Rodrigo Garcia 
+IDADE: 50
+EMAIL: oalves@example.com 
+CIDADE: da Paz da Praia
+ENDEREÇO: Via Silva, 7
+Europa
+52735-088 Sales / RR
+ 
+HABILIDADES
+
+Trabalho em equipe - Comunicativo - Responsável - Focado - Adaptável - Organizado - Pontual
+ 

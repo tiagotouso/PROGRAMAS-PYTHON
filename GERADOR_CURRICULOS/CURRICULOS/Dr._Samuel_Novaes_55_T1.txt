@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Samuel Novaes 
+IDADE: 55
+EMAIL: cecilia24@example.com 
+CIDADE: Pereira de Santos
+ENDEREÇO: Fazenda Campos, 87
+Vila Paris
+11147-040 Lopes de Almeida / SP
+ 
+HABILIDADES
+
+Responsável - Pontual - Empático - Comunicativo - Educado - Colaborativo - Proativo - Criativo - Organizado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Frameworks Django - HTML - Cloud Computing - Algoritmos e Estruturas de Dados - Segurança da Informação - Metodologias Ágeis Scrum - Testes Automatizados - SQL - Metodologias Ágeis Kanban - Python - Docker/Kubernetes - Paradigmas de Programação - CSS - Frameworks React
+

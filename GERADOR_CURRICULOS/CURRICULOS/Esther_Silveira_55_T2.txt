@@ -1,0 +1,75 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Esther Silveira 
+IDADE 
+55
+EMAIL 
+mathiasbrito@example.net 
+CIDADE 
+Caldeira
+ENDEREÇO 
+Estrada de da Conceição, 2
+Casa Branca
+14310944 Rios / BA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Administrador de Redes 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+NoSQL
+HTML
+Python
+SQL
+Paradigmas de Programação
+Docker/Kubernetes
+Testes Automatizados
+Metodologias Ágeis Scrum
+JavaScript
+Frameworks React
+Metodologias Ágeis Kanban
+Frameworks Django
+Cloud Computing
+APIs REST
+Segurança da Informação
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Promotor de Justiça 
+CONHECIMENTOS Elaboração de Contratos
+Oratória e Argumentação Jurídica
+Negociação e Mediação
+Código de Processo Civil
+Tecnologia e Direito Digital
+Jurisprudência
+Código de Processo Penal
+Direito Trabalhista
+Atuação em Audiências
+Direito Penal
+Direito Civil
+Direito Tributário
+Direito Constitucional
+Ética e Deontologia Jurídica
+Direito Empresarial
+Gestão de Escritório de Advocacia
+Escrita Jurídica
+Direito Administrativo
+Direito Ambiental
+
+ 
+HABILIDADES
+
+Responsável
+Comunicativo
+Educado
+Criativo
+Trabalho em equipe
+Adaptável

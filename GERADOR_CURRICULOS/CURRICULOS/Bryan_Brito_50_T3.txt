@@ -1,0 +1,62 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Processos 
+CONHECIMENTOS Business Intelligence (BI)
+Análise de Dados e Indicadores
+Ética e Responsabilidade Corporativa
+Marketing e Vendas
+Liderança e Gestão de Equipes
+Gestão de Pessoas
+Direito Empresarial
+Gestão Financeira
+Empreendedorismo
+Gestão de Projetos
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Gerente de TI 
+CONHECIMENTOS HTML
+Frameworks React
+NoSQL
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+JavaScript
+Frameworks Flask
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Bryan Brito 
+IDADE 
+50
+EMAIL 
+luiza89@example.net 
+CIDADE 
+Cassiano de Marques
+ENDEREÇO 
+Rua Rocha, 868
+Boa União 1ª Seção
+01342-767 da Conceição das Pedras / BA
+ 
+HABILIDADES
+
+Focado
+Comunicativo
+Educado
+Proativo
+Liderança
+Responsável
+Criativo
+Empático
+Pontual
+Trabalho em equipe
+Colaborativo
+ 

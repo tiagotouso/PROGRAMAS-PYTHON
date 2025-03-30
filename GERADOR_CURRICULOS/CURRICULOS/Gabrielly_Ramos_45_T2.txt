@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Gabrielly Ramos 
+IDADE: 45
+EMAIL: mirellavasconcelos@example.org 
+CIDADE: Machado
+ENDEREÇO: Fazenda Otávio Nascimento, 6
+Barro Preto
+53137-810 Pimenta / ES
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Despachante Jurídico 
+CONHECIMENTOS Direito Penal - Código de Processo Civil - Atuação em Audiências - Direito Constitucional - Elaboração de Contratos - Direito Trabalhista
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS Docker/Kubernetes - Testes Automatizados - CSS - HTML - Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban - Frameworks Flask - Frameworks Django - Cloud Computing - DevOps
+
+ 
+HABILIDADES
+
+Focado - Participativo - Responsável - Pontual - Liderança - Trabalho em equipe - Comunicativo - Educado - Adaptável - Proativo - Empático

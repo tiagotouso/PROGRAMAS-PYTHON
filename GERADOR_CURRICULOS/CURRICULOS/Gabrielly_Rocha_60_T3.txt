@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Frameworks Flask - Metodologias Ágeis Kanban - Segurança da Informação - DevOps - Python - Git/GitHub - Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - Testes Automatizados - SQL - CSS - HTML - Cloud Computing
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: DevOps Engineer 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Frameworks Flask - Git/GitHub - DevOps - APIs REST - Docker/Kubernetes - Frameworks React
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Python - APIs REST - Frameworks Django - Algoritmos e Estruturas de Dados - DevOps - NoSQL - Testes Automatizados
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Gabrielly Rocha 
+IDADE: 60
+EMAIL: lopeseduarda@example.net 
+CIDADE: Marques do Galho
+ENDEREÇO: Ladeira Pimenta, 46
+Zilah Sposito
+90267-422 Silva / GO
+ 
+HABILIDADES
+
+Pontual - Colaborativo - Responsável - Proativo - Empático - Trabalho em equipe - Liderança
+ 

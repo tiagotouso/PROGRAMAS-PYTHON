@@ -1,0 +1,46 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Bianca Abreu 
+IDADE 
+50
+EMAIL 
+silveiraeduardo@example.net 
+CIDADE 
+Nogueira da Praia
+ENDEREÇO 
+Quadra Ribeiro
+Varzea Da Palma
+73981845 Melo do Campo / RJ
+ 
+HABILIDADES
+
+Educado
+Responsável
+Focado
+Empático
+Liderança
+Proativo
+Adaptável
+Organizado
+Resiliente
+Criativo
+Colaborativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+24 anos 
+CARGO 
+Especialista em Inteligência Artificial 
+CONHECIMENTOS Docker/Kubernetes
+Frameworks Django
+CSS
+Segurança da Informação
+NoSQL
+Python
+DevOps
+

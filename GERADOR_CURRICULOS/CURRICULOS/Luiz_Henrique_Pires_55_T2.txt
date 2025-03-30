@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Luiz Henrique Pires 
+IDADE: 55
+EMAIL: kamilly67@example.com 
+CIDADE: Correia
+ENDEREÇO: Alameda Souza, 44
+Vila Suzana Primeira Seção
+41844-777 da Conceição / RO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Especialista em Cibersegurança 
+CONHECIMENTOS CSS - Frameworks Django - JavaScript - APIs REST - HTML - Metodologias Ágeis Kanban - Python - Git/GitHub - Frameworks React - Cloud Computing - Frameworks Flask - SQL - Metodologias Ágeis Scrum - Algoritmos e Estruturas de Dados - Paradigmas de Programação - DevOps - NoSQL - Testes Automatizados
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Escrivão 
+CONHECIMENTOS Direito Penal - Direito Tributário - Gestão de Escritório de Advocacia - Atuação em Audiências - Negociação e Mediação - Direito Constitucional - Elaboração de Contratos - Código de Processo Civil - Direito Empresarial - Tecnologia e Direito Digital - Direito Trabalhista - Jurisprudência
+
+ 
+HABILIDADES
+
+Colaborativo - Criativo - Participativo - Adaptável - Comunicativo - Educado - Responsável - Proativo - Pontual

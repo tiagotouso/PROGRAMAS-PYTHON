@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Frameworks React - APIs REST - Docker/Kubernetes - SQL - Frameworks Flask - CSS - Python - Git/GitHub - JavaScript - NoSQL - Paradigmas de Programação - Metodologias Ágeis Scrum - Algoritmos e Estruturas de Dados - Testes Automatizados - Metodologias Ágeis Kanban - Cloud Computing - Frameworks Django
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Raquel Silva 
+IDADE: 30
+EMAIL: zpastor@example.com 
+CIDADE: Almeida da Prata
+ENDEREÇO: Condomínio de Mendonça
+Vila Dos Anjos
+55943528 da Cruz / RO
+ 
+HABILIDADES
+
+Pontual - Proativo - Trabalho em equipe - Empático - Adaptável - Resiliente - Participativo - Responsável - Criativo - Liderança - Educado - Organizado - Colaborativo - Focado - Comunicativo
+ 

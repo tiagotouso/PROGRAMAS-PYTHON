@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Bella da Rocha 
+IDADE: 30
+EMAIL: kcastro@example.com 
+CIDADE: das Neves
+ENDEREÇO: Feira da Cruz, 134
+Saudade
+43789-732 Campos / AM
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS Git/GitHub - Frameworks Django - Cloud Computing - Python - SQL - Metodologias Ágeis Scrum - Segurança da Informação - Algoritmos e Estruturas de Dados - HTML - Docker/Kubernetes - Frameworks React - Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Organizado - Resiliente - Pontual - Criativo - Colaborativo - Participativo - Educado - Adaptável - Proativo - Comunicativo - Responsável - Empático - Trabalho em equipe - Liderança - Focado

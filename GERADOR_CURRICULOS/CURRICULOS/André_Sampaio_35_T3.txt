@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS APIs REST - Docker/Kubernetes - HTML - DevOps - SQL - Frameworks Django - NoSQL - Paradigmas de Programação - Testes Automatizados - Python - Frameworks React - Git/GitHub - CSS
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: André Sampaio 
+IDADE: 35
+EMAIL: rlopes@example.org 
+CIDADE: Nascimento
+ENDEREÇO: Trevo Rezende, 29
+Morro Dos Macacos
+12242-708 Fonseca / RR
+ 
+HABILIDADES
+
+Criativo - Comunicativo - Trabalho em equipe - Liderança - Resiliente - Organizado - Adaptável - Colaborativo - Educado - Focado
+ 

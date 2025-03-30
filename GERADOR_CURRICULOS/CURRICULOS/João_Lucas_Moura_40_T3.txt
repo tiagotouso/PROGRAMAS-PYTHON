@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS Cloud Computing - APIs REST - Python - Paradigmas de Programação - Frameworks Flask - Frameworks Django - SQL - DevOps - CSS - HTML - Frameworks React - Algoritmos e Estruturas de Dados
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: João Lucas Moura 
+IDADE: 40
+EMAIL: gmontenegro@example.com 
+CIDADE: Lima da Praia
+ENDEREÇO: Parque Rezende, 36
+Cachoeirinha
+32995-855 Câmara / PA
+ 
+HABILIDADES
+
+Organizado - Focado - Resiliente - Liderança - Responsável - Pontual - Criativo - Educado - Participativo - Trabalho em equipe - Empático
+ 

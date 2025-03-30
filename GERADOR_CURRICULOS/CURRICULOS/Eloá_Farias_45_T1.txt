@@ -1,0 +1,66 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Eloá Farias 
+IDADE 
+45
+EMAIL 
+caldeiraana-julia@example.org 
+CIDADE 
+da Cruz
+ENDEREÇO 
+Via Casa Grande, 67
+Vila Ipiranga
+75905-006 Fonseca da Serra / RR
+ 
+HABILIDADES
+
+Comunicativo
+Trabalho em equipe
+Pontual
+Organizado
+Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista de Dados 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+Testes Automatizados
+HTML
+Git/GitHub
+APIs REST
+Python
+Segurança da Informação
+CSS
+SQL
+Metodologias Ágeis Scrum
+JavaScript
+Cloud Computing
+Frameworks React
+Frameworks Django
+Metodologias Ágeis Kanban
+NoSQL
+DevOps
+Paradigmas de Programação
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+20 anos 
+CARGO 
+Promotor de Justiça 
+CONHECIMENTOS Direito Trabalhista
+Código de Processo Civil
+Direito Penal
+Direito Administrativo
+Direito Civil
+Legislação Atualizada
+Gestão de Escritório de Advocacia
+Negociação e Mediação
+Código de Processo Penal
+

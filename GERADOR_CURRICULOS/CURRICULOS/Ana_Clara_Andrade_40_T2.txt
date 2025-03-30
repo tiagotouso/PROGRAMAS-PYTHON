@@ -1,0 +1,54 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Clara Andrade 
+IDADE 
+40
+EMAIL 
+anapacheco@example.net 
+CIDADE 
+Pastor
+ENDEREÇO 
+Largo Cunha, 85
+Planalto
+54121-061 Sousa do Amparo / AC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Gerente de Operações 
+CONHECIMENTOS Logística e Cadeia de Suprimentos
+Planejamento Estratégico
+Gestão da Qualidade
+Contabilidade Empresarial
+Administração Pública
+Gestão de Projetos
+Negociação e Tomada de Decisão
+Gestão Financeira
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS Git/GitHub
+Frameworks React
+Testes Automatizados
+Algoritmos e Estruturas de Dados
+HTML
+Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Pontual
+Responsável
+Participativo
+Trabalho em equipe
+Criativo
+Resiliente
+Focado

@@ -1,0 +1,81 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Consultor Jurídico 
+CONHECIMENTOS Direito Ambiental
+Tecnologia e Direito Digital
+Direito Administrativo
+Código de Processo Civil
+Negociação e Mediação
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS CSS
+HTML
+Cloud Computing
+Frameworks Django
+Git/GitHub
+Docker/Kubernetes
+SQL
+JavaScript
+Testes Automatizados
+Algoritmos e Estruturas de Dados
+Frameworks Flask
+Segurança da Informação
+Metodologias Ágeis Scrum
+Paradigmas de Programação
+Frameworks React
+Python
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Gerente Administrativo 
+CONHECIMENTOS Empreendedorismo
+Gestão da Qualidade
+Metodologias Ágeis Kanban
+Direito Empresarial
+Gestão de Projetos
+Administração Pública
+Compliance e Governança Corporativa
+Inovação e Transformação Digital
+Metodologias Ágeis Scrum
+Liderança e Gestão de Equipes
+Ética e Responsabilidade Corporativa
+Business Intelligence (BI)
+Gestão de Pessoas
+Marketing e Vendas
+Contabilidade Empresarial
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Cauã da Cunha 
+IDADE 
+50
+EMAIL 
+caua49@example.org 
+CIDADE 
+Costa do Campo
+ENDEREÇO 
+Quadra de Pimenta
+Jardim Dos Comerciarios
+19507332 Porto da Serra / AL
+ 
+HABILIDADES
+
+Proativo
+Pontual
+Trabalho em equipe
+Responsável
+Empático
+Educado
+ 

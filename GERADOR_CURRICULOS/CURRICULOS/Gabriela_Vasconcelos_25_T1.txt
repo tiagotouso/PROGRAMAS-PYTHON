@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Gabriela Vasconcelos 
+IDADE: 25
+EMAIL: peixotomaria-flor@example.com 
+CIDADE: Martins da Serra
+ENDEREÇO: Vila da Conceição, 36
+Vila Das Oliveiras
+63571-199 Guerra Alegre / RJ
+ 
+HABILIDADES
+
+Adaptável - Educado - Colaborativo - Focado - Trabalho em equipe - Participativo - Organizado - Liderança - Comunicativo - Empático - Criativo - Proativo - Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Desenvolvedor Full Stack 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Docker/Kubernetes - Metodologias Ágeis Scrum - Frameworks React - Frameworks Django - Segurança da Informação - Metodologias Ágeis Kanban - SQL - NoSQL - Frameworks Flask - JavaScript - Cloud Computing - HTML - Python - Git/GitHub - Paradigmas de Programação - DevOps - APIs REST - Testes Automatizados
+

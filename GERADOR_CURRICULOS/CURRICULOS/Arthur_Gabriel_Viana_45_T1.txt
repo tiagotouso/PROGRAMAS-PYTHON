@@ -1,0 +1,54 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Arthur Gabriel Viana 
+IDADE 
+45
+EMAIL 
+aurorada-luz@example.net 
+CIDADE 
+Nascimento
+ENDEREÇO 
+Setor Vieira, 65
+Vila Santo Antônio
+13385-814 Cardoso de Câmara / MS
+ 
+HABILIDADES
+
+Comunicativo
+Organizado
+Trabalho em equipe
+Proativo
+Resiliente
+Pontual
+Colaborativo
+Adaptável
+Liderança
+Empático
+Responsável
+Focado
+Criativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Frameworks Django
+Metodologias Ágeis Kanban
+SQL
+Cloud Computing
+HTML
+DevOps
+NoSQL
+Metodologias Ágeis Scrum
+Git/GitHub
+Frameworks React
+Algoritmos e Estruturas de Dados
+Python
+APIs REST
+

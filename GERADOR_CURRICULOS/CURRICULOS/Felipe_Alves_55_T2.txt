@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Felipe Alves 
+IDADE: 55
+EMAIL: da-motamilena@example.org 
+CIDADE: Barros
+ENDEREÇO: Área de Pacheco, 78
+Vila União
+46696530 Rezende das Flores / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Coordenador de Atendimento 
+CONHECIMENTOS Business Intelligence (BI) - Ética e Responsabilidade Corporativa - Logística e Cadeia de Suprimentos - Empreendedorismo - Planejamento Estratégico - Liderança e Gestão de Equipes
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Perito Judicial 
+CONHECIMENTOS Direito Empresarial - Gestão de Escritório de Advocacia - Direito Penal - Negociação e Mediação - Código de Processo Penal - Tecnologia e Direito Digital - Direito Tributário
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Frameworks Flask - Metodologias Ágeis Scrum - HTML - Git/GitHub - Metodologias Ágeis Kanban - Testes Automatizados - SQL - Paradigmas de Programação - APIs REST
+
+ 
+HABILIDADES
+
+Trabalho em equipe - Colaborativo - Educado - Liderança - Participativo - Comunicativo - Focado - Organizado - Resiliente - Empático - Responsável - Adaptável - Criativo - Pontual - Proativo

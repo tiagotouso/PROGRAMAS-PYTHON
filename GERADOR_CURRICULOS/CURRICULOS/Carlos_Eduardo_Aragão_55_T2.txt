@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Carlos Eduardo Aragão 
+IDADE: 55
+EMAIL: dazevedo@example.com 
+CIDADE: Pinto dos Dourados
+ENDEREÇO: Chácara de Azevedo
+Etelvina Carneiro
+93908-462 Teixeira / RO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Arquiteto de Soluções 
+CONHECIMENTOS Segurança da Informação - Frameworks Flask - Docker/Kubernetes - CSS - Algoritmos e Estruturas de Dados - Cloud Computing - NoSQL - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Perito Judicial 
+CONHECIMENTOS Tecnologia e Direito Digital - Direito Civil - Direito Constitucional - Elaboração de Contratos - Direito Administrativo - Escrita Jurídica - Código de Processo Civil - Direito Trabalhista - Código de Processo Penal - Direito Tributário
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Especialista em Inteligência Artificial 
+CONHECIMENTOS SQL - Frameworks Flask - JavaScript - NoSQL - Git/GitHub - Python - Testes Automatizados - Algoritmos e Estruturas de Dados
+
+ 
+HABILIDADES
+
+Empático - Proativo - Resiliente - Educado - Responsável - Criativo - Liderança - Adaptável - Colaborativo

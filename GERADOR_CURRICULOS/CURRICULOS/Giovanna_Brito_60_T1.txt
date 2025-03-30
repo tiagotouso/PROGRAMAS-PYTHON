@@ -1,0 +1,103 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Giovanna Brito 
+IDADE 
+60
+EMAIL 
+ana-juliabarros@example.com 
+CIDADE 
+Barros de Pacheco
+ENDEREÇO 
+Loteamento de Caldeira
+Granja Werneck
+75009-834 Ribeiro do Sul / RJ
+ 
+HABILIDADES
+
+Liderança
+Proativo
+Participativo
+Adaptável
+Comunicativo
+Pontual
+Focado
+Colaborativo
+Criativo
+Organizado
+Responsável
+Empático
+Trabalho em equipe
+Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+22 anos 
+CARGO 
+Scrum Master 
+CONHECIMENTOS Paradigmas de Programação
+DevOps
+SQL
+HTML
+Cloud Computing
+Git/GitHub
+Frameworks React
+NoSQL
+APIs REST
+Frameworks Flask
+Frameworks Django
+Python
+Docker/Kubernetes
+CSS
+Algoritmos e Estruturas de Dados
+Testes Automatizados
+Metodologias Ágeis Kanban
+Segurança da Informação
+JavaScript
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Advogado Imobiliário 
+CONHECIMENTOS Negociação e Mediação
+Código de Processo Penal
+Direito Civil
+Direito Tributário
+Oratória e Argumentação Jurídica
+Direito Empresarial
+Direito Trabalhista
+Atuação em Audiências
+Tecnologia e Direito Digital
+Direito Ambiental
+Direito Administrativo
+Elaboração de Contratos
+Direito Penal
+Gestão de Escritório de Advocacia
+Código de Processo Civil
+Ética e Deontologia Jurídica
+Legislação Atualizada
+Direito Constitucional
+Jurisprudência
+Escrita Jurídica
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Recursos Humanos 
+CONHECIMENTOS Gestão de Projetos
+Negociação e Tomada de Decisão
+Logística e Cadeia de Suprimentos
+Ética e Responsabilidade Corporativa
+Empreendedorismo
+Metodologias Ágeis Scrum
+Administração Pública
+Business Intelligence (BI)
+Planejamento Estratégico
+Marketing e Vendas
+Gestão de Pessoas
+Gestão da Qualidade
+

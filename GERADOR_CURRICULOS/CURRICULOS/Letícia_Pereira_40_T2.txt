@@ -1,0 +1,91 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Letícia Pereira 
+IDADE 
+40
+EMAIL 
+davi-miguel63@example.net 
+CIDADE 
+Caldeira do Galho
+ENDEREÇO 
+Viela Aparecida, 96
+Andiroba
+36815547 Nunes de Pereira / AC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Git/GitHub
+Frameworks Flask
+Docker/Kubernetes
+CSS
+Metodologias Ágeis Scrum
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+NoSQL
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Gerente de Operações 
+CONHECIMENTOS Planejamento Estratégico
+Business Intelligence (BI)
+Gestão da Qualidade
+Gestão de Projetos
+Logística e Cadeia de Suprimentos
+Compliance e Governança Corporativa
+Marketing e Vendas
+Contabilidade Empresarial
+Gestão Financeira
+Ética e Responsabilidade Corporativa
+Direito Empresarial
+Inovação e Transformação Digital
+Empreendedorismo
+Metodologias Ágeis Kanban
+Administração Pública
+Negociação e Tomada de Decisão
+Liderança e Gestão de Equipes
+Análise de Dados e Indicadores
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Gerente Administrativo 
+CONHECIMENTOS Empreendedorismo
+Inovação e Transformação Digital
+Compliance e Governança Corporativa
+Planejamento Estratégico
+Logística e Cadeia de Suprimentos
+Gestão da Qualidade
+Análise de Dados e Indicadores
+Gestão de Pessoas
+Negociação e Tomada de Decisão
+Ética e Responsabilidade Corporativa
+Marketing e Vendas
+Administração Pública
+Liderança e Gestão de Equipes
+
+ 
+HABILIDADES
+
+Resiliente
+Educado
+Liderança
+Participativo
+Focado
+Empático
+Comunicativo
+Pontual
+Proativo
+Colaborativo
+Responsável
+Trabalho em equipe
+Organizado
+Criativo

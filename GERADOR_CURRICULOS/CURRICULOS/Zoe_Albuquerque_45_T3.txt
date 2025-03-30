@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Consultor Empresarial 
+CONHECIMENTOS Contabilidade Empresarial - Ética e Responsabilidade Corporativa - Negociação e Tomada de Decisão - Planejamento Estratégico - Análise de Dados e Indicadores - Customer Success e Experiência do Cliente
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Frameworks Django - Metodologias Ágeis Kanban - DevOps - Git/GitHub - Docker/Kubernetes - NoSQL - HTML - SQL - Frameworks React
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Procurador 
+CONHECIMENTOS Atuação em Audiências - Direito Ambiental - Elaboração de Contratos - Direito Empresarial - Direito Constitucional - Tecnologia e Direito Digital - Direito Trabalhista - Ética e Deontologia Jurídica - Direito Civil - Direito Tributário - Negociação e Mediação - Legislação Atualizada - Jurisprudência - Direito Penal - Escrita Jurídica - Oratória e Argumentação Jurídica
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Zoe Albuquerque 
+IDADE: 45
+EMAIL: wpimenta@example.org 
+CIDADE: Montenegro de da Costa
+ENDEREÇO: Parque de Aparecida
+Vila Das Oliveiras
+37116-139 da Costa da Praia / PR
+ 
+HABILIDADES
+
+Participativo - Liderança - Pontual - Educado - Adaptável - Comunicativo - Responsável - Criativo
+ 

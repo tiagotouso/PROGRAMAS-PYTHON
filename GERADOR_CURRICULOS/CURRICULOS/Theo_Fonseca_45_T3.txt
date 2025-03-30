@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Engenheiro de Software 
+CONHECIMENTOS Frameworks Django - Cloud Computing - CSS - Metodologias Ágeis Scrum - Paradigmas de Programação - Git/GitHub - DevOps - HTML - Frameworks Flask - Algoritmos e Estruturas de Dados - JavaScript - Metodologias Ágeis Kanban - Python - Docker/Kubernetes - Segurança da Informação - NoSQL
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS DevOps - HTML - Segurança da Informação - SQL - Python - NoSQL - Metodologias Ágeis Scrum - Docker/Kubernetes - Frameworks Django - Testes Automatizados - Cloud Computing - Frameworks Flask - Paradigmas de Programação - Frameworks React - JavaScript - CSS - APIs REST - Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Theo Fonseca 
+IDADE: 45
+EMAIL: ana-carolina26@example.com 
+CIDADE: Ramos da Praia
+ENDEREÇO: Fazenda de Castro, 68
+Santa Sofia
+17984376 da Mota / PR
+ 
+HABILIDADES
+
+Organizado - Comunicativo - Trabalho em equipe - Proativo - Criativo - Focado - Empático - Colaborativo - Responsável - Liderança - Adaptável - Resiliente
+ 

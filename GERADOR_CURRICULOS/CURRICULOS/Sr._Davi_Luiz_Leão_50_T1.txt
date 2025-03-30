@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Davi Luiz Leão 
+IDADE: 50
+EMAIL: isousa@example.org 
+CIDADE: Teixeira
+ENDEREÇO: Praça Vieira, 68
+Jardim Atlântico
+45346951 da Luz / MT
+ 
+HABILIDADES
+
+Empático - Participativo - Educado - Focado - Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Frameworks Flask - SQL - CSS - Metodologias Ágeis Kanban - Cloud Computing - DevOps - NoSQL - HTML - Frameworks Django - Git/GitHub - Frameworks React - Metodologias Ágeis Scrum - Paradigmas de Programação - Docker/Kubernetes - APIs REST
+

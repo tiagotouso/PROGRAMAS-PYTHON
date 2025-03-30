@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Nathan Silva 
+IDADE: 55
+EMAIL: nda-paz@example.net 
+CIDADE: Siqueira Verde
+ENDEREÇO: Via Caroline Castro, 81
+Ermelinda
+10191-254 Monteiro de Martins / MG
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 28 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS Git/GitHub - Frameworks Flask - Cloud Computing - Python - Paradigmas de Programação - APIs REST - Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS DevOps - Frameworks Flask - Frameworks React - HTML - JavaScript - Metodologias Ágeis Kanban - Python - Frameworks Django - Testes Automatizados - NoSQL - Git/GitHub - Metodologias Ágeis Scrum - Cloud Computing
+
+ 
+HABILIDADES
+
+Resiliente - Trabalho em equipe - Focado - Responsável - Pontual - Colaborativo - Adaptável - Proativo - Empático - Criativo

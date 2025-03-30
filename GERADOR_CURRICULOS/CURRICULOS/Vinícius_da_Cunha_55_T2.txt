@@ -1,0 +1,73 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Vinícius da Cunha 
+IDADE 
+55
+EMAIL 
+marianapastor@example.net 
+CIDADE 
+da Rosa
+ENDEREÇO 
+Largo de Duarte, 560
+Mineirão
+92001-697 Guerra do Oeste / PA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Analista de Infraestrutura 
+CONHECIMENTOS Git/GitHub
+Metodologias Ágeis Kanban
+HTML
+Docker/Kubernetes
+Testes Automatizados
+Python
+DevOps
+SQL
+JavaScript
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+Cloud Computing
+Metodologias Ágeis Scrum
+Segurança da Informação
+Frameworks Flask
+Frameworks React
+Frameworks Django
+CSS
+APIs REST
+NoSQL
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Suprimentos 
+CONHECIMENTOS Customer Success e Experiência do Cliente
+Metodologias Ágeis Scrum
+Marketing e Vendas
+Inovação e Transformação Digital
+Gestão de Pessoas
+Gestão da Qualidade
+Metodologias Ágeis Kanban
+Logística e Cadeia de Suprimentos
+Administração Pública
+Liderança e Gestão de Equipes
+Planejamento Estratégico
+Empreendedorismo
+Business Intelligence (BI)
+Compliance e Governança Corporativa
+
+ 
+HABILIDADES
+
+Colaborativo
+Empático
+Participativo
+Proativo
+Organizado
+Focado

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sophie Fernandes 
+IDADE: 35
+EMAIL: da-matajulia@example.net 
+CIDADE: Marques
+ENDEREÇO: Praia Silveira
+Conjunto São Francisco De Assis
+15920-554 Monteiro / TO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS SQL - Paradigmas de Programação - Python - APIs REST - Frameworks Django - JavaScript - NoSQL
+
+ 
+HABILIDADES
+
+Adaptável - Pontual - Resiliente - Responsável - Focado - Colaborativo

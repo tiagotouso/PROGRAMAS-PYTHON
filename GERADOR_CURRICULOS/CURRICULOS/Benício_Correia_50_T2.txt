@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Benício Correia 
+IDADE: 50
+EMAIL: fcorreia@example.org 
+CIDADE: Pinto das Pedras
+ENDEREÇO: Setor Maya Rocha, 29
+Nossa Senhora Da Aparecida
+54762-653 Araújo / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Desenvolvedor Mobile 
+CONHECIMENTOS Docker/Kubernetes - DevOps - Cloud Computing - Metodologias Ágeis Kanban - JavaScript - Python - Paradigmas de Programação - Frameworks Flask - Metodologias Ágeis Scrum - SQL - Testes Automatizados - APIs REST - Frameworks Django - Git/GitHub - Algoritmos e Estruturas de Dados - CSS
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Arbitro 
+CONHECIMENTOS Jurisprudência - Ética e Deontologia Jurídica - Negociação e Mediação - Código de Processo Civil - Direito Penal - Gestão de Escritório de Advocacia
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Secretário Executivo 
+CONHECIMENTOS Compliance e Governança Corporativa - Gestão de Pessoas - Marketing e Vendas - Contabilidade Empresarial - Administração Pública - Gestão da Qualidade - Inovação e Transformação Digital - Logística e Cadeia de Suprimentos - Ética e Responsabilidade Corporativa
+
+ 
+HABILIDADES
+
+Organizado - Proativo - Colaborativo - Participativo - Criativo

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sr. Yuri Rocha 
+IDADE: 40
+EMAIL: daniel04@example.org 
+CIDADE: Cavalcante da Praia
+ENDEREÇO: Campo Isabela Silveira, 31
+Horto Florestal
+79812289 Ramos de Moura / DF
+ 
+HABILIDADES
+
+Participativo - Proativo - Comunicativo - Colaborativo - Trabalho em equipe - Focado - Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS Paradigmas de Programação - SQL - Algoritmos e Estruturas de Dados - Testes Automatizados - HTML
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Advogado Trabalhista 
+CONHECIMENTOS Direito Constitucional - Direito Trabalhista - Tecnologia e Direito Digital - Escrita Jurídica - Direito Tributário - Elaboração de Contratos - Jurisprudência - Código de Processo Penal - Legislação Atualizada - Direito Empresarial - Negociação e Mediação - Direito Administrativo - Ética e Deontologia Jurídica - Gestão de Escritório de Advocacia - Oratória e Argumentação Jurídica - Código de Processo Civil - Direito Penal - Direito Ambiental - Atuação em Audiências - Direito Civil
+

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Kaique da Conceição 
+IDADE: 50
+EMAIL: fariasarthur@example.net 
+CIDADE: Albuquerque
+ENDEREÇO: Área de Garcia, 70
+Vila União
+37599411 Cavalcante de Albuquerque / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Analista de Infraestrutura 
+CONHECIMENTOS HTML - Metodologias Ágeis Scrum - APIs REST - SQL - CSS
+
+ 
+HABILIDADES
+
+Proativo - Liderança - Participativo - Empático - Educado - Comunicativo - Criativo

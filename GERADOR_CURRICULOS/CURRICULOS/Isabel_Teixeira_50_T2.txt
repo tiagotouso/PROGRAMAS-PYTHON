@@ -1,0 +1,53 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Isabel Teixeira 
+IDADE 
+50
+EMAIL 
+lda-mota@example.com 
+CIDADE 
+Dias
+ENDEREÇO 
+Trevo Ana Júlia Martins, 7
+Glória
+25086983 Mendonça da Praia / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+DevOps Engineer 
+CONHECIMENTOS Testes Automatizados
+Algoritmos e Estruturas de Dados
+Frameworks Django
+HTML
+Frameworks Flask
+NoSQL
+CSS
+Cloud Computing
+Paradigmas de Programação
+SQL
+Frameworks React
+Python
+APIs REST
+Metodologias Ágeis Scrum
+Segurança da Informação
+Git/GitHub
+Metodologias Ágeis Kanban
+JavaScript
+
+ 
+HABILIDADES
+
+Organizado
+Criativo
+Colaborativo
+Adaptável
+Trabalho em equipe
+Proativo
+Empático

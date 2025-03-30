@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS Cloud Computing - Segurança da Informação - Metodologias Ágeis Kanban - Paradigmas de Programação - HTML - Python - NoSQL - Frameworks Flask - DevOps - Git/GitHub - Metodologias Ágeis Scrum - APIs REST - Frameworks Django - JavaScript - Algoritmos e Estruturas de Dados - Docker/Kubernetes - SQL
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Site Reliability Engineer (SRE) 
+CONHECIMENTOS HTML - APIs REST - SQL - Metodologias Ágeis Scrum - Cloud Computing - NoSQL - Metodologias Ágeis Kanban - CSS - Testes Automatizados - Frameworks Django - Frameworks React - Python - Segurança da Informação - Frameworks Flask - JavaScript - Paradigmas de Programação - Docker/Kubernetes - Algoritmos e Estruturas de Dados - DevOps - Git/GitHub
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Hellena da Conceição 
+IDADE: 25
+EMAIL: maria-sophia05@example.net 
+CIDADE: Gomes
+ENDEREÇO: Condomínio Peixoto, 907
+Barroca
+31124-020 Nogueira / SE
+ 
+HABILIDADES
+
+Liderança - Resiliente - Participativo - Adaptável - Focado - Trabalho em equipe - Criativo - Empático - Proativo - Pontual
+ 

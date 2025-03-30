@@ -1,0 +1,56 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS Cloud Computing
+NoSQL
+Algoritmos e Estruturas de Dados
+APIs REST
+Metodologias Ágeis Scrum
+JavaScript
+Metodologias Ágeis Kanban
+Frameworks React
+Testes Automatizados
+Docker/Kubernetes
+Frameworks Flask
+CSS
+Git/GitHub
+Frameworks Django
+Paradigmas de Programação
+HTML
+Segurança da Informação
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Evelyn Lopes 
+IDADE 
+35
+EMAIL 
+thomas88@example.net 
+CIDADE 
+Brito Verde
+ENDEREÇO 
+Recanto Pires, 71
+Vila Nova Gameleira 3ª Seção
+91941782 Sales / AP
+ 
+HABILIDADES
+
+Trabalho em equipe
+Focado
+Comunicativo
+Criativo
+Colaborativo
+Responsável
+Proativo
+Educado
+Liderança
+Organizado
+ 

@@ -1,0 +1,73 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Carolina Sousa 
+IDADE 
+50
+EMAIL 
+ramosleo@example.net 
+CIDADE 
+Pacheco do Amparo
+ENDEREÇO 
+Quadra Sales, 9
+Savassi
+49817-073 Abreu / RR
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Analista de Infraestrutura 
+CONHECIMENTOS Testes Automatizados
+SQL
+Docker/Kubernetes
+DevOps
+Git/GitHub
+Frameworks React
+Metodologias Ágeis Scrum
+Segurança da Informação
+JavaScript
+Frameworks Flask
+CSS
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Arbitro 
+CONHECIMENTOS Direito Administrativo
+Tecnologia e Direito Digital
+Direito Civil
+Atuação em Audiências
+Código de Processo Penal
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Compliance Officer 
+CONHECIMENTOS Atuação em Audiências
+Código de Processo Civil
+Gestão de Escritório de Advocacia
+Direito Trabalhista
+Direito Ambiental
+Ética e Deontologia Jurídica
+Direito Administrativo
+Elaboração de Contratos
+
+ 
+HABILIDADES
+
+Educado
+Liderança
+Proativo
+Focado
+Adaptável
+Comunicativo
+Responsável
+Participativo
+Empático
+Colaborativo
+Resiliente

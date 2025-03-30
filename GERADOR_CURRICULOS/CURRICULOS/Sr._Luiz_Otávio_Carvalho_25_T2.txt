@@ -1,0 +1,42 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sr. Luiz Otávio Carvalho 
+IDADE 
+25
+EMAIL 
+silveiraenrico@example.net 
+CIDADE 
+Araújo
+ENDEREÇO 
+Pátio de das Neves, 5
+Vila Primeiro De Maio
+26029204 Jesus / MA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+Frameworks React
+Frameworks Django
+HTML
+Segurança da Informação
+Paradigmas de Programação
+SQL
+
+ 
+HABILIDADES
+
+Educado
+Comunicativo
+Proativo
+Participativo
+Focado
+Organizado
+Adaptável

@@ -1,0 +1,62 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS HTML
+APIs REST
+Testes Automatizados
+Frameworks Django
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Scrum
+JavaScript
+Git/GitHub
+DevOps
+Cloud Computing
+Paradigmas de Programação
+SQL
+Docker/Kubernetes
+Metodologias Ágeis Kanban
+NoSQL
+CSS
+Frameworks React
+Frameworks Flask
+Segurança da Informação
+Python
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dra. Isabelly Montenegro 
+IDADE 
+50
+EMAIL 
+mariana90@example.org 
+CIDADE 
+Abreu
+ENDEREÇO 
+Recanto Pinto, 878
+Embaúbas
+04982-692 Sales / RS
+ 
+HABILIDADES
+
+Comunicativo
+Proativo
+Resiliente
+Educado
+Colaborativo
+Adaptável
+Responsável
+Empático
+Focado
+Trabalho em equipe
+Pontual
+Liderança
+Organizado
+ 

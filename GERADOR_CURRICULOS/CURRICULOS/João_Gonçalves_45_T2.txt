@@ -1,0 +1,57 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+João Gonçalves 
+IDADE 
+45
+EMAIL 
+alanarezende@example.org 
+CIDADE 
+Brito
+ENDEREÇO 
+Lago de Gomes, 5
+Lorena
+98270-884 Lopes / RS
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+26 anos 
+CARGO 
+DevOps Engineer 
+CONHECIMENTOS Git/GitHub
+Algoritmos e Estruturas de Dados
+Metodologias Ágeis Scrum
+JavaScript
+Segurança da Informação
+Cloud Computing
+APIs REST
+Paradigmas de Programação
+Python
+Frameworks React
+SQL
+Docker/Kubernetes
+Frameworks Django
+DevOps
+NoSQL
+CSS
+Metodologias Ágeis Kanban
+Frameworks Flask
+HTML
+Testes Automatizados
+
+ 
+HABILIDADES
+
+Colaborativo
+Adaptável
+Organizado
+Liderança
+Participativo
+Responsável
+Comunicativo
+Educado
+Trabalho em equipe

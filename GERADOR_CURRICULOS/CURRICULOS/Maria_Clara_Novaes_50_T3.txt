@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 26 anos 
+CARGO: Advogado Previdenciário 
+CONHECIMENTOS Elaboração de Contratos - Tecnologia e Direito Digital - Direito Civil - Direito Trabalhista - Direito Ambiental - Jurisprudência - Direito Tributário - Atuação em Audiências - Código de Processo Civil - Ética e Deontologia Jurídica
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Consultor de TI 
+CONHECIMENTOS DevOps - JavaScript - Cloud Computing - Paradigmas de Programação - Python - Frameworks Django - Frameworks Flask - HTML - Metodologias Ágeis Scrum - SQL - Algoritmos e Estruturas de Dados - Frameworks React - CSS - NoSQL - Segurança da Informação - Metodologias Ágeis Kanban - Git/GitHub - APIs REST
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Clara Novaes 
+IDADE: 50
+EMAIL: mdas-neves@example.net 
+CIDADE: Alves
+ENDEREÇO: Travessa de Fogaça, 40
+Vila Jardim São José
+04531-147 da Mata Verde / ES
+ 
+HABILIDADES
+
+Educado - Proativo - Colaborativo - Empático - Pontual - Participativo - Adaptável - Comunicativo - Responsável - Criativo
+ 

@@ -1,0 +1,97 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Raquel Moraes 
+IDADE 
+55
+EMAIL 
+santosevelyn@example.org 
+CIDADE 
+Teixeira
+ENDEREÇO 
+Fazenda Borges, 89
+Conjunto Jatoba
+26454-276 Nogueira das Flores / RO
+ 
+HABILIDADES
+
+Empático
+Focado
+Pontual
+Criativo
+Participativo
+Resiliente
+Adaptável
+Colaborativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Analista de Processos 
+CONHECIMENTOS Liderança e Gestão de Equipes
+Gestão da Qualidade
+Gestão Financeira
+Marketing e Vendas
+Administração Pública
+Customer Success e Experiência do Cliente
+Empreendedorismo
+Compliance e Governança Corporativa
+Business Intelligence (BI)
+Metodologias Ágeis Kanban
+Direito Empresarial
+Logística e Cadeia de Suprimentos
+Contabilidade Empresarial
+Gestão de Projetos
+Análise de Dados e Indicadores
+Negociação e Tomada de Decisão
+Gestão de Pessoas
+Inovação e Transformação Digital
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Defensor Público 
+CONHECIMENTOS Elaboração de Contratos
+Direito Ambiental
+Legislação Atualizada
+Ética e Deontologia Jurídica
+Código de Processo Penal
+Código de Processo Civil
+Negociação e Mediação
+Atuação em Audiências
+Direito Administrativo
+Tecnologia e Direito Digital
+Direito Penal
+Direito Civil
+Direito Tributário
+Gestão de Escritório de Advocacia
+Direito Empresarial
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Desenvolvedor Backend 
+CONHECIMENTOS SQL
+Segurança da Informação
+Frameworks Django
+HTML
+Metodologias Ágeis Kanban
+Paradigmas de Programação
+Testes Automatizados
+Git/GitHub
+Cloud Computing
+Docker/Kubernetes
+JavaScript
+APIs REST
+Frameworks React
+NoSQL
+CSS
+Algoritmos e Estruturas de Dados
+DevOps
+Python
+

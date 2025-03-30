@@ -1,0 +1,57 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS SQL
+Python
+DevOps
+Cloud Computing
+Segurança da Informação
+Testes Automatizados
+Git/GitHub
+CSS
+APIs REST
+Docker/Kubernetes
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Paradigmas de Programação
+SQL
+Git/GitHub
+Frameworks Django
+Metodologias Ágeis Kanban
+Cloud Computing
+JavaScript
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Isabel Pimenta 
+IDADE 
+45
+EMAIL 
+novaismaria-isis@example.net 
+CIDADE 
+Rezende do Sul
+ENDEREÇO 
+Residencial de Lima, 75
+Cenaculo
+76918760 Brito / SE
+ 
+HABILIDADES
+
+Participativo
+Pontual
+Resiliente
+Trabalho em equipe
+Criativo
+Focado
+ 

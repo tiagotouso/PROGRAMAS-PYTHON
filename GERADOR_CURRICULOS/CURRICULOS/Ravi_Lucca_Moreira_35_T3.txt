@@ -1,0 +1,69 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Advogado Digital 
+CONHECIMENTOS Direito Trabalhista
+Ética e Deontologia Jurídica
+Negociação e Mediação
+Oratória e Argumentação Jurídica
+Código de Processo Penal
+Gestão de Escritório de Advocacia
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Desenvolvedor Backend 
+CONHECIMENTOS Metodologias Ágeis Kanban
+HTML
+CSS
+Docker/Kubernetes
+Metodologias Ágeis Scrum
+Git/GitHub
+JavaScript
+Testes Automatizados
+Algoritmos e Estruturas de Dados
+Frameworks Django
+Cloud Computing
+Frameworks Flask
+DevOps
+Segurança da Informação
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ravi Lucca Moreira 
+IDADE 
+35
+EMAIL 
+nogueirajoao-pedro@example.com 
+CIDADE 
+Peixoto do Campo
+ENDEREÇO 
+Lagoa Azevedo, 92
+Novo Tupi
+23707-364 Dias / RR
+ 
+HABILIDADES
+
+Educado
+Colaborativo
+Proativo
+Empático
+Adaptável
+Focado
+Criativo
+Resiliente
+Liderança
+Pontual
+Comunicativo
+Participativo
+Responsável
+Trabalho em equipe
+Organizado
+ 

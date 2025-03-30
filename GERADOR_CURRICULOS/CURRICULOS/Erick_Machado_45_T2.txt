@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Erick Machado 
+IDADE: 45
+EMAIL: helenamontenegro@example.org 
+CIDADE: Pereira do Norte
+ENDEREÇO: Campo Nathan da Rocha, 72
+Campo Alegre
+73077485 Mendonça do Amparo / CE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Tabelião 
+CONHECIMENTOS Direito Penal - Direito Constitucional - Tecnologia e Direito Digital - Negociação e Mediação - Código de Processo Civil
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Python - NoSQL - Frameworks Django - Segurança da Informação - Paradigmas de Programação - DevOps - Docker/Kubernetes - Testes Automatizados - Frameworks Flask - CSS - Cloud Computing - APIs REST - HTML - JavaScript - SQL - Git/GitHub - Metodologias Ágeis Kanban
+
+ 
+HABILIDADES
+
+Organizado - Criativo - Responsável - Resiliente - Colaborativo - Empático - Participativo - Comunicativo - Focado - Liderança - Trabalho em equipe - Educado - Pontual - Proativo

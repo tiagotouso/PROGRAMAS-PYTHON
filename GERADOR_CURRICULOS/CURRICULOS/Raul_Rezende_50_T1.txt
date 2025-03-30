@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Raul Rezende 
+IDADE: 50
+EMAIL: luiz-fernandoazevedo@example.com 
+CIDADE: Siqueira Paulista
+ENDEREÇO: Viela Silva, 962
+Ambrosina
+17502-258 Camargo / RN
+ 
+HABILIDADES
+
+Criativo - Liderança - Trabalho em equipe - Resiliente - Colaborativo - Educado - Focado - Participativo - Responsável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Consultor Empresarial 
+CONHECIMENTOS Gestão da Qualidade - Administração Pública - Metodologias Ágeis Scrum - Compliance e Governança Corporativa - Direito Empresarial - Customer Success e Experiência do Cliente - Gestão de Pessoas - Metodologias Ágeis Kanban - Gestão de Projetos - Logística e Cadeia de Suprimentos - Análise de Dados e Indicadores
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS HTML - JavaScript - DevOps - Frameworks Django - Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Procurador 
+CONHECIMENTOS Direito Administrativo - Legislação Atualizada - Tecnologia e Direito Digital - Escrita Jurídica - Ética e Deontologia Jurídica - Jurisprudência - Código de Processo Penal
+

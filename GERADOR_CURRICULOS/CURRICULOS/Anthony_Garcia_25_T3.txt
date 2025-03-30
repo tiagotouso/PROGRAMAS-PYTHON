@@ -1,0 +1,59 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Supervisor Administrativo 
+CONHECIMENTOS Marketing e Vendas
+Análise de Dados e Indicadores
+Negociação e Tomada de Decisão
+Gestão da Qualidade
+Business Intelligence (BI)
+Logística e Cadeia de Suprimentos
+Direito Empresarial
+Ética e Responsabilidade Corporativa
+Planejamento Estratégico
+Administração Pública
+Gestão de Pessoas
+Contabilidade Empresarial
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Desenvolvedor Full Stack 
+CONHECIMENTOS Git/GitHub
+DevOps
+Frameworks React
+NoSQL
+Algoritmos e Estruturas de Dados
+APIs REST
+Frameworks Flask
+SQL
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Anthony Garcia 
+IDADE 
+25
+EMAIL 
+costelapaulo@example.com 
+CIDADE 
+Araújo
+ENDEREÇO 
+Loteamento Maria Eduarda Cunha, 479
+Lorena
+60903-144 Lima da Prata / SE
+ 
+HABILIDADES
+
+Empático
+Responsável
+Resiliente
+Participativo
+Educado
+ 

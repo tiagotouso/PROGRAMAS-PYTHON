@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Samuel Pinto 
+IDADE: 35
+EMAIL: cavalcantemaysa@example.org 
+CIDADE: Viana
+ENDEREÇO: Rodovia de Caldeira, 63
+Novo Tupi
+94785-830 Barbosa / PB
+ 
+HABILIDADES
+
+Adaptável - Colaborativo - Focado - Criativo - Participativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Sistemas 
+CONHECIMENTOS Cloud Computing - Metodologias Ágeis Kanban - JavaScript - CSS - Docker/Kubernetes - Testes Automatizados - Segurança da Informação - Frameworks React - HTML - NoSQL - APIs REST - Python - Git/GitHub - Frameworks Django - SQL - DevOps
+

@@ -1,0 +1,75 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Srta. Alana Garcia 
+IDADE 
+45
+EMAIL 
+xsilveira@example.com 
+CIDADE 
+Mendes
+ENDEREÇO 
+Vereda Silveira, 61
+Barroca
+45690798 Carvalho de Novais / RJ
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Advogado Civil 
+CONHECIMENTOS Negociação e Mediação
+Direito Administrativo
+Direito Tributário
+Oratória e Argumentação Jurídica
+Direito Ambiental
+Gestão de Escritório de Advocacia
+Direito Civil
+Direito Empresarial
+Direito Trabalhista
+Código de Processo Penal
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Arquiteto de Soluções 
+CONHECIMENTOS JavaScript
+Segurança da Informação
+Algoritmos e Estruturas de Dados
+SQL
+HTML
+Frameworks Flask
+Git/GitHub
+Paradigmas de Programação
+NoSQL
+Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Arquiteto de Software 
+CONHECIMENTOS Frameworks Flask
+APIs REST
+Python
+Metodologias Ágeis Kanban
+Paradigmas de Programação
+Testes Automatizados
+Docker/Kubernetes
+Segurança da Informação
+HTML
+Git/GitHub
+SQL
+
+ 
+HABILIDADES
+
+Liderança
+Focado
+Organizado
+Criativo
+Proativo
+Pontual

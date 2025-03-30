@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Gael Nogueira 
+IDADE: 60
+EMAIL: urezende@example.net 
+CIDADE: Sousa do Campo
+ENDEREÇO: Lago Sampaio, 9
+Bonsucesso
+07829-316 da Cunha / CE
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Paradigmas de Programação - Frameworks React - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - Docker/Kubernetes - HTML - DevOps - SQL - Python - Frameworks Flask - Segurança da Informação - CSS - Frameworks Django - Testes Automatizados - Metodologias Ágeis Scrum - Cloud Computing
+
+ 
+HABILIDADES
+
+Trabalho em equipe - Responsável - Resiliente - Adaptável - Colaborativo - Pontual - Educado - Participativo - Proativo - Organizado - Focado - Criativo - Liderança - Empático - Comunicativo

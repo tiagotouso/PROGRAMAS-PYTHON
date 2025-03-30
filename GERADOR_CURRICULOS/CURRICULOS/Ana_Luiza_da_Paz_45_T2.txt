@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Ana Luiza da Paz 
+IDADE: 45
+EMAIL: da-cruzjosue@example.com 
+CIDADE: da Mota de Fogaça
+ENDEREÇO: Fazenda de da Costa, 46
+Barão Homem De Melo 1ª Seção
+70977885 Teixeira / AL
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS NoSQL - Docker/Kubernetes - Metodologias Ágeis Kanban - Algoritmos e Estruturas de Dados - Cloud Computing - JavaScript - Frameworks Flask - Metodologias Ágeis Scrum - Segurança da Informação
+
+ 
+HABILIDADES
+
+Organizado - Trabalho em equipe - Pontual - Proativo - Colaborativo - Focado

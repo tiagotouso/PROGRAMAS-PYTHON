@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Mariana Almeida 
+IDADE: 25
+EMAIL: da-rochalara@example.net 
+CIDADE: Cassiano
+ENDEREÇO: Colônia de Rezende, 6
+Vila Coqueiral
+36851-267 Mendes / PA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Desenvolvedor Frontend 
+CONHECIMENTOS Testes Automatizados - HTML - Frameworks Django - Segurança da Informação - Algoritmos e Estruturas de Dados - Docker/Kubernetes - NoSQL - Frameworks Flask - APIs REST - Metodologias Ágeis Scrum - Cloud Computing - SQL - Frameworks React - JavaScript - Metodologias Ágeis Kanban - CSS - Python - Paradigmas de Programação - DevOps
+
+ 
+HABILIDADES
+
+Adaptável - Focado - Criativo - Responsável - Participativo - Comunicativo - Organizado - Colaborativo - Educado - Proativo - Pontual - Resiliente - Trabalho em equipe - Empático - Liderança

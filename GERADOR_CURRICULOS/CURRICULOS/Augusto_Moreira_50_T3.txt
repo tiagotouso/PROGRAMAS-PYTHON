@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 24 anos 
+CARGO: Especialista em Inteligência Artificial 
+CONHECIMENTOS Git/GitHub - DevOps - CSS - APIs REST - Paradigmas de Programação - Frameworks React - Segurança da Informação - Algoritmos e Estruturas de Dados - Frameworks Flask - SQL - JavaScript
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Augusto Moreira 
+IDADE: 50
+EMAIL: leo32@example.org 
+CIDADE: Ribeiro de da Paz
+ENDEREÇO: Aeroporto de da Mata, 99
+Ventosa
+22740028 da Cunha / SP
+ 
+HABILIDADES
+
+Criativo - Comunicativo - Resiliente - Trabalho em equipe - Pontual - Responsável - Participativo - Liderança - Educado
+ 

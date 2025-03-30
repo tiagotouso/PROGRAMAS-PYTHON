@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Diretor Administrativo 
+CONHECIMENTOS Negociação e Tomada de Decisão - Gestão da Qualidade - Customer Success e Experiência do Cliente - Compliance e Governança Corporativa - Liderança e Gestão de Equipes - Gestão de Projetos - Business Intelligence (BI) - Gestão Financeira - Inovação e Transformação Digital - Ética e Responsabilidade Corporativa - Planejamento Estratégico - Metodologias Ágeis Kanban - Direito Empresarial - Metodologias Ágeis Scrum - Contabilidade Empresarial
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS Segurança da Informação - CSS - Testes Automatizados - Git/GitHub - Frameworks Flask - Algoritmos e Estruturas de Dados - Frameworks React - NoSQL
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Levi Cavalcante 
+IDADE: 60
+EMAIL: olivianascimento@example.net 
+CIDADE: Moraes
+ENDEREÇO: Setor Mirella Lima, 80
+Liberdade
+82037141 Rios da Prata / ES
+ 
+HABILIDADES
+
+Comunicativo - Resiliente - Pontual - Adaptável - Liderança - Participativo - Criativo
+ 

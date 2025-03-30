@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Miguel Melo 
+IDADE: 45
+EMAIL: ana-laura06@example.com 
+CIDADE: Duarte
+ENDEREÇO: Favela Bella Marques, 7
+Vila Aeroporto
+84721-520 Campos / PR
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Especialista em Cibersegurança 
+CONHECIMENTOS HTML - Algoritmos e Estruturas de Dados - NoSQL - Frameworks Django - JavaScript - Cloud Computing - SQL - Docker/Kubernetes - Metodologias Ágeis Scrum - APIs REST - Metodologias Ágeis Kanban - CSS - Frameworks React - Frameworks Flask
+
+ 
+HABILIDADES
+
+Educado - Colaborativo - Trabalho em equipe - Organizado - Resiliente - Comunicativo

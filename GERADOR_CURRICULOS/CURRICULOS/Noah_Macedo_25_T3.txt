@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS Metodologias Ágeis Scrum - JavaScript - Paradigmas de Programação - Frameworks React - HTML - SQL - Frameworks Django
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Especialista em Cibersegurança 
+CONHECIMENTOS JavaScript - Frameworks React - Testes Automatizados - Frameworks Flask - SQL - Metodologias Ágeis Scrum - NoSQL - Segurança da Informação - Metodologias Ágeis Kanban - APIs REST - Git/GitHub - Paradigmas de Programação - Docker/Kubernetes - Cloud Computing - HTML - Frameworks Django - Algoritmos e Estruturas de Dados - Python - DevOps - CSS
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Noah Macedo 
+IDADE: 25
+EMAIL: xda-rosa@example.org 
+CIDADE: Guerra
+ENDEREÇO: Viela Valentim Pinto, 10
+Conjunto Califórnia Ii
+15177-018 Macedo de Pimenta / SC
+ 
+HABILIDADES
+
+Empático - Organizado - Trabalho em equipe - Adaptável - Criativo - Liderança - Colaborativo - Educado - Resiliente - Participativo
+ 

@@ -1,0 +1,56 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sra. Lorena Gomes 
+IDADE 
+25
+EMAIL 
+nviana@example.org 
+CIDADE 
+Pinto
+ENDEREÇO 
+Residencial de Borges
+Mariano De Abreu
+44162-220 Gomes / MA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista de Business Intelligence (BI) 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+Python
+Frameworks Django
+Metodologias Ágeis Kanban
+DevOps
+CSS
+Docker/Kubernetes
+HTML
+APIs REST
+Frameworks React
+NoSQL
+Metodologias Ágeis Scrum
+Testes Automatizados
+Segurança da Informação
+Cloud Computing
+Git/GitHub
+SQL
+JavaScript
+Frameworks Flask
+
+ 
+HABILIDADES
+
+Criativo
+Trabalho em equipe
+Participativo
+Proativo
+Focado
+Liderança
+Responsável
+Resiliente

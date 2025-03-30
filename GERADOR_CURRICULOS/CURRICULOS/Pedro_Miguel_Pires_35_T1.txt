@@ -1,0 +1,43 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Pedro Miguel Pires 
+IDADE 
+35
+EMAIL 
+jose-miguel20@example.net 
+CIDADE 
+Correia
+ENDEREÇO 
+Viela Cardoso
+Vista Alegre
+53848038 Nascimento / GO
+ 
+HABILIDADES
+
+Trabalho em equipe
+Comunicativo
+Pontual
+Proativo
+Criativo
+Resiliente
+Focado
+Empático
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Analista de Planejamento Estratégico 
+CONHECIMENTOS Gestão Financeira
+Gestão de Projetos
+Metodologias Ágeis Kanban
+Inovação e Transformação Digital
+Business Intelligence (BI)
+Gestão de Pessoas
+Metodologias Ágeis Scrum
+

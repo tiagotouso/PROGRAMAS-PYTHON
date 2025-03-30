@@ -1,0 +1,63 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Vitória Teixeira 
+IDADE 
+40
+EMAIL 
+rda-cruz@example.org 
+CIDADE 
+da Conceição do Sul
+ENDEREÇO 
+Viela Laura Campos, 804
+Vila Independencia 2ª Seção
+39812706 Jesus do Amparo / AC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS Git/GitHub
+Paradigmas de Programação
+APIs REST
+HTML
+Docker/Kubernetes
+Segurança da Informação
+DevOps
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Despachante Jurídico 
+CONHECIMENTOS Direito Administrativo
+Negociação e Mediação
+Código de Processo Civil
+Jurisprudência
+Direito Empresarial
+Gestão de Escritório de Advocacia
+Direito Penal
+Tecnologia e Direito Digital
+Atuação em Audiências
+Ética e Deontologia Jurídica
+Direito Ambiental
+Oratória e Argumentação Jurídica
+Direito Trabalhista
+Legislação Atualizada
+
+ 
+HABILIDADES
+
+Liderança
+Pontual
+Criativo
+Focado
+Trabalho em equipe
+Educado
+Adaptável
+Responsável
+Empático

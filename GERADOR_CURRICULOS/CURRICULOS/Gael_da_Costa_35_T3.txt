@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS Git/GitHub - CSS - JavaScript - APIs REST - Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban - HTML - SQL - Paradigmas de Programação - Frameworks Flask - Docker/Kubernetes - Frameworks React - DevOps
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Gael da Costa 
+IDADE: 35
+EMAIL: luananunes@example.org 
+CIDADE: Lima do Galho
+ENDEREÇO: Fazenda Augusto Correia, 58
+Itapoa
+40400-653 Santos da Praia / AL
+ 
+HABILIDADES
+
+Focado - Pontual - Organizado - Comunicativo - Responsável
+ 

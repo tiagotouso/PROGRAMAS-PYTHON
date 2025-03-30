@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS Paradigmas de Programação - Frameworks Django - NoSQL - Frameworks React - HTML - SQL - CSS - Metodologias Ágeis Scrum - Docker/Kubernetes - Testes Automatizados
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Daniela das Neves 
+IDADE: 30
+EMAIL: sabrinasilva@example.net 
+CIDADE: Guerra de da Rocha
+ENDEREÇO: Parque de Moreira, 177
+Aarão Reis
+18174-820 Cassiano Alegre / MT
+ 
+HABILIDADES
+
+Participativo - Liderança - Pontual - Colaborativo - Trabalho em equipe - Focado - Resiliente - Adaptável - Comunicativo - Criativo - Empático - Educado - Organizado
+ 

@@ -1,0 +1,46 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+João Vitor Nogueira 
+IDADE 
+40
+EMAIL 
+maria-juliada-paz@example.org 
+CIDADE 
+Silva do Oeste
+ENDEREÇO 
+Colônia de Pastor, 20
+Vila Nova Gameleira 2ª Seção
+07548574 Brito / PB
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS Testes Automatizados
+Segurança da Informação
+Frameworks Flask
+CSS
+DevOps
+Frameworks Django
+Git/GitHub
+
+ 
+HABILIDADES
+
+Criativo
+Empático
+Pontual
+Liderança
+Organizado
+Educado
+Participativo
+Proativo
+Trabalho em equipe
+Adaptável
+Resiliente

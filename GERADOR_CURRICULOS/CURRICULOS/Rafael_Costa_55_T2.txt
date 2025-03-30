@@ -1,0 +1,78 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Rafael Costa 
+IDADE 
+55
+EMAIL 
+isabellasampaio@example.org 
+CIDADE 
+Martins
+ENDEREÇO 
+Favela Danilo Peixoto
+São João
+19855-834 Caldeira / RJ
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Gerente Administrativo 
+CONHECIMENTOS Compliance e Governança Corporativa
+Análise de Dados e Indicadores
+Inovação e Transformação Digital
+Gestão de Projetos
+Metodologias Ágeis Kanban
+Administração Pública
+Gestão Financeira
+Liderança e Gestão de Equipes
+Gestão da Qualidade
+Logística e Cadeia de Suprimentos
+Gestão de Pessoas
+Customer Success e Experiência do Cliente
+Metodologias Ágeis Scrum
+Planejamento Estratégico
+Marketing e Vendas
+Negociação e Tomada de Decisão
+Contabilidade Empresarial
+Ética e Responsabilidade Corporativa
+Direito Empresarial
+Business Intelligence (BI)
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Gerente de Operações 
+CONHECIMENTOS Compliance e Governança Corporativa
+Gestão Financeira
+Empreendedorismo
+Marketing e Vendas
+Metodologias Ágeis Scrum
+Administração Pública
+Gestão da Qualidade
+Logística e Cadeia de Suprimentos
+Inovação e Transformação Digital
+Liderança e Gestão de Equipes
+Análise de Dados e Indicadores
+Business Intelligence (BI)
+Direito Empresarial
+Gestão de Pessoas
+Negociação e Tomada de Decisão
+Ética e Responsabilidade Corporativa
+Contabilidade Empresarial
+Gestão de Projetos
+Customer Success e Experiência do Cliente
+Metodologias Ágeis Kanban
+
+ 
+HABILIDADES
+
+Educado
+Pontual
+Empático
+Colaborativo
+Organizado

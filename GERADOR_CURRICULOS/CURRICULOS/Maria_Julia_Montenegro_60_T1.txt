@@ -1,0 +1,66 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Julia Montenegro 
+IDADE 
+60
+EMAIL 
+bcavalcante@example.com 
+CIDADE 
+Ribeiro
+ENDEREÇO 
+Parque João Miguel Farias, 17
+Cruzeiro
+27790-485 da Conceição / TO
+ 
+HABILIDADES
+
+Adaptável
+Empático
+Responsável
+Educado
+Liderança
+Proativo
+Focado
+Organizado
+Participativo
+Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Tabelião 
+CONHECIMENTOS Escrita Jurídica
+Elaboração de Contratos
+Direito Penal
+Direito Civil
+Jurisprudência
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Engenheiro de Machine Learning 
+CONHECIMENTOS DevOps
+Docker/Kubernetes
+JavaScript
+Frameworks Django
+Python
+Paradigmas de Programação
+Testes Automatizados
+Metodologias Ágeis Kanban
+NoSQL
+CSS
+Metodologias Ágeis Scrum
+Frameworks Flask
+HTML
+Segurança da Informação
+APIs REST
+SQL
+Git/GitHub
+Frameworks React
+

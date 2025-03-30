@@ -1,0 +1,74 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Miguel Albuquerque 
+IDADE 
+40
+EMAIL 
+araujokevin@example.com 
+CIDADE 
+Sousa do Norte
+ENDEREÇO 
+Aeroporto Eloá Pacheco, 943
+Cardoso
+20571-136 Porto / AC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS Metodologias Ágeis Scrum
+Testes Automatizados
+Paradigmas de Programação
+APIs REST
+JavaScript
+CSS
+Frameworks React
+Python
+HTML
+NoSQL
+Cloud Computing
+Git/GitHub
+Frameworks Django
+Segurança da Informação
+SQL
+Algoritmos e Estruturas de Dados
+Docker/Kubernetes
+Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Delegado de Polícia 
+CONHECIMENTOS Gestão de Escritório de Advocacia
+Código de Processo Civil
+Tecnologia e Direito Digital
+Negociação e Mediação
+Legislação Atualizada
+Escrita Jurídica
+Direito Ambiental
+Direito Constitucional
+
+ 
+HABILIDADES
+
+Educado
+Empático
+Resiliente
+Participativo
+Adaptável
+Organizado
+Focado
+Responsável
+Trabalho em equipe
+Pontual
+Proativo
+Liderança
+Colaborativo
+Comunicativo
+Criativo

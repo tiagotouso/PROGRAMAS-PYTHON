@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Cloud Computing - Paradigmas de Programação - Frameworks Flask - NoSQL - APIs REST - Metodologias Ágeis Scrum - SQL - Segurança da Informação - HTML - Frameworks React - JavaScript - Git/GitHub - Testes Automatizados - Frameworks Django - CSS
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Analista de Compras 
+CONHECIMENTOS Gestão Financeira - Customer Success e Experiência do Cliente - Metodologias Ágeis Kanban - Liderança e Gestão de Equipes - Análise de Dados e Indicadores - Metodologias Ágeis Scrum - Ética e Responsabilidade Corporativa - Empreendedorismo - Marketing e Vendas - Negociação e Tomada de Decisão - Planejamento Estratégico - Business Intelligence (BI) - Gestão da Qualidade
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Ana Viana 
+IDADE: 60
+EMAIL: araujosamuel@example.org 
+CIDADE: Pires
+ENDEREÇO: Condomínio da Cruz, 5
+Vila Maloca
+99798-279 Vargas de Novais / AC
+ 
+HABILIDADES
+
+Trabalho em equipe - Pontual - Criativo - Resiliente - Focado - Adaptável - Proativo - Educado - Organizado
+ 

@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS Frameworks Flask - Cloud Computing - Frameworks React - HTML - SQL - Metodologias Ágeis Scrum - Paradigmas de Programação
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Processos 
+CONHECIMENTOS Business Intelligence (BI) - Direito Empresarial - Metodologias Ágeis Scrum - Liderança e Gestão de Equipes - Ética e Responsabilidade Corporativa - Gestão da Qualidade - Compliance e Governança Corporativa - Empreendedorismo - Logística e Cadeia de Suprimentos - Gestão de Projetos - Gestão Financeira - Planejamento Estratégico - Metodologias Ágeis Kanban - Gestão de Pessoas - Inovação e Transformação Digital - Análise de Dados e Indicadores - Marketing e Vendas - Administração Pública - Contabilidade Empresarial
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Perito Judicial 
+CONHECIMENTOS Direito Penal - Direito Constitucional - Direito Ambiental - Escrita Jurídica - Direito Civil - Ética e Deontologia Jurídica - Código de Processo Penal - Elaboração de Contratos - Tecnologia e Direito Digital - Direito Tributário - Jurisprudência - Atuação em Audiências - Direito Empresarial - Direito Administrativo
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Sra. Maria Fernanda Castro 
+IDADE: 40
+EMAIL: nicolas57@example.org 
+CIDADE: Cardoso Verde
+ENDEREÇO: Jardim de Silveira, 30
+Santa Tereza
+00312689 Câmara de Vasconcelos / AL
+ 
+HABILIDADES
+
+Colaborativo - Trabalho em equipe - Responsável - Proativo - Focado - Pontual - Criativo - Organizado - Comunicativo - Liderança - Adaptável - Educado - Resiliente
+ 

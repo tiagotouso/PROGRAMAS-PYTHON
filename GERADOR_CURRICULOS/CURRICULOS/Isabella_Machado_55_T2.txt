@@ -1,0 +1,114 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Isabella Machado 
+IDADE 
+55
+EMAIL 
+matheus90@example.com 
+CIDADE 
+Pastor
+ENDEREÇO 
+Largo Souza, 68
+Belvedere
+88777-107 Barbosa Paulista / MT
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Dados 
+CONHECIMENTOS APIs REST
+Python
+SQL
+NoSQL
+Paradigmas de Programação
+Frameworks Django
+Docker/Kubernetes
+Cloud Computing
+Segurança da Informação
+Metodologias Ágeis Kanban
+Frameworks Flask
+Git/GitHub
+Metodologias Ágeis Scrum
+Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS CSS
+Metodologias Ágeis Kanban
+Python
+NoSQL
+Docker/Kubernetes
+Frameworks React
+Frameworks Django
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Tester/QA (Quality Assurance) 
+CONHECIMENTOS Frameworks React
+Docker/Kubernetes
+Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+HTML
+Frameworks Django
+Frameworks Flask
+Segurança da Informação
+CSS
+Testes Automatizados
+NoSQL
+Metodologias Ágeis Kanban
+APIs REST
+Python
+Git/GitHub
+SQL
+Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Analista de Recursos Humanos 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Administração Pública
+Direito Empresarial
+Planejamento Estratégico
+Empreendedorismo
+Inovação e Transformação Digital
+Gestão da Qualidade
+Gestão de Pessoas
+Customer Success e Experiência do Cliente
+Ética e Responsabilidade Corporativa
+Gestão de Projetos
+Logística e Cadeia de Suprimentos
+Metodologias Ágeis Scrum
+Marketing e Vendas
+Contabilidade Empresarial
+Business Intelligence (BI)
+Liderança e Gestão de Equipes
+Compliance e Governança Corporativa
+Análise de Dados e Indicadores
+
+ 
+HABILIDADES
+
+Proativo
+Trabalho em equipe
+Focado
+Empático
+Adaptável
+Resiliente
+Pontual
+Colaborativo
+Responsável
+Liderança
+Organizado
+Educado
+Comunicativo
+Participativo

@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS JavaScript - Frameworks Django - NoSQL - Git/GitHub - Paradigmas de Programação - Metodologias Ágeis Scrum - SQL - Algoritmos e Estruturas de Dados - CSS - Segurança da Informação - Python - Frameworks React
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Gerente de Projetos 
+CONHECIMENTOS Marketing e Vendas - Empreendedorismo - Metodologias Ágeis Scrum - Gestão Financeira - Análise de Dados e Indicadores - Gestão de Projetos - Customer Success e Experiência do Cliente - Metodologias Ágeis Kanban - Logística e Cadeia de Suprimentos - Ética e Responsabilidade Corporativa - Contabilidade Empresarial - Business Intelligence (BI) - Planejamento Estratégico - Gestão da Qualidade - Administração Pública
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Vinicius Macedo 
+IDADE: 30
+EMAIL: ecaldeira@example.net 
+CIDADE: Monteiro da Mata
+ENDEREÇO: Trecho Ribeiro, 53
+Vila Piratininga Venda Nova
+63109280 Vargas / PA
+ 
+HABILIDADES
+
+Liderança - Trabalho em equipe - Colaborativo - Adaptável - Organizado - Focado - Participativo - Responsável - Proativo - Educado
+ 

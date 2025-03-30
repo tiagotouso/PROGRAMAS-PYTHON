@@ -1,0 +1,65 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Advogado de Família 
+CONHECIMENTOS Negociação e Mediação
+Gestão de Escritório de Advocacia
+Direito Constitucional
+Tecnologia e Direito Digital
+Atuação em Audiências
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS Python
+NoSQL
+Docker/Kubernetes
+Cloud Computing
+Metodologias Ágeis Scrum
+DevOps
+CSS
+SQL
+Frameworks React
+HTML
+Frameworks Flask
+Algoritmos e Estruturas de Dados
+Segurança da Informação
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Ana Cecília Marques 
+IDADE 
+35
+EMAIL 
+da-pazsamuel@example.com 
+CIDADE 
+Fonseca
+ENDEREÇO 
+Vila de Viana, 72
+Conjunto Califórnia I
+91997075 Fernandes de Viana / PI
+ 
+HABILIDADES
+
+Adaptável
+Criativo
+Responsável
+Trabalho em equipe
+Empático
+Proativo
+Pontual
+Resiliente
+Focado
+Participativo
+Liderança
+Colaborativo
+Comunicativo
+ 

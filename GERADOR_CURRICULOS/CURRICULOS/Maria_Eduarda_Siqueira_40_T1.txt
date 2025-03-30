@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Eduarda Siqueira 
+IDADE: 40
+EMAIL: omartins@example.org 
+CIDADE: Montenegro de Freitas
+ENDEREÇO: Via Novais, 150
+Baleia
+52289-469 Fogaça do Amparo / RS
+ 
+HABILIDADES
+
+Liderança - Focado - Trabalho em equipe - Responsável - Adaptável - Colaborativo - Resiliente - Participativo - Educado - Pontual - Proativo - Comunicativo - Empático - Organizado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS HTML - Paradigmas de Programação - Frameworks Flask - Git/GitHub - NoSQL - DevOps - Frameworks Django - CSS - SQL - Frameworks React
+

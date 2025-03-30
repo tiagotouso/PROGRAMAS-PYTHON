@@ -1,0 +1,50 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS APIs REST
+Cloud Computing
+Paradigmas de Programação
+Git/GitHub
+Algoritmos e Estruturas de Dados
+SQL
+CSS
+Metodologias Ágeis Scrum
+Python
+Segurança da Informação
+JavaScript
+Frameworks Django
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Fernanda Duarte 
+IDADE 
+30
+EMAIL 
+vianaisadora@example.net 
+CIDADE 
+Pinto
+ENDEREÇO 
+Colônia de Almeida, 11
+Pirineus
+58933-833 Guerra Verde / CE
+ 
+HABILIDADES
+
+Empático
+Focado
+Trabalho em equipe
+Pontual
+Colaborativo
+Criativo
+Resiliente
+Proativo
+Responsável
+ 

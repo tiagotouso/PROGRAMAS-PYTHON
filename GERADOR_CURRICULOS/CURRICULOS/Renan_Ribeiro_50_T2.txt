@@ -1,0 +1,41 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Renan Ribeiro 
+IDADE 
+50
+EMAIL 
+fsilva@example.com 
+CIDADE 
+Montenegro
+ENDEREÇO 
+Residencial de da Mata
+Coqueiros
+88219-176 Mendonça de Minas / RJ
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Dados 
+CONHECIMENTOS Frameworks Flask
+Frameworks Django
+Testes Automatizados
+Git/GitHub
+Docker/Kubernetes
+Metodologias Ágeis Scrum
+CSS
+Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Educado
+Colaborativo
+Responsável
+Criativo
+Resiliente

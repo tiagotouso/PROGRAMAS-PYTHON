@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Arthur Gabriel Andrade 
+IDADE: 50
+EMAIL: maite59@example.org 
+CIDADE: Dias
+ENDEREÇO: Trecho de da Conceição
+Vila Inestan
+75768-979 Campos do Sul / PI
+ 
+HABILIDADES
+
+Participativo - Comunicativo - Educado - Adaptável - Criativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Tabelião 
+CONHECIMENTOS Elaboração de Contratos - Direito Penal - Direito Ambiental - Gestão de Escritório de Advocacia - Direito Empresarial - Tecnologia e Direito Digital - Negociação e Mediação - Legislação Atualizada - Direito Trabalhista - Código de Processo Civil - Escrita Jurídica - Direito Civil - Direito Administrativo - Direito Constitucional
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS Frameworks React - NoSQL - Segurança da Informação - Paradigmas de Programação - Frameworks Django - JavaScript - Cloud Computing - Docker/Kubernetes - SQL - APIs REST - Metodologias Ágeis Scrum - Git/GitHub - Python - DevOps
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Administrador de Redes 
+CONHECIMENTOS Docker/Kubernetes - Git/GitHub - Frameworks Django - Paradigmas de Programação - Frameworks Flask - CSS - Testes Automatizados - APIs REST - Metodologias Ágeis Scrum - Segurança da Informação - NoSQL - DevOps - HTML - SQL - Metodologias Ágeis Kanban - Frameworks React - Algoritmos e Estruturas de Dados - Python - JavaScript
+

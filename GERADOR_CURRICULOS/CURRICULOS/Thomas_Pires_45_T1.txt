@@ -1,0 +1,55 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Thomas Pires 
+IDADE 
+45
+EMAIL 
+gael-henrique38@example.org 
+CIDADE 
+Fogaça de Campos
+ENDEREÇO 
+Sítio Freitas, 99
+Vila Betânia
+57384770 Araújo / MA
+ 
+HABILIDADES
+
+Empático
+Colaborativo
+Criativo
+Educado
+Focado
+Participativo
+Trabalho em equipe
+Pontual
+Proativo
+Responsável
+Comunicativo
+Resiliente
+Adaptável
+Organizado
+Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+22 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS Segurança da Informação
+Testes Automatizados
+Frameworks Flask
+JavaScript
+Frameworks React
+Algoritmos e Estruturas de Dados
+DevOps
+HTML
+Cloud Computing
+CSS
+APIs REST
+Git/GitHub
+

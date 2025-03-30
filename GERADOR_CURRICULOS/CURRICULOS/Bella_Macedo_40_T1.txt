@@ -1,0 +1,82 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Bella Macedo 
+IDADE 
+40
+EMAIL 
+luara39@example.com 
+CIDADE 
+Vargas de Goiás
+ENDEREÇO 
+Parque Matheus Mendes, 4
+Caiçaras
+47243-642 Araújo de da Luz / ES
+ 
+HABILIDADES
+
+Adaptável
+Resiliente
+Responsável
+Organizado
+Empático
+Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Despachante Jurídico 
+CONHECIMENTOS Legislação Atualizada
+Direito Civil
+Elaboração de Contratos
+Jurisprudência
+Escrita Jurídica
+Gestão de Escritório de Advocacia
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Qualidade 
+CONHECIMENTOS Business Intelligence (BI)
+Compliance e Governança Corporativa
+Marketing e Vendas
+Negociação e Tomada de Decisão
+Planejamento Estratégico
+Direito Empresarial
+Metodologias Ágeis Scrum
+Gestão de Projetos
+Gestão de Pessoas
+Inovação e Transformação Digital
+Administração Pública
+Ética e Responsabilidade Corporativa
+Empreendedorismo
+Análise de Dados e Indicadores
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS Docker/Kubernetes
+Algoritmos e Estruturas de Dados
+JavaScript
+Segurança da Informação
+Frameworks Flask
+SQL
+APIs REST
+Metodologias Ágeis Kanban
+Git/GitHub
+Frameworks Django
+CSS
+Metodologias Ágeis Scrum
+Cloud Computing
+DevOps
+Testes Automatizados
+Python
+HTML
+NoSQL
+

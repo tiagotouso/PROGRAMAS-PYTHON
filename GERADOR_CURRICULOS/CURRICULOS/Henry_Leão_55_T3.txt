@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Analista de Sistemas 
+CONHECIMENTOS DevOps - Testes Automatizados - NoSQL - APIs REST - Cloud Computing - Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Tabelião 
+CONHECIMENTOS Direito Ambiental - Direito Administrativo - Oratória e Argumentação Jurídica - Jurisprudência - Direito Empresarial - Tecnologia e Direito Digital - Código de Processo Civil - Elaboração de Contratos - Atuação em Audiências - Código de Processo Penal - Negociação e Mediação - Direito Civil - Direito Trabalhista
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Henry Leão 
+IDADE: 55
+EMAIL: ravy58@example.com 
+CIDADE: Fogaça
+ENDEREÇO: Alameda Júlia Oliveira, 43
+Serra
+59955-307 Barros do Norte / BA
+ 
+HABILIDADES
+
+Criativo - Liderança - Adaptável - Trabalho em equipe - Pontual - Participativo - Responsável - Resiliente - Organizado
+ 

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Ana Vitória Castro 
+IDADE: 40
+EMAIL: thiago42@example.org 
+CIDADE: Barbosa
+ENDEREÇO: Campo Fernanda Souza, 262
+Vila Antena
+23039-862 Mendonça / PR
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Frameworks Django - Docker/Kubernetes - Segurança da Informação - CSS - Metodologias Ágeis Scrum - SQL - Cloud Computing
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Segurança da Informação 
+CONHECIMENTOS Python - Metodologias Ágeis Kanban - NoSQL - Git/GitHub - Frameworks Flask - Metodologias Ágeis Scrum - Paradigmas de Programação - JavaScript - APIs REST - SQL - HTML
+
+ 
+HABILIDADES
+
+Resiliente - Empático - Adaptável - Participativo - Proativo - Criativo - Responsável - Educado - Organizado - Pontual - Trabalho em equipe

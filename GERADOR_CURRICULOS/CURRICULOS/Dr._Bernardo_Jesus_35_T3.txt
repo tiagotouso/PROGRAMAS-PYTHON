@@ -1,0 +1,61 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS Cloud Computing
+Frameworks Flask
+Metodologias Ágeis Kanban
+Python
+Paradigmas de Programação
+Frameworks Django
+CSS
+Frameworks React
+Testes Automatizados
+Metodologias Ágeis Scrum
+JavaScript
+DevOps
+Git/GitHub
+APIs REST
+Docker/Kubernetes
+Segurança da Informação
+HTML
+NoSQL
+SQL
+Algoritmos e Estruturas de Dados
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Bernardo Jesus 
+IDADE 
+35
+EMAIL 
+augusto66@example.com 
+CIDADE 
+Pimenta
+ENDEREÇO 
+Largo de Fonseca, 72
+Olaria
+82542-665 Rocha de da Mota / RJ
+ 
+HABILIDADES
+
+Empático
+Trabalho em equipe
+Liderança
+Participativo
+Organizado
+Proativo
+Adaptável
+Pontual
+Criativo
+Comunicativo
+Responsável
+Educado
+ 

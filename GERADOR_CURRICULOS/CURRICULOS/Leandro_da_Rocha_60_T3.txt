@@ -1,0 +1,36 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Administrador 
+CONHECIMENTOS Liderança e Gestão de Equipes - Planejamento Estratégico - Business Intelligence (BI) - Compliance e Governança Corporativa - Gestão de Pessoas - Negociação e Tomada de Decisão - Marketing e Vendas - Inovação e Transformação Digital - Contabilidade Empresarial - Análise de Dados e Indicadores - Empreendedorismo - Gestão Financeira - Customer Success e Experiência do Cliente - Administração Pública - Direito Empresarial - Gestão de Projetos - Gestão da Qualidade - Ética e Responsabilidade Corporativa - Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Advogado Público 
+CONHECIMENTOS Elaboração de Contratos - Código de Processo Civil - Direito Administrativo - Direito Empresarial - Jurisprudência - Direito Trabalhista
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Analista de Dados 
+CONHECIMENTOS Git/GitHub - Testes Automatizados - Docker/Kubernetes - Frameworks Flask - Python - Metodologias Ágeis Kanban - JavaScript - APIs REST - Metodologias Ágeis Scrum - Paradigmas de Programação - CSS - DevOps - Cloud Computing - Algoritmos e Estruturas de Dados - Frameworks React - Segurança da Informação - SQL - Frameworks Django
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Advogado Previdenciário 
+CONHECIMENTOS Legislação Atualizada - Escrita Jurídica - Elaboração de Contratos - Direito Penal - Direito Constitucional - Atuação em Audiências - Direito Civil - Direito Trabalhista - Direito Administrativo - Direito Ambiental - Direito Empresarial
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Leandro da Rocha 
+IDADE: 60
+EMAIL: vitoriarezende@example.net 
+CIDADE: Silveira
+ENDEREÇO: Recanto de Cunha, 7
+Marieta 3ª Seção
+73959-533 Câmara / SC
+ 
+HABILIDADES
+
+Educado - Responsável - Criativo - Empático - Liderança - Trabalho em equipe
+ 

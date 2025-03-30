@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Carlos Eduardo Jesus 
+IDADE: 30
+EMAIL: miguelmarques@example.org 
+CIDADE: da Rocha
+ENDEREÇO: Rodovia Guerra, 729
+Novo Ouro Preto
+06601-701 Silva dos Dourados / SP
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Advogado de Família 
+CONHECIMENTOS Negociação e Mediação - Elaboração de Contratos - Jurisprudência - Direito Trabalhista - Atuação em Audiências - Direito Administrativo - Direito Tributário - Código de Processo Civil - Gestão de Escritório de Advocacia - Direito Penal - Escrita Jurídica - Ética e Deontologia Jurídica - Legislação Atualizada - Tecnologia e Direito Digital
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Site Reliability Engineer (SRE) 
+CONHECIMENTOS Metodologias Ágeis Kanban - Frameworks Django - Metodologias Ágeis Scrum - Python - NoSQL - Algoritmos e Estruturas de Dados - Testes Automatizados - SQL - Paradigmas de Programação - JavaScript - Frameworks Flask - APIs REST - Cloud Computing - HTML - DevOps - Segurança da Informação - Frameworks React - Git/GitHub - Docker/Kubernetes - CSS
+
+ 
+HABILIDADES
+
+Comunicativo - Liderança - Criativo - Participativo - Pontual - Empático - Adaptável - Proativo - Organizado - Responsável - Educado - Colaborativo - Focado

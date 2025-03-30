@@ -1,0 +1,51 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Srta. Giovanna Brito 
+IDADE 
+60
+EMAIL 
+ana-carolinada-mata@example.net 
+CIDADE 
+Nunes de Goiás
+ENDEREÇO 
+Área Matteo Viana, 24
+Mirtes
+09766704 Guerra da Praia / AC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Administrador de Redes 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Testes Automatizados
+HTML
+Frameworks Django
+Python
+DevOps
+NoSQL
+APIs REST
+Metodologias Ágeis Scrum
+Algoritmos e Estruturas de Dados
+Frameworks React
+Cloud Computing
+JavaScript
+Segurança da Informação
+Docker/Kubernetes
+CSS
+Paradigmas de Programação
+SQL
+
+ 
+HABILIDADES
+
+Organizado
+Resiliente
+Trabalho em equipe
+Pontual
+Empático

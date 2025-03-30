@@ -1,0 +1,91 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Processos 
+CONHECIMENTOS Liderança e Gestão de Equipes
+Customer Success e Experiência do Cliente
+Contabilidade Empresarial
+Gestão de Pessoas
+Negociação e Tomada de Decisão
+Gestão de Projetos
+Administração Pública
+Gestão Financeira
+Business Intelligence (BI)
+Gestão da Qualidade
+Marketing e Vendas
+Direito Empresarial
+Análise de Dados e Indicadores
+Metodologias Ágeis Kanban
+Inovação e Transformação Digital
+Logística e Cadeia de Suprimentos
+Empreendedorismo
+Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Tester/QA (Quality Assurance) 
+CONHECIMENTOS Cloud Computing
+Frameworks React
+Frameworks Flask
+SQL
+NoSQL
+APIs REST
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Consultor Jurídico 
+CONHECIMENTOS Direito Tributário
+Gestão de Escritório de Advocacia
+Direito Constitucional
+Legislação Atualizada
+Elaboração de Contratos
+Direito Ambiental
+Tecnologia e Direito Digital
+Jurisprudência
+Código de Processo Civil
+Negociação e Mediação
+Oratória e Argumentação Jurídica
+Direito Administrativo
+Direito Penal
+Escrita Jurídica
+Direito Empresarial
+Direito Civil
+Atuação em Audiências
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Marcelo Rodrigues 
+IDADE 
+50
+EMAIL 
+gcampos@example.net 
+CIDADE 
+Costa
+ENDEREÇO 
+Trecho Rafael Barros, 52
+João Alfredo
+66715661 Brito das Flores / AL
+ 
+HABILIDADES
+
+Empático
+Comunicativo
+Adaptável
+Responsável
+Resiliente
+Proativo
+Criativo
+Liderança
+Organizado
+Focado
+Educado
+ 

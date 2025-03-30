@@ -1,0 +1,58 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Isis Duarte 
+IDADE 
+35
+EMAIL 
+fpastor@example.org 
+CIDADE 
+Campos de Cirino
+ENDEREÇO 
+Travessa Farias, 2
+Lourdes
+67343-002 Vieira / RJ
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Gerente de TI 
+CONHECIMENTOS Segurança da Informação
+Paradigmas de Programação
+HTML
+SQL
+Git/GitHub
+Frameworks Django
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista Jurídico 
+CONHECIMENTOS Código de Processo Civil
+Legislação Atualizada
+Escrita Jurídica
+Tecnologia e Direito Digital
+Direito Constitucional
+Direito Civil
+Jurisprudência
+Direito Administrativo
+Direito Empresarial
+Gestão de Escritório de Advocacia
+Elaboração de Contratos
+Direito Penal
+
+ 
+HABILIDADES
+
+Resiliente
+Responsável
+Empático
+Pontual
+Organizado
+Educado

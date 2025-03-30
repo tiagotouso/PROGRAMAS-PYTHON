@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Alexia da Cunha 
+IDADE: 50
+EMAIL: correiabernardo@example.com 
+CIDADE: Aragão de Fogaça
+ENDEREÇO: Núcleo Mendes, 53
+Nossa Senhora Da Aparecida
+63750-441 Vargas / MS
+ 
+HABILIDADES
+
+Pontual - Trabalho em equipe - Colaborativo - Participativo - Criativo - Responsável - Proativo - Focado - Educado - Resiliente - Liderança - Empático - Adaptável - Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS SQL - Frameworks Django - Frameworks React - Cloud Computing - DevOps - Docker/Kubernetes
+

@@ -1,0 +1,98 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Gabriela Moreira 
+IDADE 
+50
+EMAIL 
+hrodrigues@example.org 
+CIDADE 
+Sá das Pedras
+ENDEREÇO 
+Setor Fogaça, 37
+Bonsucesso
+54685935 Cassiano / RJ
+ 
+HABILIDADES
+
+Criativo
+Empático
+Colaborativo
+Pontual
+Participativo
+Trabalho em equipe
+Liderança
+Educado
+Comunicativo
+Resiliente
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS Testes Automatizados
+Algoritmos e Estruturas de Dados
+Frameworks Flask
+HTML
+Metodologias Ágeis Kanban
+Cloud Computing
+CSS
+SQL
+Frameworks Django
+NoSQL
+JavaScript
+DevOps
+Metodologias Ágeis Scrum
+Frameworks React
+Segurança da Informação
+APIs REST
+Python
+Git/GitHub
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Oficial de Justiça 
+CONHECIMENTOS Elaboração de Contratos
+Negociação e Mediação
+Código de Processo Civil
+Oratória e Argumentação Jurídica
+Legislação Atualizada
+Gestão de Escritório de Advocacia
+Escrita Jurídica
+Código de Processo Penal
+Direito Trabalhista
+Tecnologia e Direito Digital
+Direito Constitucional
+Direito Civil
+Direito Empresarial
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS HTML
+Metodologias Ágeis Scrum
+Frameworks Django
+Docker/Kubernetes
+NoSQL
+CSS
+APIs REST
+Segurança da Informação
+Cloud Computing
+Frameworks Flask
+JavaScript
+Frameworks React
+DevOps
+Testes Automatizados
+Git/GitHub
+Paradigmas de Programação
+Metodologias Ágeis Kanban
+SQL
+Algoritmos e Estruturas de Dados
+

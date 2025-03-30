@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: João Pedro Duarte 
+IDADE: 40
+EMAIL: rafael43@example.org 
+CIDADE: Vasconcelos
+ENDEREÇO: Praia de Sales, 94
+Vitoria Da Conquista
+38658531 Ribeiro Verde / SC
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Analista de Planejamento Estratégico 
+CONHECIMENTOS Marketing e Vendas - Ética e Responsabilidade Corporativa - Administração Pública - Gestão Financeira - Customer Success e Experiência do Cliente - Empreendedorismo - Liderança e Gestão de Equipes - Análise de Dados e Indicadores - Gestão da Qualidade - Logística e Cadeia de Suprimentos - Compliance e Governança Corporativa - Business Intelligence (BI) - Gestão de Projetos - Contabilidade Empresarial - Inovação e Transformação Digital - Planejamento Estratégico - Direito Empresarial - Negociação e Tomada de Decisão
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Especialista em UX/UI 
+CONHECIMENTOS Docker/Kubernetes - Segurança da Informação - JavaScript - Testes Automatizados - NoSQL - CSS - Python
+
+ 
+HABILIDADES
+
+Resiliente - Organizado - Proativo - Trabalho em equipe - Comunicativo - Colaborativo - Participativo - Educado - Pontual

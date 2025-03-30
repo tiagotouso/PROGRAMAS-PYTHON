@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Despachante Jurídico 
+CONHECIMENTOS Direito Constitucional - Escrita Jurídica - Direito Administrativo - Elaboração de Contratos - Gestão de Escritório de Advocacia - Direito Trabalhista - Negociação e Mediação - Direito Civil - Código de Processo Penal - Direito Penal - Legislação Atualizada - Jurisprudência - Direito Ambiental - Direito Tributário - Atuação em Audiências - Tecnologia e Direito Digital - Direito Empresarial - Código de Processo Civil - Oratória e Argumentação Jurídica
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS Python - Segurança da Informação - APIs REST - Testes Automatizados - Frameworks Flask - Metodologias Ágeis Scrum - Paradigmas de Programação - Cloud Computing
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Lucca Nogueira 
+IDADE: 50
+EMAIL: aliciaborges@example.com 
+CIDADE: Machado da Mata
+ENDEREÇO: Passarela João Vitor Machado, 16
+Capitão Eduardo
+56009082 Araújo / RO
+ 
+HABILIDADES
+
+Liderança - Colaborativo - Pontual - Empático - Participativo - Educado - Proativo
+ 

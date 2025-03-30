@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Engenheiro de Cloud Computing 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - CSS - DevOps - HTML - SQL - Segurança da Informação - Testes Automatizados - Docker/Kubernetes - Git/GitHub - Frameworks React - Paradigmas de Programação - NoSQL - Metodologias Ágeis Kanban - Frameworks Flask - Metodologias Ágeis Scrum - Frameworks Django - Python - JavaScript - Cloud Computing - APIs REST
+
+TEMPO DE SERVIÇO: 28 anos 
+CARGO: Desenvolvedor Mobile 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban - Metodologias Ágeis Scrum - Git/GitHub - DevOps - Frameworks Django - HTML - Frameworks Flask - SQL
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Ana Liz Teixeira 
+IDADE: 60
+EMAIL: joao-lucas97@example.org 
+CIDADE: da Mata
+ENDEREÇO: Praia de Moreira, 44
+Boa Viagem
+97498-705 Lima / RO
+ 
+HABILIDADES
+
+Empático - Trabalho em equipe - Responsável - Resiliente - Liderança - Adaptável - Organizado - Educado
+ 

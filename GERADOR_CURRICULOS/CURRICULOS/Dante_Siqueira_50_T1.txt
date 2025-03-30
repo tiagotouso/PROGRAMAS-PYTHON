@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dante Siqueira 
+IDADE: 50
+EMAIL: ravi-lucca06@example.net 
+CIDADE: Garcia
+ENDEREÇO: Trevo de da Costa
+Ribeiro De Abreu
+65257559 Viana / SC
+ 
+HABILIDADES
+
+Educado - Organizado - Proativo - Colaborativo - Comunicativo - Focado - Participativo - Pontual - Adaptável - Resiliente - Liderança - Criativo - Responsável - Empático - Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Advogado Digital 
+CONHECIMENTOS Direito Penal - Direito Tributário - Direito Civil - Oratória e Argumentação Jurídica - Negociação e Mediação - Tecnologia e Direito Digital - Direito Constitucional - Direito Ambiental - Legislação Atualizada - Jurisprudência - Gestão de Escritório de Advocacia - Direito Empresarial - Direito Administrativo - Escrita Jurídica
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Dados 
+CONHECIMENTOS HTML - JavaScript - Metodologias Ágeis Scrum - DevOps - Frameworks React - Cloud Computing - Testes Automatizados - Metodologias Ágeis Kanban - SQL - APIs REST - Algoritmos e Estruturas de Dados - CSS - Git/GitHub - Segurança da Informação
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Advogado Civil 
+CONHECIMENTOS Negociação e Mediação - Direito Penal - Atuação em Audiências - Tecnologia e Direito Digital - Gestão de Escritório de Advocacia - Código de Processo Penal - Oratória e Argumentação Jurídica - Ética e Deontologia Jurídica - Código de Processo Civil - Jurisprudência - Direito Tributário - Direito Civil - Direito Trabalhista - Legislação Atualizada - Direito Constitucional - Direito Ambiental - Direito Empresarial - Escrita Jurídica
+

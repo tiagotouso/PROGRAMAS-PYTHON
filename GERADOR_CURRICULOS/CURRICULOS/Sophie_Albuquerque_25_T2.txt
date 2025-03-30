@@ -1,0 +1,48 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sophie Albuquerque 
+IDADE 
+25
+EMAIL 
+theo36@example.com 
+CIDADE 
+Andrade de Monteiro
+ENDEREÇO 
+Largo de Aparecida, 76
+Trevo
+90358-634 Moreira da Prata / AP
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Frameworks React
+SQL
+Python
+CSS
+NoSQL
+
+ 
+HABILIDADES
+
+Liderança
+Pontual
+Colaborativo
+Resiliente
+Criativo
+Trabalho em equipe
+Comunicativo
+Proativo
+Empático
+Participativo
+Educado
+Organizado
+Adaptável
+Focado

@@ -1,0 +1,47 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Luiz Fernando Pinto 
+IDADE 
+45
+EMAIL 
+vsousa@example.com 
+CIDADE 
+Siqueira
+ENDEREÇO 
+Viaduto de Albuquerque, 19
+Pindorama
+11526-440 Carvalho / MT
+ 
+HABILIDADES
+
+Criativo
+Organizado
+Participativo
+Resiliente
+Trabalho em equipe
+Focado
+Comunicativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+26 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS Frameworks Django
+SQL
+Metodologias Ágeis Kanban
+NoSQL
+APIs REST
+CSS
+HTML
+Frameworks Flask
+Frameworks React
+DevOps
+Python
+Metodologias Ágeis Scrum
+

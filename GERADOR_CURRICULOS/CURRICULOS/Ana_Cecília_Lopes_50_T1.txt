@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Ana Cecília Lopes 
+IDADE: 50
+EMAIL: mporto@example.com 
+CIDADE: Lima do Amparo
+ENDEREÇO: Campo Thomas Leão
+Nova Vista
+43027985 Cunha / AC
+ 
+HABILIDADES
+
+Comunicativo - Participativo - Focado - Organizado - Adaptável - Liderança - Criativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Analista de Dados 
+CONHECIMENTOS HTML - Testes Automatizados - DevOps - NoSQL - SQL - Segurança da Informação - Paradigmas de Programação - Python - Git/GitHub - CSS - Algoritmos e Estruturas de Dados - Frameworks Flask - Frameworks Django - APIs REST - Frameworks React - Cloud Computing - Metodologias Ágeis Scrum
+

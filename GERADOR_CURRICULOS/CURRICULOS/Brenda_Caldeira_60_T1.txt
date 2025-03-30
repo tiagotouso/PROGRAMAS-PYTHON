@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Brenda Caldeira 
+IDADE: 60
+EMAIL: zfarias@example.com 
+CIDADE: Sampaio
+ENDEREÇO: Sítio de Freitas
+Camponesa 2ª Seção
+16634-051 Vasconcelos do Norte / MS
+ 
+HABILIDADES
+
+Focado - Organizado - Educado - Criativo - Comunicativo - Trabalho em equipe - Resiliente - Colaborativo - Responsável - Empático - Liderança - Pontual - Proativo - Participativo - Adaptável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Gerente de TI 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Metodologias Ágeis Scrum - SQL - Cloud Computing - NoSQL - Frameworks React - Segurança da Informação - Frameworks Django - Docker/Kubernetes - Metodologias Ágeis Kanban - DevOps - Python - Frameworks Flask - JavaScript - APIs REST - Testes Automatizados
+

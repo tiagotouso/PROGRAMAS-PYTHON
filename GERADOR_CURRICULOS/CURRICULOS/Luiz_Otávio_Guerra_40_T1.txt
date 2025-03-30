@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Luiz Otávio Guerra 
+IDADE: 40
+EMAIL: lpacheco@example.org 
+CIDADE: Moreira de da Rosa
+ENDEREÇO: Recanto Alice Novais
+Laranjeiras
+67794546 Lima do Norte / AP
+ 
+HABILIDADES
+
+Trabalho em equipe - Comunicativo - Criativo - Empático - Adaptável - Colaborativo - Proativo - Responsável - Resiliente - Focado - Participativo - Pontual
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Analista de Suprimentos 
+CONHECIMENTOS Business Intelligence (BI) - Contabilidade Empresarial - Gestão de Pessoas - Gestão Financeira - Análise de Dados e Indicadores - Administração Pública - Gestão de Projetos
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Desenvolvedor Full Stack 
+CONHECIMENTOS Frameworks React - JavaScript - Testes Automatizados - SQL - Python - CSS - Frameworks Django - Metodologias Ágeis Scrum - DevOps - Paradigmas de Programação - Frameworks Flask
+

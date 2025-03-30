@@ -1,0 +1,71 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Gestor de Contratos 
+CONHECIMENTOS Ética e Responsabilidade Corporativa
+Gestão Financeira
+Gestão de Pessoas
+Logística e Cadeia de Suprimentos
+Administração Pública
+Marketing e Vendas
+Análise de Dados e Indicadores
+Inovação e Transformação Digital
+Metodologias Ágeis Kanban
+Empreendedorismo
+Contabilidade Empresarial
+Negociação e Tomada de Decisão
+Metodologias Ágeis Scrum
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Tester/QA (Quality Assurance) 
+CONHECIMENTOS APIs REST
+Git/GitHub
+Python
+JavaScript
+Frameworks Django
+HTML
+Metodologias Ágeis Scrum
+Frameworks Flask
+DevOps
+Algoritmos e Estruturas de Dados
+Cloud Computing
+SQL
+Paradigmas de Programação
+Docker/Kubernetes
+Segurança da Informação
+Frameworks React
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Vitória Fogaça 
+IDADE 
+25
+EMAIL 
+joao-pedromoraes@example.com 
+CIDADE 
+Pereira
+ENDEREÇO 
+Residencial Dias
+Bonsucesso
+28218800 Azevedo / SE
+ 
+HABILIDADES
+
+Criativo
+Organizado
+Comunicativo
+Focado
+Responsável
+Participativo
+Pontual
+Liderança
+ 

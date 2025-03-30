@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Theodoro Rodrigues 
+IDADE: 30
+EMAIL: alice73@example.org 
+CIDADE: Casa Grande de Ramos
+ENDEREÇO: Travessa de da Luz, 56
+Barroca
+50974591 Silva / AL
+ 
+HABILIDADES
+
+Liderança - Resiliente - Proativo - Criativo - Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS Cloud Computing - Git/GitHub - Python - Docker/Kubernetes - Paradigmas de Programação - APIs REST
+

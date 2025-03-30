@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS JavaScript - Frameworks React - HTML - Frameworks Flask - Cloud Computing - Metodologias Ágeis Kanban - CSS - Metodologias Ágeis Scrum - APIs REST - Segurança da Informação - Git/GitHub - Frameworks Django - Testes Automatizados - Algoritmos e Estruturas de Dados - NoSQL - SQL
+
+TEMPO DE SERVIÇO: 20 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - APIs REST - Docker/Kubernetes - Frameworks Flask - Cloud Computing - Git/GitHub - Paradigmas de Programação - Metodologias Ágeis Kanban - SQL
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. Otávio Pimenta 
+IDADE: 55
+EMAIL: joao-lucas42@example.net 
+CIDADE: da Cunha
+ENDEREÇO: Favela Sarah Fonseca, 8
+Outro
+83986449 Nogueira das Flores / RR
+ 
+HABILIDADES
+
+Criativo - Colaborativo - Liderança - Educado - Focado - Organizado - Resiliente - Participativo - Empático - Proativo - Comunicativo - Adaptável - Trabalho em equipe - Responsável - Pontual
+ 

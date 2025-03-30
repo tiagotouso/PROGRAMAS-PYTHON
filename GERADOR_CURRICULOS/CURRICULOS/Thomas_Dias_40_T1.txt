@@ -1,0 +1,50 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Thomas Dias 
+IDADE 
+40
+EMAIL 
+tnogueira@example.net 
+CIDADE 
+Albuquerque Grande
+ENDEREÇO 
+Chácara de Monteiro, 47
+Sagrada Família
+78605-450 Silveira da Prata / RR
+ 
+HABILIDADES
+
+Pontual
+Colaborativo
+Proativo
+Participativo
+Liderança
+Resiliente
+Empático
+Educado
+Focado
+Comunicativo
+Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Desenvolvedor Frontend 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Metodologias Ágeis Scrum
+Algoritmos e Estruturas de Dados
+Git/GitHub
+Python
+Frameworks Django
+HTML
+Testes Automatizados
+SQL
+Cloud Computing
+DevOps
+

@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Sra. Lavínia Gonçalves 
+IDADE: 30
+EMAIL: josue02@example.com 
+CIDADE: Fonseca da Praia
+ENDEREÇO: Praça de Vargas, 79
+Graça
+27837-240 da Paz de Cavalcante / RJ
+ 
+HABILIDADES
+
+Pontual - Focado - Liderança - Educado - Responsável - Adaptável - Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Arquiteto de Soluções 
+CONHECIMENTOS Python - CSS - Testes Automatizados - Metodologias Ágeis Kanban - NoSQL - SQL - Segurança da Informação - Frameworks Django - APIs REST
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Git/GitHub - Frameworks React - APIs REST - Cloud Computing - NoSQL
+

@@ -1,0 +1,55 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Desenvolvedor de Jogos 
+CONHECIMENTOS Frameworks React
+Cloud Computing
+Python
+Algoritmos e Estruturas de Dados
+HTML
+Frameworks Django
+APIs REST
+SQL
+Testes Automatizados
+Git/GitHub
+Segurança da Informação
+CSS
+Docker/Kubernetes
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dra. Olívia Araújo 
+IDADE 
+25
+EMAIL 
+ottogoncalves@example.net 
+CIDADE 
+Pastor de Goiás
+ENDEREÇO 
+Trevo Fogaça, 80
+Corumbiara
+34385445 da Rocha / SE
+ 
+HABILIDADES
+
+Resiliente
+Responsável
+Focado
+Organizado
+Comunicativo
+Trabalho em equipe
+Colaborativo
+Pontual
+Empático
+Educado
+Liderança
+Criativo
+Participativo
+ 

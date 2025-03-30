@@ -1,0 +1,43 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Gabriela Mendonça 
+IDADE 
+40
+EMAIL 
+fbarros@example.com 
+CIDADE 
+Rezende
+ENDEREÇO 
+Quadra de Moura, 778
+São Pedro
+13532353 Pacheco / PB
+ 
+HABILIDADES
+
+Educado
+Pontual
+Responsável
+Adaptável
+Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Analista de Suporte Técnico 
+CONHECIMENTOS Segurança da Informação
+Frameworks Flask
+Docker/Kubernetes
+Algoritmos e Estruturas de Dados
+Paradigmas de Programação
+Testes Automatizados
+SQL
+Python
+Metodologias Ágeis Scrum
+Metodologias Ágeis Kanban
+

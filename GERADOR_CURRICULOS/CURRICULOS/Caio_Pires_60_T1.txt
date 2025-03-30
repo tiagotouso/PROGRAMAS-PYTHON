@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Caio Pires 
+IDADE: 60
+EMAIL: vicentemendes@example.net 
+CIDADE: Borges de Viana
+ENDEREÇO: Loteamento da Cunha, 2
+Vila Nossa Senhora Do Rosário
+78254-548 Albuquerque / RR
+ 
+HABILIDADES
+
+Adaptável - Participativo - Comunicativo - Responsável - Educado - Criativo - Trabalho em equipe
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Analista de Recursos Humanos 
+CONHECIMENTOS Gestão Financeira - Contabilidade Empresarial - Liderança e Gestão de Equipes - Customer Success e Experiência do Cliente - Gestão de Projetos - Planejamento Estratégico - Direito Empresarial
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS APIs REST - JavaScript - DevOps - HTML - NoSQL - Frameworks React - Segurança da Informação - CSS - Algoritmos e Estruturas de Dados
+

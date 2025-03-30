@@ -1,0 +1,58 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Vicente Barros 
+IDADE 
+50
+EMAIL 
+ottoborges@example.com 
+CIDADE 
+da Cunha de Goiás
+ENDEREÇO 
+Favela Pacheco, 76
+Beija Flor
+06787-733 Rodrigues / CE
+ 
+HABILIDADES
+
+Focado
+Responsável
+Comunicativo
+Proativo
+Adaptável
+Educado
+Organizado
+Criativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Administrador de Banco de Dados (DBA) 
+CONHECIMENTOS Frameworks Django
+Segurança da Informação
+SQL
+JavaScript
+CSS
+Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Compliance Officer 
+CONHECIMENTOS Atuação em Audiências
+Elaboração de Contratos
+Direito Penal
+Tecnologia e Direito Digital
+Direito Civil
+Jurisprudência
+Código de Processo Civil
+Ética e Deontologia Jurídica
+Direito Empresarial
+Negociação e Mediação
+Legislação Atualizada
+

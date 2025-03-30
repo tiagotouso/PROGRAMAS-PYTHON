@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maitê Rodrigues 
+IDADE: 40
+EMAIL: martinsdavi@example.net 
+CIDADE: Ramos de Lima
+ENDEREÇO: Conjunto da Conceição, 82
+Juliana
+43269-680 Martins do Norte / CE
+ 
+HABILIDADES
+
+Responsável - Empático - Comunicativo - Trabalho em equipe - Criativo - Organizado - Focado - Adaptável - Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS NoSQL - SQL - HTML - Frameworks Flask - Docker/Kubernetes - Metodologias Ágeis Kanban - Testes Automatizados - Git/GitHub - DevOps - Segurança da Informação - Metodologias Ágeis Scrum - JavaScript - Frameworks Django - Python - CSS - Paradigmas de Programação - Cloud Computing - Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Analista de Business Intelligence (BI) 
+CONHECIMENTOS JavaScript - Git/GitHub - Segurança da Informação - Frameworks Django - Frameworks Flask - NoSQL - CSS - Metodologias Ágeis Kanban - Cloud Computing - HTML - Frameworks React - DevOps - SQL - APIs REST - Testes Automatizados - Docker/Kubernetes - Algoritmos e Estruturas de Dados
+

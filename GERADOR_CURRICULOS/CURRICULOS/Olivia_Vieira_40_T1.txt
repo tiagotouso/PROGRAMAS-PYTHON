@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Olivia Vieira 
+IDADE: 40
+EMAIL: macedorebeca@example.org 
+CIDADE: Vieira da Serra
+ENDEREÇO: Setor Duarte, 9
+Vila São Rafael
+17689-515 Caldeira de Azevedo / RN
+ 
+HABILIDADES
+
+Trabalho em equipe - Organizado - Comunicativo - Colaborativo - Pontual - Proativo - Educado - Criativo - Responsável - Participativo - Focado - Empático - Adaptável - Liderança
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Site Reliability Engineer (SRE) 
+CONHECIMENTOS Testes Automatizados - Paradigmas de Programação - Frameworks Django - Python - HTML - SQL - Docker/Kubernetes - Frameworks Flask
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Analista Financeiro 
+CONHECIMENTOS Liderança e Gestão de Equipes - Logística e Cadeia de Suprimentos - Gestão de Pessoas - Metodologias Ágeis Scrum - Customer Success e Experiência do Cliente - Planejamento Estratégico
+

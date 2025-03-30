@@ -1,0 +1,78 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Hellena Vieira 
+IDADE 
+50
+EMAIL 
+sousagabrielly@example.net 
+CIDADE 
+Leão de Câmara
+ENDEREÇO 
+Recanto de Abreu, 519
+Graça
+52508-190 Almeida de Rocha / RR
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Desenvolvedor Backend 
+CONHECIMENTOS Frameworks Django
+DevOps
+Python
+Metodologias Ágeis Kanban
+Testes Automatizados
+JavaScript
+Frameworks React
+SQL
+Git/GitHub
+CSS
+Docker/Kubernetes
+HTML
+Metodologias Ágeis Scrum
+NoSQL
+Cloud Computing
+APIs REST
+Segurança da Informação
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+Frameworks Flask
+
+TEMPO DE SERVIÇO: 
+6 anos 
+CARGO 
+Procurador 
+CONHECIMENTOS Elaboração de Contratos
+Tecnologia e Direito Digital
+Negociação e Mediação
+Código de Processo Civil
+Direito Civil
+Direito Tributário
+Ética e Deontologia Jurídica
+Direito Constitucional
+Código de Processo Penal
+Jurisprudência
+Gestão de Escritório de Advocacia
+Direito Administrativo
+Direito Ambiental
+Direito Penal
+
+ 
+HABILIDADES
+
+Focado
+Resiliente
+Comunicativo
+Colaborativo
+Criativo
+Pontual
+Trabalho em equipe
+Responsável
+Empático
+Adaptável
+Organizado

@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maysa Macedo 
+IDADE: 50
+EMAIL: mcamargo@example.org 
+CIDADE: Teixeira Alegre
+ENDEREÇO: Vale de Garcia, 77
+Santa Monica
+45808243 Vasconcelos da Mata / MA
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS APIs REST - Metodologias Ágeis Scrum - CSS - NoSQL - Frameworks Flask - Python - Metodologias Ágeis Kanban - Testes Automatizados - DevOps - Frameworks Django - SQL - Git/GitHub - Docker/Kubernetes - Cloud Computing - Frameworks React - Algoritmos e Estruturas de Dados
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Analista de Infraestrutura 
+CONHECIMENTOS Paradigmas de Programação - Segurança da Informação - Testes Automatizados - Python - Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Arbitro 
+CONHECIMENTOS Direito Tributário - Ética e Deontologia Jurídica - Direito Civil - Direito Empresarial - Negociação e Mediação - Direito Administrativo - Direito Constitucional - Direito Trabalhista - Elaboração de Contratos - Oratória e Argumentação Jurídica - Tecnologia e Direito Digital - Direito Ambiental - Legislação Atualizada - Gestão de Escritório de Advocacia - Escrita Jurídica - Código de Processo Civil - Atuação em Audiências
+
+ 
+HABILIDADES
+
+Criativo - Participativo - Responsável - Pontual - Educado - Liderança - Organizado - Empático - Trabalho em equipe

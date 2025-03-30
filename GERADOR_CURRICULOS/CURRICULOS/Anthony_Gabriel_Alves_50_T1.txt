@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Anthony Gabriel Alves 
+IDADE: 50
+EMAIL: manuelacavalcanti@example.com 
+CIDADE: Sampaio
+ENDEREÇO: Chácara de Silva, 981
+Lorena
+30601-477 Sousa / ES
+ 
+HABILIDADES
+
+Resiliente - Colaborativo - Educado - Criativo - Liderança - Trabalho em equipe - Adaptável
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Gestor de Facilities 
+CONHECIMENTOS Gestão de Pessoas - Customer Success e Experiência do Cliente - Liderança e Gestão de Equipes - Logística e Cadeia de Suprimentos - Administração Pública - Gestão de Projetos - Gestão da Qualidade - Empreendedorismo - Negociação e Tomada de Decisão - Metodologias Ágeis Scrum - Compliance e Governança Corporativa - Análise de Dados e Indicadores - Marketing e Vendas - Inovação e Transformação Digital - Ética e Responsabilidade Corporativa - Metodologias Ágeis Kanban - Contabilidade Empresarial - Gestão Financeira
+
+TEMPO DE SERVIÇO: 22 anos 
+CARGO: Scrum Master 
+CONHECIMENTOS Algoritmos e Estruturas de Dados - Metodologias Ágeis Kanban - Frameworks React - JavaScript - Testes Automatizados - Frameworks Flask - Git/GitHub - APIs REST - Segurança da Informação - CSS
+

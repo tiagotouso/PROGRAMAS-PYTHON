@@ -1,0 +1,31 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Yasmin Pires 
+IDADE: 60
+EMAIL: marcos-viniciusrodrigues@example.net 
+CIDADE: Alves Verde
+ENDEREÇO: Esplanada de Camargo, 4
+Santa Branca
+35476395 Pastor / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 24 anos 
+CARGO: Analista de Suporte Técnico 
+CONHECIMENTOS CSS - JavaScript - Paradigmas de Programação - Frameworks React - Metodologias Ágeis Kanban - Cloud Computing - Algoritmos e Estruturas de Dados - DevOps - Docker/Kubernetes - SQL - APIs REST - Frameworks Django - Metodologias Ágeis Scrum - NoSQL - Testes Automatizados - HTML - Python
+
+TEMPO DE SERVIÇO: 6 anos 
+CARGO: Advogado Civil 
+CONHECIMENTOS Direito Empresarial - Direito Constitucional - Oratória e Argumentação Jurídica - Tecnologia e Direito Digital - Direito Penal - Direito Tributário - Código de Processo Civil - Direito Trabalhista - Escrita Jurídica - Código de Processo Penal - Negociação e Mediação
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Product Manager (PM) 
+CONHECIMENTOS Frameworks Flask - Frameworks React - HTML - NoSQL - Segurança da Informação - Docker/Kubernetes - Algoritmos e Estruturas de Dados - SQL - Frameworks Django - Metodologias Ágeis Scrum - Cloud Computing - Python - Paradigmas de Programação - Testes Automatizados - APIs REST - DevOps - CSS - Metodologias Ágeis Kanban
+
+ 
+HABILIDADES
+
+Pontual - Trabalho em equipe - Comunicativo - Organizado - Colaborativo - Focado - Educado - Empático - Responsável - Adaptável - Liderança

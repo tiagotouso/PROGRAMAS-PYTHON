@@ -1,0 +1,57 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Cientista de Dados 
+CONHECIMENTOS Segurança da Informação
+Frameworks React
+JavaScript
+DevOps
+APIs REST
+HTML
+Python
+Frameworks Django
+Frameworks Flask
+Metodologias Ágeis Kanban
+CSS
+Docker/Kubernetes
+Testes Automatizados
+Algoritmos e Estruturas de Dados
+NoSQL
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+João Miguel das Neves 
+IDADE 
+30
+EMAIL 
+rcaldeira@example.net 
+CIDADE 
+Novaes
+ENDEREÇO 
+Ladeira Maria Liz Câmara, 59
+Aarão Reis
+81027-083 Correia / RO
+ 
+HABILIDADES
+
+Resiliente
+Organizado
+Participativo
+Educado
+Adaptável
+Responsável
+Colaborativo
+Pontual
+Criativo
+Comunicativo
+Empático
+Proativo
+Trabalho em equipe
+ 

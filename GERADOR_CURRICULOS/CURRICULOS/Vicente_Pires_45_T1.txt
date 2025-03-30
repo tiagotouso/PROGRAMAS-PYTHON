@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Vicente Pires 
+IDADE: 45
+EMAIL: ian48@example.org 
+CIDADE: Pires de Rocha
+ENDEREÇO: Setor Kamilly Castro, 78
+Monte Azul
+40292508 Aparecida de Araújo / RS
+ 
+HABILIDADES
+
+Liderança - Educado - Organizado - Resiliente - Pontual - Responsável - Adaptável - Colaborativo - Participativo - Focado - Trabalho em equipe - Empático - Criativo - Comunicativo - Proativo
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Tester/QA (Quality Assurance) 
+CONHECIMENTOS HTML - Cloud Computing - Git/GitHub - NoSQL - Frameworks React
+

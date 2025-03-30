@@ -1,0 +1,53 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Sophie Araújo 
+IDADE 
+45
+EMAIL 
+vitorgarcia@example.org 
+CIDADE 
+Souza do Norte
+ENDEREÇO 
+Setor Ramos, 523
+Boa Vista
+59972639 Alves da Serra / AM
+ 
+HABILIDADES
+
+Resiliente
+Criativo
+Proativo
+Liderança
+Comunicativo
+Responsável
+Organizado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Cloud Computing
+Git/GitHub
+APIs REST
+Testes Automatizados
+Frameworks Django
+Frameworks React
+Frameworks Flask
+Metodologias Ágeis Kanban
+Paradigmas de Programação
+CSS
+Algoritmos e Estruturas de Dados
+Docker/Kubernetes
+Python
+DevOps
+HTML
+Segurança da Informação
+Metodologias Ágeis Scrum
+SQL
+

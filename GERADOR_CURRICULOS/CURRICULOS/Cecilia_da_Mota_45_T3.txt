@@ -1,0 +1,32 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 4 anos 
+CARGO: Desenvolvedor de Jogos 
+CONHECIMENTOS NoSQL - Cloud Computing - Metodologias Ágeis Scrum - JavaScript - CSS - Frameworks Flask - Frameworks React - Git/GitHub - APIs REST - Testes Automatizados
+
+TEMPO DE SERVIÇO: 12 anos 
+CARGO: Gerente de Operações 
+CONHECIMENTOS Metodologias Ágeis Scrum - Direito Empresarial - Inovação e Transformação Digital - Logística e Cadeia de Suprimentos - Customer Success e Experiência do Cliente - Análise de Dados e Indicadores - Liderança e Gestão de Equipes - Contabilidade Empresarial - Gestão da Qualidade - Planejamento Estratégico - Negociação e Tomada de Decisão - Business Intelligence (BI) - Marketing e Vendas - Gestão de Pessoas - Ética e Responsabilidade Corporativa - Metodologias Ágeis Kanban - Compliance e Governança Corporativa - Gestão de Projetos - Gestão Financeira - Administração Pública - Empreendedorismo
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Advogado Civil 
+CONHECIMENTOS Direito Civil - Código de Processo Civil - Gestão de Escritório de Advocacia - Oratória e Argumentação Jurídica - Direito Administrativo - Direito Trabalhista - Direito Penal - Negociação e Mediação - Jurisprudência - Direito Tributário - Tecnologia e Direito Digital - Ética e Deontologia Jurídica - Elaboração de Contratos - Direito Ambiental
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Cecilia da Mota 
+IDADE: 45
+EMAIL: guerrabrayan@example.net 
+CIDADE: da Mata da Prata
+ENDEREÇO: Núcleo de Pinto, 3
+Mangueiras
+28064866 Silveira da Mata / ES
+ 
+HABILIDADES
+
+Colaborativo - Criativo - Focado - Liderança - Organizado
+ 

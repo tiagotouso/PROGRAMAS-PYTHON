@@ -1,0 +1,60 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Supervisor Administrativo 
+CONHECIMENTOS Direito Empresarial
+Planejamento Estratégico
+Administração Pública
+Business Intelligence (BI)
+Análise de Dados e Indicadores
+Compliance e Governança Corporativa
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Scrum Master 
+CONHECIMENTOS Algoritmos e Estruturas de Dados
+Frameworks Flask
+Python
+Metodologias Ágeis Kanban
+Cloud Computing
+Paradigmas de Programação
+HTML
+Frameworks Django
+Frameworks React
+NoSQL
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Matheus Correia 
+IDADE 
+40
+EMAIL 
+nrezende@example.org 
+CIDADE 
+da Paz
+ENDEREÇO 
+Núcleo Maya Novaes, 78
+Dom Joaquim
+16980092 Rios da Mata / SC
+ 
+HABILIDADES
+
+Educado
+Trabalho em equipe
+Criativo
+Resiliente
+Comunicativo
+Organizado
+Adaptável
+Responsável
+Proativo
+Empático
+ 

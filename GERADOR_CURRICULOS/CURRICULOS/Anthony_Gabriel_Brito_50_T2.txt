@@ -1,0 +1,49 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Anthony Gabriel Brito 
+IDADE 
+50
+EMAIL 
+rafaeladuarte@example.net 
+CIDADE 
+Abreu
+ENDEREÇO 
+Morro Ana Carolina Lima
+Vila Mantiqueira
+36234555 Andrade / PR
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+16 anos 
+CARGO 
+Engenheiro de Dados 
+CONHECIMENTOS CSS
+Python
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+DevOps
+Cloud Computing
+SQL
+Docker/Kubernetes
+Metodologias Ágeis Kanban
+
+ 
+HABILIDADES
+
+Colaborativo
+Liderança
+Comunicativo
+Focado
+Resiliente
+Organizado
+Participativo
+Responsável
+Proativo
+Educado
+Trabalho em equipe
+Empático

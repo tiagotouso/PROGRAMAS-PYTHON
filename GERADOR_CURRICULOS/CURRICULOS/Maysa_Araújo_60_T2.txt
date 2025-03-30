@@ -1,0 +1,76 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maysa Araújo 
+IDADE 
+60
+EMAIL 
+breno13@example.net 
+CIDADE 
+Azevedo da Praia
+ENDEREÇO 
+Favela Garcia, 7
+Dona Clara
+24116-600 Castro dos Dourados / PR
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Scrum Master 
+CONHECIMENTOS Docker/Kubernetes
+Frameworks Django
+Segurança da Informação
+NoSQL
+DevOps
+SQL
+Git/GitHub
+Metodologias Ágeis Kanban
+Paradigmas de Programação
+Algoritmos e Estruturas de Dados
+Python
+APIs REST
+Testes Automatizados
+Cloud Computing
+JavaScript
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Desenvolvedor Mobile 
+CONHECIMENTOS Segurança da Informação
+Python
+Paradigmas de Programação
+Metodologias Ágeis Kanban
+CSS
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Engenheiro de Machine Learning 
+CONHECIMENTOS Metodologias Ágeis Scrum
+Cloud Computing
+Docker/Kubernetes
+Frameworks React
+Segurança da Informação
+Paradigmas de Programação
+Git/GitHub
+Testes Automatizados
+JavaScript
+
+ 
+HABILIDADES
+
+Educado
+Responsável
+Participativo
+Empático
+Comunicativo
+Organizado
+Liderança
+Criativo
+Focado

@@ -1,0 +1,23 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Vitória Pereira 
+IDADE: 55
+EMAIL: franciscoalbuquerque@example.org 
+CIDADE: Carvalho
+ENDEREÇO: Largo Ana Laura Garcia, 206
+Alto Dos Pinheiros
+35511301 Rezende do Campo / PB
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 10 anos 
+CARGO: Arquiteto de Software 
+CONHECIMENTOS Paradigmas de Programação - JavaScript - Testes Automatizados - Python - Metodologias Ágeis Scrum - NoSQL
+
+ 
+HABILIDADES
+
+Participativo - Colaborativo - Adaptável - Pontual - Focado - Comunicativo - Empático - Proativo - Responsável - Educado - Trabalho em equipe

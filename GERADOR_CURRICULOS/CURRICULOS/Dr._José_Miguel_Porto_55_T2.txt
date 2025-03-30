@@ -1,0 +1,27 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME: Dr. José Miguel Porto 
+IDADE: 55
+EMAIL: heloisa64@example.net 
+CIDADE: Monteiro
+ENDEREÇO: Pátio João Vitor Novais, 11
+Túnel De Ibirité
+02298977 Cardoso / PR
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 14 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS Cloud Computing - Frameworks Flask - Docker/Kubernetes - Frameworks Django - Git/GitHub
+
+TEMPO DE SERVIÇO: 18 anos 
+CARGO: Assistente de Escritório 
+CONHECIMENTOS Gestão Financeira - Business Intelligence (BI) - Administração Pública - Marketing e Vendas - Análise de Dados e Indicadores - Negociação e Tomada de Decisão - Gestão de Projetos - Gestão de Pessoas - Metodologias Ágeis Kanban
+
+ 
+HABILIDADES
+
+Educado - Responsável - Criativo - Adaptável - Colaborativo - Organizado - Comunicativo

@@ -1,0 +1,55 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Dr. Dante Abreu 
+IDADE 
+50
+EMAIL 
+mourajuliana@example.org 
+CIDADE 
+Cardoso
+ENDEREÇO 
+Rodovia Henrique Freitas, 94
+Fernão Dias
+71782-384 Costela das Flores / RO
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+14 anos 
+CARGO 
+Analista Administrativo 
+CONHECIMENTOS Negociação e Tomada de Decisão
+Business Intelligence (BI)
+Análise de Dados e Indicadores
+Gestão de Pessoas
+Direito Empresarial
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Engenheiro de Cloud Computing 
+CONHECIMENTOS HTML
+Git/GitHub
+Metodologias Ágeis Kanban
+Algoritmos e Estruturas de Dados
+NoSQL
+JavaScript
+Metodologias Ágeis Scrum
+SQL
+Paradigmas de Programação
+
+ 
+HABILIDADES
+
+Resiliente
+Focado
+Colaborativo
+Comunicativo
+Participativo
+Empático
+Adaptável
+Proativo

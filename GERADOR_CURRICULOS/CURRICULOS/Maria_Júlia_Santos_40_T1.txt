@@ -1,0 +1,101 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Maria Júlia Santos 
+IDADE 
+40
+EMAIL 
+lopesbeatriz@example.com 
+CIDADE 
+Martins de Aparecida
+ENDEREÇO 
+Viela de Cardoso, 2
+Cidade Jardim
+01222237 da Luz / AP
+ 
+HABILIDADES
+
+Liderança
+Focado
+Empático
+Organizado
+Comunicativo
+Adaptável
+Colaborativo
+Participativo
+Trabalho em equipe
+Proativo
+Pontual
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+4 anos 
+CARGO 
+Analista Financeiro 
+CONHECIMENTOS Administração Pública
+Negociação e Tomada de Decisão
+Liderança e Gestão de Equipes
+Customer Success e Experiência do Cliente
+Análise de Dados e Indicadores
+Direito Empresarial
+Contabilidade Empresarial
+Logística e Cadeia de Suprimentos
+Metodologias Ágeis Kanban
+Ética e Responsabilidade Corporativa
+Gestão de Projetos
+Business Intelligence (BI)
+Empreendedorismo
+Marketing e Vendas
+Gestão de Pessoas
+Inovação e Transformação Digital
+Compliance e Governança Corporativa
+
+TEMPO DE SERVIÇO: 
+12 anos 
+CARGO 
+Analista de Infraestrutura 
+CONHECIMENTOS NoSQL
+Algoritmos e Estruturas de Dados
+Cloud Computing
+APIs REST
+JavaScript
+Paradigmas de Programação
+Segurança da Informação
+Metodologias Ágeis Kanban
+Testes Automatizados
+Docker/Kubernetes
+SQL
+Frameworks Flask
+Git/GitHub
+DevOps
+Frameworks Django
+HTML
+Python
+CSS
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Consultor de TI 
+CONHECIMENTOS Docker/Kubernetes
+HTML
+Paradigmas de Programação
+Git/GitHub
+Metodologias Ágeis Kanban
+NoSQL
+SQL
+Testes Automatizados
+APIs REST
+Algoritmos e Estruturas de Dados
+DevOps
+JavaScript
+Frameworks React
+CSS
+Python
+Cloud Computing
+Segurança da Informação
+

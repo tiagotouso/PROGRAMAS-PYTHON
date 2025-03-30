@@ -1,0 +1,59 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Aurora da Conceição 
+IDADE 
+40
+EMAIL 
+pleao@example.org 
+CIDADE 
+Costela de Câmara
+ENDEREÇO 
+Viela Casa Grande, 5
+Copacabana
+82362216 da Rosa / PE
+ 
+HABILIDADES
+
+Comunicativo
+Criativo
+Empático
+Pontual
+Proativo
+Trabalho em equipe
+Focado
+Colaborativo
+Adaptável
+Participativo
+Educado
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+18 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Python
+Algoritmos e Estruturas de Dados
+NoSQL
+Metodologias Ágeis Scrum
+Docker/Kubernetes
+Cloud Computing
+Segurança da Informação
+Paradigmas de Programação
+SQL
+DevOps
+Metodologias Ágeis Kanban
+HTML
+CSS
+Frameworks Django
+Frameworks Flask
+Git/GitHub
+JavaScript
+APIs REST
+Frameworks React
+Testes Automatizados
+

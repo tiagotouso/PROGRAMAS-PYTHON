@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 16 anos 
+CARGO: Engenheiro de Dados 
+CONHECIMENTOS APIs REST - Docker/Kubernetes - Testes Automatizados - NoSQL - Git/GitHub - Paradigmas de Programação - Metodologias Ágeis Kanban - HTML - Metodologias Ágeis Scrum - Algoritmos e Estruturas de Dados
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Léo Barros 
+IDADE: 45
+EMAIL: emillyda-mota@example.org 
+CIDADE: Garcia
+ENDEREÇO: Fazenda de Leão, 28
+Serra Verde
+65334-439 Vargas de Goiás / MG
+ 
+HABILIDADES
+
+Liderança - Participativo - Adaptável - Comunicativo - Organizado - Colaborativo - Responsável - Educado - Empático - Resiliente - Focado - Proativo - Trabalho em equipe - Criativo - Pontual
+ 

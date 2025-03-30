@@ -1,0 +1,55 @@
+CURRICÚLO
+
+
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Kaique Rocha 
+IDADE 
+40
+EMAIL 
+alexiaduarte@example.net 
+CIDADE 
+Lopes do Galho
+ENDEREÇO 
+Viela Lopes, 33
+Padre Eustáquio
+08684506 Peixoto / DF
+ 
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Engenheiro de Software 
+CONHECIMENTOS Segurança da Informação
+Frameworks Flask
+Frameworks React
+Docker/Kubernetes
+Metodologias Ágeis Kanban
+Git/GitHub
+Metodologias Ágeis Scrum
+HTML
+CSS
+Paradigmas de Programação
+DevOps
+JavaScript
+Algoritmos e Estruturas de Dados
+Python
+APIs REST
+NoSQL
+Cloud Computing
+SQL
+Frameworks Django
+Testes Automatizados
+
+ 
+HABILIDADES
+
+Proativo
+Criativo
+Colaborativo
+Educado
+Resiliente
+Responsável
+Liderança

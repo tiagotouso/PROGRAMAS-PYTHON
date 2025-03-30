@@ -1,0 +1,24 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Desenvolvedor Backend 
+CONHECIMENTOS Frameworks Flask - Testes Automatizados - HTML - JavaScript - Docker/Kubernetes
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Vitória Melo 
+IDADE: 30
+EMAIL: barroshenrique@example.net 
+CIDADE: Guerra do Norte
+ENDEREÇO: Distrito Sá, 24
+Estrela
+21180-712 da Costa / PA
+ 
+HABILIDADES
+
+Empático - Colaborativo - Adaptável - Responsável - Educado - Proativo - Resiliente - Participativo
+ 

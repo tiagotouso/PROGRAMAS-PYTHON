@@ -1,0 +1,28 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 8 anos 
+CARGO: Arquiteto de Soluções 
+CONHECIMENTOS Paradigmas de Programação - Frameworks Django - Frameworks Flask - APIs REST - Metodologias Ágeis Scrum - SQL - Git/GitHub - HTML - NoSQL - JavaScript - Testes Automatizados - CSS - Frameworks React - Segurança da Informação - DevOps
+
+TEMPO DE SERVIÇO: 2 anos 
+CARGO: Especialista em Cibersegurança 
+CONHECIMENTOS SQL - HTML - NoSQL - Frameworks Django - Docker/Kubernetes - Python - Metodologias Ágeis Scrum - Metodologias Ágeis Kanban - DevOps - Cloud Computing - Frameworks Flask - Paradigmas de Programação - CSS - APIs REST - Algoritmos e Estruturas de Dados - Testes Automatizados - Git/GitHub
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME: Maria Flor Pastor 
+IDADE: 30
+EMAIL: costelamaria-julia@example.net 
+CIDADE: Novais de Vieira
+ENDEREÇO: Estrada da Cruz, 81
+Goiania
+02127-769 das Neves de Silveira / BA
+ 
+HABILIDADES
+
+Focado - Adaptável - Pontual - Educado - Liderança - Empático - Colaborativo - Responsável - Trabalho em equipe
+ 

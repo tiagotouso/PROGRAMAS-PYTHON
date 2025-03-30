@@ -1,0 +1,82 @@
+CURRICÚLO
+
+
+PROFISSÕES
+
+TEMPO DE SERVIÇO: 
+10 anos 
+CARGO 
+Supervisor Administrativo 
+CONHECIMENTOS Metodologias Ágeis Kanban
+Negociação e Tomada de Decisão
+Marketing e Vendas
+Logística e Cadeia de Suprimentos
+Gestão de Pessoas
+
+TEMPO DE SERVIÇO: 
+2 anos 
+CARGO 
+Engenheiro de Machine Learning 
+CONHECIMENTOS Frameworks Django
+Segurança da Informação
+Frameworks React
+APIs REST
+Paradigmas de Programação
+Metodologias Ágeis Scrum
+Testes Automatizados
+Python
+NoSQL
+Metodologias Ágeis Kanban
+Git/GitHub
+Frameworks Flask
+SQL
+Cloud Computing
+HTML
+
+TEMPO DE SERVIÇO: 
+8 anos 
+CARGO 
+Analista de Dados 
+CONHECIMENTOS Git/GitHub
+Frameworks Flask
+Segurança da Informação
+HTML
+Testes Automatizados
+Metodologias Ágeis Kanban
+DevOps
+Metodologias Ágeis Scrum
+
+ 
+INFORMAÇÕES PESSOAIS
+
+NOME 
+Calebe Casa Grande 
+IDADE 
+50
+EMAIL 
+uteixeira@example.org 
+CIDADE 
+da Paz
+ENDEREÇO 
+Área Carolina Costela, 75
+Monte São José
+72352972 Rezende de Moreira / MT
+ 
+HABILIDADES
+
+Responsável
+Trabalho em equipe
+Criativo
+Focado
+Empático
+Proativo
+Organizado
+Adaptável
+Comunicativo
+Pontual
+Liderança
+Colaborativo
+Participativo
+Educado
+Resiliente
+ 
